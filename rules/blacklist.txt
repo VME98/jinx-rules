@@ -873,7 +873,6 @@ zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
 1rtb.com
 a.market.xiaomi.com
-ad.gameley.com
 adintl.cn
 adx.adwangmai.com
 data.hicloud.com
@@ -901,7 +900,6 @@ appcloud2.zhihu.com
 appcloud.zhihu.com
 mqtt.zhihu.com
 sugar.zhihu.com
-szbdyd.com
 mcdn.bilivideo.cn
 imp.voiceads.cn
 zhihu.com.eo.dnse0.com
@@ -915,9 +913,6 @@ d.kugou.com
 ins-u5twfbbu.ias.tencent-cloud.net
 xindai.duxiaoman.com
 ad.bdstatic.com
-mobads.baidu.com
-mobads-logs.baidu.com
-union.baidu.com
 vod-license-m.volccdn.com
 license.vod2.myqcloud.com
 vod-license-b.volccdn.com
@@ -929,7 +924,6 @@ adx.anythinktech.com
 impdsp.meituan.com
 video4-x.pddpic.com
 sdk.open.talk.gepush.com
-adashxgc.ut.taobao.com
 ad.xiaohongshu.com
 neptune-api.volces.com
 disp-qryapi.3g.qq.com
@@ -962,7 +956,6 @@ cactus.jd.com
 m.ad.jd.com
 ad.jd.com
 ad.jdfcloud.com
-dsp-x.jd.com
 zlink.ugsdk.cn.queniuiq.com
 dgstatic.jd.com
 loggw-ex.alipay.com
@@ -981,19 +974,14 @@ wpk-hb3c-lbg-2.ude.effirst.com
 ads.ximalaya.com
 www.qchannel01.cn
 tab.volces.com.c.dsa.cdnbuild.net
-video4-x.pddpic.com
-sdk.open.talk.gepush.com
 ios.rqd.qq.com
 f5ie8y7l.dayugslb.com
-adashxgc.ut.taobao.com
 adx.zuoyebang.com
 mssdk.volces.com.queniusz.com
 log.volces.com
 rtc.volces.com
-toblog.ctobsnssdk.com
 afd.baidu.com
 info.tuisong.baidu.com
-dxp.baidu.com
 dxp.e.shifen.com
 a.shifen.com
 dypnsapi.aliyuncs.com

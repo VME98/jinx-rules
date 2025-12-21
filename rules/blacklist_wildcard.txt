@@ -56,3 +56,4 @@ webcast-open.douyin.*
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com
+*.alibabausercontent.*

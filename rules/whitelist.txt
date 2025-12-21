@@ -56,3 +56,6 @@ qidian.com
 api-unionid.meituan.com
 httpdns.meituan.com
 newclient.map.baidu.com
+vv.video.qq.com
+info4.video.qq.com
+info6.video.qq.com
