@@ -34,5 +34,4 @@
 *.ksyunv5.com
 *.gccdn.net
 *.hdlvcloud.ks-cdn.com
-*.video.qq.com
 *.wagbridge.alsc-prd.tanx.com
