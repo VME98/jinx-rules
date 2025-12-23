@@ -6,7 +6,6 @@
 *.inkuai.com
 *.zztfly.com
 *.uyunad.com
-*.vzuu.com
 *.beacon.com
 *.kunlunno.com
 *.admarvel.*
@@ -59,3 +58,5 @@ broker.tips2.gz.tencent.com
 *.ugsdk.cn
 *.markiapp.com
 *.alibabausercontent.*
+*.qtaeixd.com
+*.fqnovelvod.com

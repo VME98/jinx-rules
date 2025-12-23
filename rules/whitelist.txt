@@ -23,6 +23,8 @@ punch.p2p.qq.com
 v6-accvideo.wns.qq.com
 alipay.com
 alipayobjects.com
+mdap.alipay.com
+amdc.alipay.com
 unionpay.com
 95516.com
 cdnjs.cloudflare.com
