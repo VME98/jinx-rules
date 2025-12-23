@@ -153,6 +153,10 @@ ali-ad.a.yximgs.com
 ali-p2p-v2.pull.yximgs.com
 alicoccdncnc-xn.inter.71edge.com
 alicoccdnct-xn.inter.71edge.com
+alibabachengdun.com
+alibabachengdun.net
+mum.alibabachengdun.com
+mum.alibabachengdun.net
 alog.umeng.com
 alogus.umeng.com
 als.baidu.com

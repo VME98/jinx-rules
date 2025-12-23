@@ -6,7 +6,6 @@
 *.inkuai.com
 *.zztfly.com
 *.uyunad.com
-*.s.vedcdnlb.com
 *.vzuu.com
 *.beacon.com
 *.kunlunno.com
@@ -52,6 +51,9 @@ adashx4yt.m.taobao.*
 adashx.ut.*
 webcast-open.douyin.*
 *.voiceads.*
+*.ias.tencent-cloud.net
+*.zhiyan.tencent-cloud.net
+broker.tips2.gz.tencent.com
 *.tanx.com
 *.mmstat.com
 *.ugsdk.cn

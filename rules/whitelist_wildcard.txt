@@ -20,6 +20,7 @@
 *.bytefcdn.com
 *.volcfcdndvs.com
 *.volcfcdndvs1.com
+*.vedcdnlb.com
 *.qcloudcdn.com
 *.qlivecdn.com
 *.qlivecdn.cn
