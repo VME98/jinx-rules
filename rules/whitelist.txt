@@ -21,10 +21,15 @@ p.l.qq.com
 stun.qqlive.qq.com
 punch.p2p.qq.com
 v6-accvideo.wns.qq.com
+vv.video.qq.com
+vv6.video.qq.com
 alipay.com
 alipayobjects.com
 mdap.alipay.com
 amdc.alipay.com
+loggw.alipaydns.com
+alihealth.taobao.com
+h5api.m.taobao.com
 unionpay.com
 95516.com
 cdnjs.cloudflare.com
@@ -41,6 +46,8 @@ outlook.live.com
 gmail.com
 dropbox.com
 onedrive.live.com
+m.iqiyipic.com
+referee.xiaohongshu.com
 qq.com
 taobao.com
 tmall.com

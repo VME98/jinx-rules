@@ -16,7 +16,6 @@
 *.tl88.net
 *.alikunlun.net
 *.alikunlun.com
-*.cdngslb.com
 *.bytefcdn.com
 *.volcfcdndvs.com
 *.volcfcdndvs1.com
@@ -35,4 +34,3 @@
 *.ksyunv5.com
 *.gccdn.net
 *.hdlvcloud.ks-cdn.com
-*.wagbridge.alsc-prd.tanx.com

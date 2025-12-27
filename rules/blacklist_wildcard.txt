@@ -7,7 +7,6 @@
 *.zztfly.com
 *.uyunad.com
 *.beacon.com
-*.kunlunno.com
 *.admarvel.*
 *.admaster.*
 *.adsage.*
@@ -50,7 +49,6 @@ adashx4yt.m.taobao.*
 adashx.ut.*
 webcast-open.douyin.*
 *.voiceads.*
-*.ias.tencent-cloud.net
 *.zhiyan.tencent-cloud.net
 broker.tips2.gz.tencent.com
 *.tanx.com
@@ -59,4 +57,7 @@ broker.tips2.gz.tencent.com
 *.markiapp.com
 *.alibabausercontent.*
 *.qtaeixd.com
-*.fqnovelvod.com
+*.siomxity.com
+*.cainiao.com.gds.alibabadns.com
+*.goofish.com.gds.alibabadns.com
+*.amap.com.gds.alibabadns.com
