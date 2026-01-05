@@ -920,7 +920,6 @@ ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
 acs.m.taobao.com
-guide-acs.m.taobao.com
 acs.m.goofish.com
 guide-acs.m.goofish.com
 acs.m.cainiao.com
