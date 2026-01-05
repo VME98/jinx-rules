@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "lastUpdate": "2025-12-27T08:10:35Z",
-  "blacklistCount": 1053,
-  "blacklistWildcardCount": 63,
-  "whitelistCount": 67,
-  "whitelistWildcardCount": 36
+  "version": "1.0.7",
+  "lastUpdate": "2026-01-05T15:05:24Z",
+  "blacklistCount": 1055,
+  "blacklistWildcardCount": 62,
+  "whitelistCount": 87,
+  "whitelistWildcardCount": 33
 }

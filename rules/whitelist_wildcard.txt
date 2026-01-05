@@ -20,11 +20,8 @@
 *.volcfcdndvs.com
 *.volcfcdndvs1.com
 *.vedcdnlb.com
-*.qcloudcdn.com
-*.qlivecdn.com
-*.qlivecdn.cn
-*.tdnsv5.com
-*.tdnslive1.cn
+*.xhscdn.com
+*.wagbridge.alsc-prd.tanx.com
 *.bcelive.com
 *.jomodns.com
 *.cdnhwc2.com

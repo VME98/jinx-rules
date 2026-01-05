@@ -58,6 +58,5 @@ broker.tips2.gz.tencent.com
 *.alibabausercontent.*
 *.qtaeixd.com
 *.siomxity.com
-*.cainiao.com.gds.alibabadns.com
-*.goofish.com.gds.alibabadns.com
-*.amap.com.gds.alibabadns.com
+*.queniubl.com.v3.tushuokeji.net
+cainiao-app-logs.*

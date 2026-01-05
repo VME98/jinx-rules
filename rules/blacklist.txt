@@ -262,6 +262,7 @@ ccc-x.jd.com
 ccs.umeng.com
 cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
+nb-ssp.oss-cn-beijing.aliyuncs.com
 cdn-f.adsmoloco.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn.aiclk.com
@@ -916,9 +917,10 @@ d.kugou.com
 ins-u5twfbbu.ias.tencent-cloud.net
 xindai.duxiaoman.com
 ad.bdstatic.com
-license.vod2.myqcloud.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
+acs.m.taobao.com
+guide-acs.m.taobao.com
 acs.m.goofish.com
 guide-acs.m.goofish.com
 acs.m.cainiao.com
@@ -969,6 +971,7 @@ ubtlog.ctrip.com
 license.vodglcdn.com
 cpush.ctrip.com
 ad.p3-sign.douyinpic.com
+p3-sign.douyinpic.com.queniusy.com
 tao.ad.tao.tengine.ingress.alibabacorp.com
 px.effirst.com
 bjimp.voiceads.cn
@@ -1038,7 +1041,6 @@ impression.biligame.com
 dsap.jd.com
 tracking.leiting.com
 imp-toutiao-data.37.com.cn
-m5.amap.com
 m5-x.amap.com
 startup.umetrip.com
 awaken.amap.com
