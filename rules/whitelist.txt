@@ -51,6 +51,9 @@ cdnjs.cloudflare.com
 unpkg.com
 jsdelivr.net
 cdn.jsdelivr.net
+fastly.jsdelivr.net
+gcore.jsdelivr.net
+raw.githubusercontent.com
 github.com
 githubusercontent.com
 gitlab.com
