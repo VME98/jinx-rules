@@ -1052,3 +1052,5 @@ y.zdmimg.com
 smbd.sm.cn
 amonsul.douban.com
 discardrp.umetrip.com
+dypnsapi-dualstack.aliyuncs.com
+httpdns.danuoyi.tbcache.com
