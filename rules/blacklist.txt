@@ -919,7 +919,6 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
-acs.m.taobao.com
 acs.m.goofish.com
 guide-acs.m.goofish.com
 acs.m.cainiao.com
@@ -1045,7 +1044,6 @@ startup.umetrip.com
 awaken.amap.com
 market.qunar.com
 ugapi.alipay.com
-msgacs.m.taobao.com
 api.smzdm.com
 qneimg.smzdm.com
 y.zdmimg.com
@@ -1054,3 +1052,6 @@ amonsul.douban.com
 discardrp.umetrip.com
 dypnsapi-dualstack.aliyuncs.com
 httpdns.danuoyi.tbcache.com
+wvcfg.alicdn.com.danuoyi.tbcache.com
+p0.meituan.net
+mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
