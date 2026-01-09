@@ -32,3 +32,5 @@
 *.gccdn.net
 *.hdlvcloud.ks-cdn.com
 *.10jqka.com.cn
+*.zijieapi.com
+*.toutiaoapi.com

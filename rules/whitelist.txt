@@ -91,3 +91,4 @@ info6.video.qq.com
 acs.m.taobao.com
 p0.meituan.net
 catdot.dianping.com
+aweme.snssdk.com
