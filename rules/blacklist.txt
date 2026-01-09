@@ -1053,5 +1053,6 @@ discardrp.umetrip.com
 dypnsapi-dualstack.aliyuncs.com
 httpdns.danuoyi.tbcache.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
-p0.meituan.net
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
+s3plus.sankuai.com
+httpdns.bilivideo.com

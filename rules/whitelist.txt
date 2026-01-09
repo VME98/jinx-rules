@@ -82,10 +82,12 @@ cloudflare-dns.com
 dns.alidns.com
 qidian.com
 api-unionid.meituan.com
-httpdns.meituan.com
 file.neixin.cn
 api.neixin.cn
+creditpay.meituan.com
 newclient.map.baidu.com
 info4.video.qq.com
 info6.video.qq.com
 acs.m.taobao.com
+p0.meituan.net
+catdot.dianping.com

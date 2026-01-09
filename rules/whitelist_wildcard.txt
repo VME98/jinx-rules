@@ -31,3 +31,4 @@
 *.ksyunv5.com
 *.gccdn.net
 *.hdlvcloud.ks-cdn.com
+*.10jqka.com.cn
