@@ -91,4 +91,12 @@ info6.video.qq.com
 acs.m.taobao.com
 p0.meituan.net
 catdot.dianping.com
+vcs.zijieapi.com
+polaris.zijieapi.com
+timon.zijieapi.com
+mon.zijieapi.com
+mon.toutiao.com
+mon.toutiaocloud.com
+tnc3-bjlgy.zijieapi.com
+tnc3-alisc1.zijieapi.com
 aweme.snssdk.com
