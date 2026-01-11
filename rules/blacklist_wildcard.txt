@@ -37,7 +37,6 @@
 *.miaozhen.*
 *.volceapplog.*
 *.a.shifen.*
-*.n.shifen.*
 *.ad.alibabacorp.*
 *.tianmu.*
 *.yingt.asia

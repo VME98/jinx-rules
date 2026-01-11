@@ -100,3 +100,4 @@ mon.toutiaocloud.com
 tnc3-bjlgy.zijieapi.com
 tnc3-alisc1.zijieapi.com
 aweme.snssdk.com
+xmaterial.tu.qq.com
