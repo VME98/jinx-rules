@@ -93,3 +93,4 @@ catdot.dianping.com
 tnc3-bjlgy.zijieapi.com
 xmaterial.tu.qq.com
 qnmob3.doubanio.com
+api.vip.miui.com
