@@ -1056,3 +1056,7 @@ wvcfg.alicdn.com.danuoyi.tbcache.com
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
 s3plus.sankuai.com
 httpdns.bilivideo.com
+nbfriend-mtop.cainiao.com
+msgacs.m.taobao.com
+security.snssdk.com
+tc.forward.douban.com
