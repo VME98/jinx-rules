@@ -92,3 +92,4 @@ p0.meituan.net
 catdot.dianping.com
 tnc3-bjlgy.zijieapi.com
 xmaterial.tu.qq.com
+qnmob3.doubanio.com

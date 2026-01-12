@@ -63,3 +63,4 @@ broker.tips2.gz.tencent.com
 cainiao-app-logs.*
 popunify-public-dualstack.*
 httpdns.*
+*.bytedance.com.queniurc.com

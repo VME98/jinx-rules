@@ -1060,3 +1060,6 @@ nbfriend-mtop.cainiao.com
 msgacs.m.taobao.com
 security.snssdk.com
 tc.forward.douban.com
+forward.douban.com
+mum.hzchengdun.com
+www.bytedance.com.queniurc.com
