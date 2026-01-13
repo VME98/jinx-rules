@@ -258,7 +258,6 @@ c.sayhi.360.cn
 canvas-cdn.gdt.qq.com
 catalog.fjwhcbsh.com
 cbjs.baidu.com
-ccc-x.jd.com
 ccs.umeng.com
 cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -432,7 +431,6 @@ images.outbrainimg.com
 images.pinduoduo.com
 imdns.hpplay.cn
 img-c.heytapimage.com
-img-x.jd.com
 img.adnyg.com.w.kunlungr.com
 img2.360buyimg.com
 impression-asia.chinaliftoff.io
@@ -847,7 +845,6 @@ widgets.outbrain.com
 widgets.pinterest.com
 wildcard.moatads.com.edgekey.net
 win.gdt.qq.com
-wn.x.jd.com
 ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
 wv.inner-active.mobi
@@ -1061,3 +1058,6 @@ msgacs.m.taobao.com
 security.snssdk.com
 mum.hzchengdun.com
 www.bytedance.com.queniurc.com
+beta-luna.douyin.com
+api5-lq.qishui.com
+conf5-lf.qishui.com
