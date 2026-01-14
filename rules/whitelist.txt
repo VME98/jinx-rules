@@ -94,3 +94,8 @@ tnc3-bjlgy.zijieapi.com
 xmaterial.tu.qq.com
 qnmob3.doubanio.com
 api.vip.miui.com
+log.zijieapi.com
+applog.zijieapi.com
+rtlog3-applog-lq.toutiaoapi.com
+log0-normal-lq.toutiaoapi.com
+polaris3-normal-lq.zijieapi.com
