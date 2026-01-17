@@ -36,7 +36,6 @@ alihealth.taobao.com
 h5api.m.taobao.com
 cainiao.com
 netflow-mtop.cainiao.com
-cn-acs.m.cainiao.com
 page.cainiao.com
 e2e-mtop.cainiao.com
 nbcps-mtop.cainiao.com
@@ -90,12 +89,8 @@ info4.video.qq.com
 info6.video.qq.com
 p0.meituan.net
 catdot.dianping.com
-tnc3-bjlgy.zijieapi.com
 xmaterial.tu.qq.com
 qnmob3.doubanio.com
 api.vip.miui.com
-log.zijieapi.com
-applog.zijieapi.com
-rtlog3-applog-lq.toutiaoapi.com
-log0-normal-lq.toutiaoapi.com
-polaris3-normal-lq.zijieapi.com
+gateway.kugou.com
+mpaywsa.ximalaya.com

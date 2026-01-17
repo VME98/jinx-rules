@@ -213,6 +213,7 @@ appcfg.v.qq.com
 applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
+log.zijieapi.com
 applovin.com
 appversion.115.com
 aqyad.com
@@ -501,7 +502,6 @@ log.tagtic.cn
 log.tbs.qq.com
 log.vcgame.cn
 log.web.kugou.com
-log.zijieapi.com
 log1.cmpassport.com
 logbak.hicloud.com
 logrcv.aiclk.com
@@ -953,6 +953,7 @@ e-ad-monitor.huya.com
 va.huya.com
 p2p.huya.com
 push.douban.com
+mum.hzchengdun.net
 ins-5776sx9h.ias.tencent-cloud.net
 cactus.jd.com
 m.ad.jd.com
@@ -1041,9 +1042,6 @@ startup.umetrip.com
 awaken.amap.com
 market.qunar.com
 ugapi.alipay.com
-api.smzdm.com
-qneimg.smzdm.com
-y.zdmimg.com
 smbd.sm.cn
 amonsul.douban.com
 discardrp.umetrip.com
@@ -1057,7 +1055,11 @@ nbfriend-mtop.cainiao.com
 msgacs.m.taobao.com
 security.snssdk.com
 mum.hzchengdun.com
+frodo.douban.com
 www.bytedance.com.queniurc.com
-beta-luna.douyin.com
-api5-lq.qishui.com
-conf5-lf.qishui.com
+https://ynuf.aliapp.org/savewb.json
+https://ynuf.aliapp.org/savewb.json?
+frontier100-normal.zijieapi.com
+s3.meituan.net
+pitaya.bytedance.com
+log5-lf.qishui.com

@@ -35,7 +35,6 @@
 *.pangolin-dsp-toutiao.*
 *.miaozhen.*
 *.volceapplog.*
-*.a.shifen.*
 *.ad.alibabacorp.*
 *.tianmu.*
 *.yingt.asia
