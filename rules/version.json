@@ -1,8 +1,8 @@
 {
-  "version": "2.0.8",
-  "lastUpdate": "2026-01-17T14:05:04Z",
-  "blacklistCount": 1065,
+  "version": "2.0.9",
+  "lastUpdate": "2026-01-21T14:14:41Z",
+  "blacklistCount": 1158,
   "blacklistWildcardCount": 64,
-  "whitelistCount": 96,
+  "whitelistCount": 179,
   "whitelistWildcardCount": 35
 }
