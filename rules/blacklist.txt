@@ -902,8 +902,11 @@ appcloud.zhihu.com
 mqtt.zhihu.com
 sugar.zhihu.com
 imp.voiceads.cn
+zhihu.com.eo.dnse0.com
+api.zhihu.com.eo.dnse0.com
 gslb-dsa-tc.zhihu.com
 gslb-dsa.zhihu.com
+api.zhihu.com
 webcast-open.douyin.com.bytedns1.com
 webcast-open.douyin.com.queniuyk.com
 apmplus.volces.com
@@ -913,6 +916,7 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
+acs.m.taobao.com
 acs.m.goofish.com
 guide-acs.m.goofish.com
 acs.m.cainiao.com
@@ -1156,3 +1160,7 @@ webcast-open.douyin.com
 xdcs.c.ximalaya.com
 xima-ad.com
 yingxiao.ximalaya.com
+vdn6-1.vzuu.com
+ads-tracker.yourongsj.com
+mdn.alipayobjects.com.danuoyi.tbcache.com
+gw.alipayobjects.com.danuoyi.tbcache.com
