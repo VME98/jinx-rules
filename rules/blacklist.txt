@@ -153,8 +153,6 @@ ali-ad.a.yximgs.com
 ali-p2p-v2.pull.yximgs.com
 alicoccdncnc-xn.inter.71edge.com
 alicoccdnct-xn.inter.71edge.com
-alibabachengdun.com
-alibabachengdun.net
 mum.alibabachengdun.com
 mum.alibabachengdun.net
 alog.umeng.com
@@ -551,7 +549,7 @@ ms.applovin.com
 ms.applvn.com
 ms4.applovin.com
 ms4.applvn.com
-msdk.voiceads.cn
+mssdk.voiceads.cn
 mssdk.volces.com
 mssdk.zijieapi.com
 mtj.baidu.com
@@ -906,7 +904,6 @@ zhihu.com.eo.dnse0.com
 api.zhihu.com.eo.dnse0.com
 gslb-dsa-tc.zhihu.com
 gslb-dsa.zhihu.com
-api.zhihu.com
 webcast-open.douyin.com.bytedns1.com
 webcast-open.douyin.com.queniuyk.com
 apmplus.volces.com
@@ -917,10 +914,11 @@ ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
 acs.m.taobao.com
-acs.m.goofish.com
 guide-acs.m.goofish.com
+g-acs.m.goofish.com
 acs.m.cainiao.com
 guide-acs.m.cainiao.com
+g-acs.m.cainiao.com
 dg.k.jd.com
 adx.halomobi.com
 creative.feedsads.cn
@@ -1026,6 +1024,7 @@ pages-fast.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 i.snssdk.com
 lf.snssdk.com
+*.snssdk.*
 sdk-track.66mobi.com
 inner.shunchangzhixing.com
 static.shunchangzhixing.com
@@ -1044,7 +1043,6 @@ awaken.amap.com
 market.qunar.com
 ugapi.alipay.com
 smbd.sm.cn
-amonsul.douban.com
 discardrp.umetrip.com
 dypnsapi-dualstack.aliyuncs.com
 httpdns.danuoyi.tbcache.com
@@ -1053,10 +1051,8 @@ mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
 s3plus.sankuai.com
 httpdns.bilivideo.com
 nbfriend-mtop.cainiao.com
-msgacs.m.taobao.com
 security.snssdk.com
 mum.hzchengdun.com
-frodo.douban.com
 www.bytedance.com.queniurc.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
@@ -1112,7 +1108,6 @@ gdmf-ados.v.aaplimg.com
 gwm.taobao.com
 i.qchannel03.cn
 image.uczzd.cn
-img.xiaohongshu.com
 imgcps1.jd.com
 imgcps2.jd.com
 imgcps3.jd.com
@@ -1149,7 +1144,6 @@ track.ximalaya.com
 tracker.mv.72kjmb.com
 tracking.ximalaya.com
 union.jd.com
-vdn6.vzuu.com
 video-ad.jd.com
 vip.jiasule.org
 vod.300hu.com
@@ -1164,3 +1158,8 @@ vdn6-1.vzuu.com
 ads-tracker.yourongsj.com
 mdn.alipayobjects.com.danuoyi.tbcache.com
 gw.alipayobjects.com.danuoyi.tbcache.com
+app.biliapi.net
+api.biliapi.net
+api.biliapi.com
+api.bilibili.com
+orangefire.didistatic.com
