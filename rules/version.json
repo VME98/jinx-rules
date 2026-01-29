@@ -1,12 +1,12 @@
 {
-  "version": "2.1.2",
-  "lastUpdate": "2026-01-28T15:48:33Z",
+  "version": "2.1.3",
+  "lastUpdate": "2026-01-29T01:33:29Z",
   "blacklistCount": 1165,
   "blacklistWildcardCount": 63,
   "whitelistCount": 163,
   "whitelistWildcardCount": 35,
   "urlBlacklistPathsCount": 9,
   "urlBlacklistDomainPathsCount": 42,
-  "urlWhitelistPathsCount": 0,
+  "urlWhitelistPathsCount": 1,
   "mitmSkipDomainsCount": 19
 }
