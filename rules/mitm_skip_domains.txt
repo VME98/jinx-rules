@@ -20,3 +20,6 @@ tls-goofish.dingtalk.com
 *.walmartmobile.cn
 *.huawei.com
 *.vmall.com
+*.xiaohongshu.com
+*.ke.com
+*.lianjia.com

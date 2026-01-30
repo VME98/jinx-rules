@@ -7,4 +7,3 @@
 /app_start/ad
 /splash/show
 /bfs/fawkes
-/mtop.cainiao.guoguo.nbnetflow.ads.mshow.cn/
