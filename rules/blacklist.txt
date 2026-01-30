@@ -1023,7 +1023,6 @@ pages-fast.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 i.snssdk.com
 lf.snssdk.com
-*.snssdk.*
 sdk-track.66mobi.com
 inner.shunchangzhixing.com
 static.shunchangzhixing.com

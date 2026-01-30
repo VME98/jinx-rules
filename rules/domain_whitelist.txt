@@ -161,6 +161,7 @@ xmcdn.com
 xmly.com
 statichf.shihuocdn.cn
 tracker.didistatic.com
+spider-tracker.xiaohongshu.com
 *.github.com
 *.githubusercontent.com
 *.shouji.sogou.com

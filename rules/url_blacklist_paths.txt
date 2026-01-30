@@ -1,9 +1,1 @@
-/splash/
-/splash_ad/
-/openscreen/
-/open_screen/
-/startup_ad/
-/launch_ad/
-/app_start/ad
-/splash/show
-/bfs/fawkes
+
