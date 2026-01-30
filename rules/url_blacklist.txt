@@ -1,3 +1,13 @@
+/splash/
+/splash_ad/
+/openscreen/
+/open_screen/
+/startup_ad/
+/launch_ad/
+/app_start/ad
+/splash/show
+/bfs/fawkes
+/mtop.cainiao.guoguo.nbnetflow.ads.mshow.cn/
 https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://im-x.jd.com/dsp/
