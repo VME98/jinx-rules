@@ -26,10 +26,7 @@ https://app.bilibili.com/x/resource/fingerprint
 https://mall.bilibili.com/mall-c-search/app
 https://dataflow.biliapi.com/log
 https://data.bilibili.com/log/mobile
-https://i1.hdslb.com/bfs
-https://i0.hdslb.com/bfs
-https://s0.hdslb.com/bfs
-https://s1.hdslb.com/bfs
+https://api.bilibili.com/x/pd-proxy
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
