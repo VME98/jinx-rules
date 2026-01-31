@@ -39,7 +39,7 @@ https://dinamicx.alibabausercontent.com/pub
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
 /iflyad/deliverysystem/material/
-https://apimobile.meituan.com/prom/v2/
+https://apimobile.meituan.com/prom/v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://zhstatic.zhihu.com/brand-ad
 https://api.weibo.cn/2/client/launch
@@ -49,6 +49,9 @@ https://img3.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad
 https://mc.tencentmusic.com/sdk/ad
 https://oss.umetrip.com/fs/advert
-https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/
-https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn/
-https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.0
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
+https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
