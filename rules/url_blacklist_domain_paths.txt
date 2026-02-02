@@ -47,8 +47,12 @@ https://interface3.music.163.com/eapi/ad
 https://mc.tencentmusic.com/sdk/ad
 https://oss.umetrip.com/fs/advert
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn
+https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.close.reply.cn
+https://community-mtop.cainiao.com/gw/mtop.cainiao.guoguouser.live.activity.trigger.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.0
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
+https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
