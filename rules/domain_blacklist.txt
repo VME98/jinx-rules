@@ -913,7 +913,6 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
-acs.m.taobao.com
 guide-acs.m.goofish.com
 g-acs.m.goofish.com
 acs.m.cainiao.com
@@ -1159,6 +1158,10 @@ app.biliapi.net
 api.biliapi.net
 api.biliapi.com
 orangefire.didistatic.com
+brandvideo.biz.weibo.com
+adstrategy.biz.weibo.com
+adimg.uve.weibo.com
+api.iegadp.qq.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -1217,6 +1220,7 @@ broker.tips2.gz.tencent.com
 *.markiapp.com
 *.alibabausercontent.*
 *.qtaeixd.com
+*.fqnovelvod.com
 *.siomxity.com
 *.queniubl.com.v3.tushuokeji.net
 cainiao-app-logs.*

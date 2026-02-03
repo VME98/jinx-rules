@@ -3,6 +3,7 @@ https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
 https://im-x.jd.com/dsp/
 https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
+https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://i0.hdslb.com/bfs/fawkes/dd/prod/iphone.zip
 https://upos-sz-staticcos.bilivideo.com/appstaticboss
@@ -40,7 +41,9 @@ https://apimobile.meituan.com/prom/v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://zhstatic.zhihu.com/brand-ad
 https://api.weibo.cn/2/client/launch
+https://1249900002-0.m.ctrmi.cn/t/ad2
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
+https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad

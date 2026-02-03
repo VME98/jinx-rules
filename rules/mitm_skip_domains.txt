@@ -24,3 +24,4 @@ tls-goofish.dingtalk.com
 *.ke.com
 *.lianjia.com
 *.kzurl03.cn
+bike.meituan.com

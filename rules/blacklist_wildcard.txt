@@ -56,6 +56,7 @@ broker.tips2.gz.tencent.com
 *.markiapp.com
 *.alibabausercontent.*
 *.qtaeixd.com
+*.fqnovelvod.com
 *.siomxity.com
 *.queniubl.com.v3.tushuokeji.net
 cainiao-app-logs.*
