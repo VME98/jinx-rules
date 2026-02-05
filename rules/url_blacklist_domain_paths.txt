@@ -25,8 +25,6 @@ grpc.biliapi.net/bilibili.app.mine.v1.Mine/DeviceFeature
 grpc.biliapi.net/bilibili.api.ticket.v1.Ticket/GetTicket
 https://app.bilibili.com/x/resource/fingerprint
 https://mall.bilibili.com/mall-c-search/app
-https://dataflow.biliapi.com/log
-https://data.bilibili.com/log/mobile
 https://api.bilibili.com/x/pd-proxy
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
@@ -59,3 +57,4 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
+https://s3plus.meituan.net/v1/mss

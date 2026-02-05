@@ -913,6 +913,7 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
+acs.m.goofish.com
 guide-acs.m.goofish.com
 g-acs.m.goofish.com
 acs.m.cainiao.com
@@ -1140,6 +1141,7 @@ track.ximalaya.com
 tracker.mv.72kjmb.com
 tracking.ximalaya.com
 union.jd.com
+vdn6.vzuu.com
 video-ad.jd.com
 vip.jiasule.org
 vod.300hu.com
@@ -1162,6 +1164,9 @@ brandvideo.biz.weibo.com
 adstrategy.biz.weibo.com
 adimg.uve.weibo.com
 api.iegadp.qq.com
+1249900002-0.m.ctrmi.cn
+tuia-adx-web.tuia.cn
+http://tvax3.sinaimg.cn
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
@@ -1225,5 +1230,14 @@ broker.tips2.gz.tencent.com
 *.queniubl.com.v3.tushuokeji.net
 cainiao-app-logs.*
 popunify-public-dualstack.*
+httpdns.*
 *.bytedance.com.queniurc.com
-*.snssdk.com
+*.adkwai.*
+ad.us.sinaimg.cn
+tvax3.sinaimg.cn
+xs.gdt.qq.com
+ipv4.gdt.qq.com
+kadmimage.biz.weibo.com
+*.pangolin-sdk-toutiao.com
+*.pangolin-sdk-toutiao-b.com
+*.pangolin-sdk-toutiao1.com
