@@ -56,7 +56,6 @@ broker.tips2.gz.tencent.com
 *.markiapp.com
 *.alibabausercontent.*
 *.qtaeixd.com
-*.fqnovelvod.com
 *.siomxity.com
 *.queniubl.com.v3.tushuokeji.net
 cainiao-app-logs.*
@@ -75,6 +74,10 @@ adstrategy.biz.weibo.com
 bootpreload.uve.weibo.com
 kadmimage.biz.weibo.com
 brandvideo.biz.weibo.com
+*novelapp.fqnovelvod.com
 *.pangolin-sdk-toutiao.com
 *.pangolin-sdk-toutiao-b.com
 *.pangolin-sdk-toutiao1.com
+*item.ecombdimg.com
+*ad-sign.byteimg.com
+t.hs.lingjuad.com
