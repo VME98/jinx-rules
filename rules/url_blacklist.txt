@@ -10,6 +10,10 @@ https://upos-sz-staticcos.bilivideo.com/appstaticboss
 https://app.bilibili.com/x/v2/splash
 grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://i0.hdslb.com/bfs/fawkes/dd
+https://i0.hdslb.com/bfs/sycp/creative_img
+https://i1.hdslb.com/bfs/sycp/creative_img
+https://i2.hdslb.com/bfs/sycp/creative_img
+https://i3.hdslb.com/bfs/sycp/creative_img
 https://app.bilibili.com/x/resource/show/tab/v2
 grpc.biliapi.net/bilibili.app.resource.v1.Module/List
 grpc.biliapi.net/bilibili.app.mine.v1.Mine/DeviceFeature
@@ -29,11 +33,14 @@ https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
 /iflyad/deliverysystem/material/
 https://apimobile.meituan.com/prom/v2
+https://api.zhihu.com/commercial_api/launch_v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
+https://api.zhihu.com/commercial_api
 https://zhstatic.zhihu.com/brand-ad
 https://api.zhihu.com/slytherin/ad
 https://api.weibo.cn/2/client/launch
 https://1249900002-0.m.ctrmi.cn/t/ad2
+https://bootpreload.uve.weibo.com/v1/ad/preload
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://1244f00001-0.m.ctrmi.cn/t/ad2

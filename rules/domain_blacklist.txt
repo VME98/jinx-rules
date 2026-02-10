@@ -241,7 +241,6 @@ biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
-bootpreload.uve.weibo.com
 browser.events.data.msn.cn
 browser.events.data.msn.com
 browsercfg-drcn.cloud.dbankcloud.cn
@@ -891,14 +890,11 @@ oneid.gepush.com
 oneid.getui.net
 mantis.bayescom.com
 duga.zhihu.com
-bootrealtime.uve.weibo.com
 julang.taobao.com
 appcloud2.in.zhihu.com
 appcloud.in.zhihu.com
 appcloud2.zhihu.com
 appcloud.zhihu.com
-mqtt.zhihu.com
-sugar.zhihu.com
 imp.voiceads.cn
 zhihu.com.eo.dnse0.com
 api.zhihu.com.eo.dnse0.com
@@ -1161,7 +1157,9 @@ api.biliapi.net
 api.biliapi.com
 orangefire.didistatic.com
 brandvideo.biz.weibo.com
+bootrealtime.uve.weibo.com
 adstrategy.biz.weibo.com
+bootpreload.uve.weibo.com
 adimg.uve.weibo.com
 api.iegadp.qq.com
 1249900002-0.m.ctrmi.cn
@@ -1174,6 +1172,7 @@ http://tvax3.sinaimg.cn
 *.inkuai.com
 *.zztfly.com
 *.uyunad.com
+*.vzuu.com
 *.beacon.com
 *.admarvel.*
 *.admaster.*

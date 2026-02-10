@@ -16,6 +16,8 @@ tls-goofish.dingtalk.com
 *.bankcomm.com
 *.cmbchina.com
 *.pingan.com
+*.weibo.cn
+*.weibo.com
 *.video.qq.com
 *.walmartmobile.cn
 *.huawei.com

@@ -5,6 +5,7 @@
 *.inkuai.com
 *.zztfly.com
 *.uyunad.com
+*.vzuu.com
 *.beacon.com
 *.admarvel.*
 *.admaster.*
