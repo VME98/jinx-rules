@@ -1164,4 +1164,7 @@ adimg.uve.weibo.com
 api.iegadp.qq.com
 1249900002-0.m.ctrmi.cn
 tuia-adx-web.tuia.cn
-http://tvax3.sinaimg.cn
+tvax3.sinaimg.cn
+adcdn6.tencentmusic.com
+adcdn2.tencentmusic.com
+adcdn3.tencentmusic.com

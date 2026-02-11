@@ -1,3 +1,4 @@
+adcdn*.tencentmusic.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
 *-ad.wtzw.com*
