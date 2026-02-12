@@ -57,6 +57,9 @@ https://mall.bilibili.com/mall-c-search/app
 https://api.bilibili.com/x/pd-proxy
 https://api.bilibili.com/open
 https://api.bilibili.com/x/push/report
+https://api.bilibili.com/x/kv-frontend
+https://api.bilibili.com/x/internal/gaia-gateway/ExGetAxe
+https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
