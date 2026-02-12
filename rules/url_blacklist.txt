@@ -45,14 +45,16 @@ grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://i0.hdslb.com/bfs/fawkes/dd
 https://api.bilibili.com/x/vas_ads_open
 https://i0.hdslb.com/bfs/sycp/creative_img
+https://i0.hdslb.com/bfs/sycp
 https://i1.hdslb.com/bfs/sycp/creative_img
+https://i1.hdslb.com/bfs/sycp
 https://i2.hdslb.com/bfs/sycp/creative_img
+https://i2.hdslb.com/bfs/sycp
 https://i3.hdslb.com/bfs/sycp/creative_img
-https://app.bilibili.com/x/resource/show/tab/v2
+https://i3.hdslb.com/bfs/sycp
 grpc.biliapi.net/bilibili.app.resource.v1.Module/List
 grpc.biliapi.net/bilibili.app.mine.v1.Mine/DeviceFeature
 grpc.biliapi.net/bilibili.api.ticket.v1.Ticket/GetTicket
-https://app.bilibili.com/x/resource/fingerprint
 https://mall.bilibili.com/mall-c-search/app
 https://api.bilibili.com/x/pd-proxy
 https://api.bilibili.com/open
@@ -82,6 +84,8 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
+https://img1.doubanio.com/view/dale-online/dale_ad
+https://img2.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad
 https://mc.tencentmusic.com/sdk/ad
 https://oss.umetrip.com/fs/advert
