@@ -1050,7 +1050,6 @@ www.bytedance.com.queniurc.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
 frontier100-normal.zijieapi.com
-s3.meituan.net
 pitaya.bytedance.com
 log5-lf.qishui.com
 12413900.sched.legopic2-dk.tdnsv6.com
@@ -1178,6 +1177,7 @@ ad.us.sinaimg.cn
 xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
+trade-acs.m.taobao.com
 adcdn*.tencentmusic.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
