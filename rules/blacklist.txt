@@ -1047,6 +1047,7 @@ nbfriend-mtop.cainiao.com
 security.snssdk.com
 mum.hzchengdun.com
 www.bytedance.com.queniurc.com
+api5-lf.qishui.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
 frontier100-normal.zijieapi.com
