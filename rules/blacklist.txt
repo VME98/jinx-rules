@@ -1179,3 +1179,15 @@ xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
 trade-acs.m.taobao.com
+lf-reward-video.bytedcdn.com
+vas-lf-x.snssdk.com
+vas.snssdk.com
+timon.zijieapi.com
+ma.zijieapi.com
+feedback-c.zijieapi.com
+mktm.jd.com
+content-open.douyin.com
+broker.tips2.gz.tencent.com
+webcast5-open-lf.douyin.com
+lf-webcast-gr-sourcecdn.bytegecko.com
+lf-sourcecdn-tos.bytegecko.com

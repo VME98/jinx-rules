@@ -151,3 +151,7 @@ wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
 api.touch-moblie.com
+adtrack.qianwen.com
+dsp.ads.umeng.com
+mssdk.bytedance.com
+media-show.wanzi.com

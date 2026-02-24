@@ -27,3 +27,4 @@ tls-goofish.dingtalk.com
 *.lianjia.com
 *.kzurl03.cn
 bike.meituan.com
+ai.amap.com

@@ -1,3 +1,5 @@
+*-normal-gr-sourcecdn.bytegecko.com
+*-reward-video.bytedcdn.com
 adcdn*.tencentmusic.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -50,7 +52,6 @@ adashx.ut.*
 webcast-open.douyin.*
 *.voiceads.*
 *.zhiyan.tencent-cloud.net
-broker.tips2.gz.tencent.com
 *.tanx.com
 *.mmstat.com
 *.ugsdk.cn
@@ -70,3 +71,5 @@ httpdns.*
 *.pangolin-sdk-toutiao1.com
 *item.ecombdimg.com
 *ad-sign.byteimg.com
+*.ecombdapi.com
+*.ecombdimg.com
