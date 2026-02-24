@@ -1191,6 +1191,10 @@ broker.tips2.gz.tencent.com
 webcast5-open-lf.douyin.com
 lf-webcast-gr-sourcecdn.bytegecko.com
 lf-sourcecdn-tos.bytegecko.com
+adtrack.qianwen.com
+dsp.ads.umeng.com
+mssdk.bytedance.com
+media-show.wanzi.com
 *-normal-gr-sourcecdn.bytegecko.com
 *-reward-video.bytedcdn.com
 adcdn*.tencentmusic.com
