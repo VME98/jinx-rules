@@ -36,7 +36,6 @@ https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
 https://api5-lf.qishui.com/luna/ads/config
 https://api.bilibili.com/x/push/popup
-https://api.bilibili.com/open/monitor
 https://im-x.jd.com/dsp/
 https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData

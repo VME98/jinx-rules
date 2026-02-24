@@ -1042,7 +1042,6 @@ httpdns.danuoyi.tbcache.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
 s3plus.sankuai.com
-httpdns.bilivideo.com
 nbfriend-mtop.cainiao.com
 security.snssdk.com
 mum.hzchengdun.com
@@ -1152,9 +1151,6 @@ vdn6-1.vzuu.com
 ads-tracker.yourongsj.com
 mdn.alipayobjects.com.danuoyi.tbcache.com
 gw.alipayobjects.com.danuoyi.tbcache.com
-app.biliapi.net
-api.biliapi.net
-api.biliapi.com
 orangefire.didistatic.com
 brandvideo.biz.weibo.com
 bootrealtime.uve.weibo.com
@@ -1195,6 +1191,7 @@ adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com
 media-show.wanzi.com
+gaoneng.bilibili.com
 *-normal-gr-sourcecdn.bytegecko.com
 *-reward-video.bytedcdn.com
 adcdn*.tencentmusic.com
