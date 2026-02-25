@@ -41,7 +41,6 @@ https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
-https://upos-sz-staticcos.bilivideo.com/appstaticboss
 https://app.bilibili.com/x/v2/splash
 https://api.bilibili.com/x/vas_ads_open
 https://i1.hdslb.com/bfs/sycp/creative_img
@@ -57,6 +56,11 @@ https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
 /iflyad/deliverysystem/material/
 https://apimobile.meituan.com/prom/v2
+https://p0.meituan.net/bizad/
+https://p1.meituan.net/bizad/
+https://p2.meituan.net/bizad/
+https://s.qiumibao.com/activities/material/json.htm
+https://a.qiumibao.com/ios/config/
 https://api.zhihu.com/commercial_api/launch_v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://api.zhihu.com/commercial_api

@@ -56,6 +56,9 @@ webcast-open.douyin.*
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com
+*-luna.douyinvod.com
+*-ex-luna.douyinvod.com
+*.luna.douyinvod.com
 *.alibabausercontent.*
 *.qtaeixd.com
 *.siomxity.com

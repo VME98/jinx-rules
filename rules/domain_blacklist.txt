@@ -1045,7 +1045,7 @@ s3plus.sankuai.com
 nbfriend-mtop.cainiao.com
 security.snssdk.com
 mum.hzchengdun.com
-www.bytedance.com.queniurc.com
+bytedance.com.queniurc.com
 api5-lf.qishui.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
@@ -1144,6 +1144,7 @@ volcsirius.com
 waapdg.jd.com.gslb.qianxun.com
 webboot.zhangyue.com
 webcast-open.douyin.com
+www.bytedance.com.queniurc.com
 xdcs.c.ximalaya.com
 xima-ad.com
 yingxiao.ximalaya.com
@@ -1192,6 +1193,11 @@ dsp.ads.umeng.com
 mssdk.bytedance.com
 media-show.wanzi.com
 gaoneng.bilibili.com
+goblin.hupu.com
+csj-sp.csjdeveloper.com
+dspadlogger.waimai.meituan.com
+ggck.qiumibao.com
+gungnir.xiaojukeji.com
 *-normal-gr-sourcecdn.bytegecko.com
 *-reward-video.bytedcdn.com
 adcdn*.tencentmusic.com
@@ -1250,6 +1256,9 @@ webcast-open.douyin.*
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com
+*-luna.douyinvod.com
+*-ex-luna.douyinvod.com
+*.luna.douyinvod.com
 *.alibabausercontent.*
 *.qtaeixd.com
 *.siomxity.com
