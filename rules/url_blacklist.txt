@@ -66,6 +66,9 @@ https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://api.zhihu.com/commercial_api
 https://zhstatic.zhihu.com/brand-ad
 https://api.zhihu.com/slytherin/ad
+https://api.zhihu.com/ad-style-service
+https://sugar.zhihu.com/ad-track
+https://sugar.zhihu.com/glory_adreaper
 https://api.weibo.cn/2/client/launch
 https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
@@ -89,3 +92,5 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://vas-lf-x.snssdk.com/video/fplay
+https://api.17gwx.com/v2/base/app/ad
+https://api.17gwx.com/v2/app/spotlightv2

@@ -5,6 +5,7 @@
 8rn1y79f02-1.algolianet.com
 a0.app.xiaomi.com
 aaid.umeng.com
+ucc.umeng.com
 abtest-ch.snssdk.com
 ad-cdn.qingting.fm
 ad-scope.com
@@ -939,7 +940,6 @@ gpiljd.thetiebar.com
 sofire.baidu.com
 sp0.baidu.com
 iacc.qq.com
-rmonitor.qq.com
 c2.l.qq.com
 metric.huya.com
 statwup.huya.com
@@ -1161,7 +1161,6 @@ adimg.uve.weibo.com
 api.iegadp.qq.com
 1249900002-0.m.ctrmi.cn
 tuia-adx-web.tuia.cn
-tvax3.sinaimg.cn
 adcdn6.tencentmusic.com
 adcdn2.tencentmusic.com
 adcdn3.tencentmusic.com
@@ -1172,6 +1171,7 @@ qcwx.medproad.com
 tr.medproad.com
 adtracker.medproad.com
 ad.us.sinaimg.cn
+tvax3.sinaimg.cn
 xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
@@ -1198,3 +1198,12 @@ csj-sp.csjdeveloper.com
 dspadlogger.waimai.meituan.com
 ggck.qiumibao.com
 gungnir.xiaojukeji.com
+mqtt.zhihu.com
+impress.qiumibao.com
+sugar.zhihu.com
+m-cloud.zhihu.com
+chengzijianzhan.com
+vhdezl.launches.appsflyersdk.com
+vhdezl.skadsdkless.appsflyersdk.com
+vhdezl.cdn-settings.appsflyersdk.com
+tower.17gwx.com

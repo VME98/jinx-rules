@@ -23,6 +23,7 @@ tls-goofish.dingtalk.com
 *.huawei.com
 *.vmall.com
 *.xiaohongshu.com
+*.xhscdn.com
 *.ke.com
 *.lianjia.com
 *.kzurl03.cn
