@@ -2,6 +2,8 @@
 *.githubusercontent.com
 *.shouji.sogou.com
 *.shouji.sougou.com
+*.ecombdapi.com
+*.ecombdimg.com
 *.queniucf.com
 *.queniuiq.com
 *.queniusz.com

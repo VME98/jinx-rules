@@ -94,3 +94,4 @@ https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://vas-lf-x.snssdk.com/video/fplay
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
+https://thor.weidian.com/ares/home.splash
