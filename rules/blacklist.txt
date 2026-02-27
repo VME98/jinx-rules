@@ -307,6 +307,7 @@ data.mistat.xiaomi.com
 datacollection.uve.weibo.com
 dc.sigmob.cn
 de.tynt.com
+deepinstall.com
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dl.zuimeitianqi.com
@@ -622,6 +623,7 @@ qmlog.baertt.com
 qn-cdnfile1pcdn.msstatic.com
 qqdata.ab.qq.com
 qzs.gdtimg.com
+reachmax.cn
 recommend-drcn.hms.dbankcloud.cn
 report.tv.kohesport.qq.com
 res.hubcloud.com.cn
@@ -760,6 +762,7 @@ tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
 tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
+tobidad.cn
 tpa-hcdn.iqiyi.com
 tpc.googlesyndication-cn.com
 tpc.googlesyndication.com
