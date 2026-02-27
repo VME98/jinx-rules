@@ -18,6 +18,10 @@ https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
 https://g-acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash.ads
+https://acs.m.taobao.com/gw/mtop.taobao.idlecommerce.splash.ads
+https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch
+https://acs.m.taobao.com/gw/mtop.idle.ad.expose
+https://acs.m.taobao.com/gw/mtop.taobao.idle.activity.query
 https://dinamicx.alibabausercontent.com/pub
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do

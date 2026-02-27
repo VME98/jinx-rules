@@ -31,3 +31,5 @@
 /recommend/ad/
 /feed/ad/
 /stream/ad/
+/gw/mtop.taobao.idlecommerce.splash
+/gw/mtop.idle.idleadv

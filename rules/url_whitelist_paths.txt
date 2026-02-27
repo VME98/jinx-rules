@@ -1,1 +1,12 @@
 https://s1.hdslb.com/bfs/static/jinkela-h5/relationship-h5
+/api/pay/
+/api/payment/
+/api/order/
+/api/checkout/
+/api/auth/
+/api/login/
+/api/oauth/
+/api/token/
+/api/user/
+/api/profile/
+/api/account/

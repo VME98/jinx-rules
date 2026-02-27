@@ -101,6 +101,7 @@ catdot.dianping.com
 xmaterial.tu.qq.com
 qnmob3.doubanio.com
 api.vip.miui.com
+cnbj1.fds.api.xiaomi.com
 gateway.kugou.com
 mpaywsa.ximalaya.com
 achievement.dbankcloud.cn
@@ -118,6 +119,7 @@ app-site-association.cdn-apple.com
 auth.wosms.cn
 cdn.coolapk.com
 config.cmpassport.com
+config2.cmpassport.com
 crl.apple.com
 dinamicx.alibabausercontent.com
 dns.weixin.qq.com.cn
