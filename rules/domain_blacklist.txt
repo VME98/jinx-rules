@@ -1049,7 +1049,6 @@ nbfriend-mtop.cainiao.com
 security.snssdk.com
 mum.hzchengdun.com
 bytedance.com.queniurc.com
-api5-lf.qishui.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
 frontier100-normal.zijieapi.com
@@ -1210,6 +1209,18 @@ vhdezl.launches.appsflyersdk.com
 vhdezl.skadsdkless.appsflyersdk.com
 vhdezl.cdn-settings.appsflyersdk.com
 tower.17gwx.com
+i-lq.snssdk.com
+is.snssdk.com
+mcs.snssdk.com
+security-lq.snssdk.com
+gurd.snssdk.com
+activity-ag.awemeughun.com
+sf3-ttcdn-tos.pstatp.com
+v6-novelapp.ixigua.com
+adim.pinduoduo.com
+static.66mobi.com
+tobapplog.ctobsnssdk.com
+lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
 *-reward-video.bytedcdn.com
@@ -1287,3 +1298,6 @@ httpdns.*
 *.pangolin-sdk-toutiao1.com
 *item.ecombdimg.com
 *ad-sign.byteimg.com
+*.default.ixigua.com
+*.byteorge.com
+*.bytegoofy.com

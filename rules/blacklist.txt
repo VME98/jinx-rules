@@ -1049,7 +1049,6 @@ nbfriend-mtop.cainiao.com
 security.snssdk.com
 mum.hzchengdun.com
 bytedance.com.queniurc.com
-api5-lf.qishui.com
 https://ynuf.aliapp.org/savewb.json
 https://ynuf.aliapp.org/savewb.json?
 frontier100-normal.zijieapi.com
@@ -1210,3 +1209,14 @@ vhdezl.launches.appsflyersdk.com
 vhdezl.skadsdkless.appsflyersdk.com
 vhdezl.cdn-settings.appsflyersdk.com
 tower.17gwx.com
+i-lq.snssdk.com
+is.snssdk.com
+mcs.snssdk.com
+security-lq.snssdk.com
+gurd.snssdk.com
+activity-ag.awemeughun.com
+sf3-ttcdn-tos.pstatp.com
+v6-novelapp.ixigua.com
+adim.pinduoduo.com
+static.66mobi.com
+tobapplog.ctobsnssdk.com

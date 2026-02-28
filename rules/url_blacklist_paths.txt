@@ -33,3 +33,13 @@
 /stream/ad/
 /gw/mtop.taobao.idlecommerce.splash
 /gw/mtop.idle.idleadv
+/api/ad/union/sdk/get_ads
+/api/ad/union/sdk/stats
+/api/ad/union/sdk/settings
+/obj/ad-app-package/
+/obj/ad-pattern/renderer
+/bytecom/resource/track_log/
+/video/play/1/toutiao/
+/src/server/v3/package
+/obj/web.business.image/
+/img/web.business.image/

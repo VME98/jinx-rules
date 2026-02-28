@@ -33,6 +33,16 @@
 /stream/ad/
 /gw/mtop.taobao.idlecommerce.splash
 /gw/mtop.idle.idleadv
+/api/ad/union/sdk/get_ads
+/api/ad/union/sdk/stats
+/api/ad/union/sdk/settings
+/obj/ad-app-package/
+/obj/ad-pattern/renderer
+/bytecom/resource/track_log/
+/video/play/1/toutiao/
+/src/server/v3/package
+/obj/web.business.image/
+/img/web.business.image/
 https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
@@ -57,6 +67,11 @@ https://acs.m.taobao.com/gw/mtop.taobao.idlecommerce.splash.ads
 https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.taobao.com/gw/mtop.idle.ad.expose
 https://acs.m.taobao.com/gw/mtop.taobao.idle.activity.query
+https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
+https://acs.m.goofish.com/gw/mtop.idle.ad.expose
+https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.get
+https://acs.m.taobao.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
+https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch.report
 https://dinamicx.alibabausercontent.com/pub
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
@@ -101,3 +116,4 @@ https://vas-lf-x.snssdk.com/video/fplay
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
+https://gateway.kugou.com/ads.gateway

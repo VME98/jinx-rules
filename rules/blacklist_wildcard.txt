@@ -1,3 +1,4 @@
+lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
 *-reward-video.bytedcdn.com
@@ -75,3 +76,6 @@ httpdns.*
 *.pangolin-sdk-toutiao1.com
 *item.ecombdimg.com
 *ad-sign.byteimg.com
+*.default.ixigua.com
+*.byteorge.com
+*.bytegoofy.com
