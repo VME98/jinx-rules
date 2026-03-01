@@ -1301,7 +1301,9 @@ httpdns.*
 *.pangolin-sdk-toutiao-b.com
 *.pangolin-sdk-toutiao1.com
 *item.ecombdimg.com
+*aio.ecombdimg.com
 *ad-sign.byteimg.com
+ichannel.snssdk.com
 *.default.ixigua.com
 *.byteorge.com
 *.bytegoofy.com
