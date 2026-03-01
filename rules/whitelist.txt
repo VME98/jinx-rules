@@ -135,6 +135,7 @@ mihoyo.com
 msv6.wosms.cn
 ocsp.apple.com
 ocsp2.apple.com
+passport.bilibili.cn
 passport.ximalaya.com
 push.coolapk.com
 s.jpush.cn
