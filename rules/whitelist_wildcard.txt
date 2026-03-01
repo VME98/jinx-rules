@@ -1,3 +1,4 @@
+*.7moor.com
 *.github.com
 *.githubusercontent.com
 *.shouji.sogou.com

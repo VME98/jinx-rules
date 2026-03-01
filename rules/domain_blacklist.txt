@@ -869,6 +869,11 @@ ykad-data.cp31.ott.cibntv.net
 ykad-data.youku.com
 ykad-gateway.youku.com
 youku-acs.m.taobao.com
+cad.youku.com
+adx-core.youku.com
+ups.youku.com
+ipm.atm.youku.com
+atm.youku.com
 ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
@@ -994,6 +999,11 @@ tanx-creative.taobao.com
 awp-assets.meituan.net
 wpt-giant.vip.meituan.com
 cube.meituan.com
+marketing-thh.meituan.com
+promotion.waimai.meituan.com
+analytics.meituan.net
+report.meituan.com
+logan.sankuai.com
 tr.xiaoyuzhoufm.com
 tec73.com
 t.adbiding.com
@@ -1214,12 +1224,9 @@ is.snssdk.com
 mcs.snssdk.com
 security-lq.snssdk.com
 gurd.snssdk.com
-activity-ag.awemeughun.com
-sf3-ttcdn-tos.pstatp.com
 v6-novelapp.ixigua.com
 adim.pinduoduo.com
 static.66mobi.com
-tobapplog.ctobsnssdk.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
@@ -1280,9 +1287,6 @@ webcast-open.douyin.*
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com
-*-luna.douyinvod.com
-*-ex-luna.douyinvod.com
-*.luna.douyinvod.com
 *.alibabausercontent.*
 *.qtaeixd.com
 *.siomxity.com
