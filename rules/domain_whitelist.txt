@@ -152,6 +152,7 @@ wxsmw.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
+miniapp.bilibili.com
 *.7moor.com
 *.github.com
 *.githubusercontent.com

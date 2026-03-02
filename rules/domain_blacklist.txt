@@ -968,6 +968,7 @@ iadsdk.qtlcdn.com
 ubtlog.ctrip.com
 license.vodglcdn.com
 cpush.ctrip.com
+ma-adx.ctrip.com
 ad.p3-sign.douyinpic.com
 p3-sign.douyinpic.com.queniusy.com
 tao.ad.tao.tengine.ingress.alibabacorp.com
@@ -1188,6 +1189,7 @@ xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
 trade-acs.m.taobao.com
+rhdc-acs.m.taobao.com
 lf-reward-video.bytedcdn.com
 vas-lf-x.snssdk.com
 vas.snssdk.com
@@ -1230,6 +1232,8 @@ static.66mobi.com
 ichannel.snssdk.com
 clickdsp.meituan.com
 rcv.aiclk.com
+sdk2.baiyujingfeng.com
+tap-dsp.iem.taptap.cn
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
