@@ -74,7 +74,11 @@ httpdns.*
 *item.ecombdimg.com
 *aio.ecombdimg.com
 *ad-sign.byteimg.com
-ichannel.snssdk.com
 *.default.ixigua.com
 *.byteorge.com
 *.bytegoofy.com
+*.tange365.com
+*.yunxish.com
+*.iggrowth.cn
+*.mentamob.com
+*.anythinktech.com

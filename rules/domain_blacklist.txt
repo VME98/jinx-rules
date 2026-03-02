@@ -1227,6 +1227,9 @@ gurd.snssdk.com
 v6-novelapp.ixigua.com
 adim.pinduoduo.com
 static.66mobi.com
+ichannel.snssdk.com
+clickdsp.meituan.com
+rcv.aiclk.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
@@ -1303,7 +1306,11 @@ httpdns.*
 *item.ecombdimg.com
 *aio.ecombdimg.com
 *ad-sign.byteimg.com
-ichannel.snssdk.com
 *.default.ixigua.com
 *.byteorge.com
 *.bytegoofy.com
+*.tange365.com
+*.yunxish.com
+*.iggrowth.cn
+*.mentamob.com
+*.anythinktech.com
