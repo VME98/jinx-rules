@@ -175,7 +175,6 @@ analytics.woozooo.com
 analyticsengine.s3.amazonaws.com
 analyze.lemurbrowser.com
 andrqd.play.aiseet.atianqi.com
-ap.dongdianqiu.com
 ap.dongqiudi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
@@ -1234,6 +1233,7 @@ clickdsp.meituan.com
 rcv.aiclk.com
 sdk2.baiyujingfeng.com
 tap-dsp.iem.taptap.cn
+ad.lofter.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
