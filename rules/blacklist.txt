@@ -422,6 +422,9 @@ iadctest.qwapi.com
 iadsdk.apple.com
 iadworkbench.apple.com
 ifacelog.iqiyi.com
+puma-api.iqiyi.com
+dx-static-s.iqiyi.com
+du-feige.iqiyi.com
 ifs.tanx.com
 ii.gdt.qq.com
 image-ad.sm.cn
@@ -722,8 +725,8 @@ t1.teads.tv
 t2.a.market.xiaomi.com
 t2.fancyapi.com
 t3.a.market.xiaomi.com
-t7z.cupid.iqiyi.com
-t7z.cupid.ptqy.gitv.tv
+*.cupid.iqiyi.com
+*.cupid.ptqy.gitv.tv
 tangram.e.qq.com
 target.ads.jihuoniao.com
 tdc.qq.com
@@ -1234,3 +1237,7 @@ rcv.aiclk.com
 sdk2.baiyujingfeng.com
 tap-dsp.iem.taptap.cn
 ad.lofter.com
+cloud.video.taobao.com
+mamasearchad.cloudvideocdn.taobao.com
+1254B00002-0.m.ctrmi.cn
+sealine.youku.com

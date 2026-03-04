@@ -54,6 +54,7 @@ https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
 https://api5-lf.qishui.com/luna/ads/config
+https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/
 https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
@@ -110,6 +111,7 @@ https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
+https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
 https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
 https://img1.doubanio.com/view/dale-online/dale_ad
@@ -117,6 +119,8 @@ https://img2.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad
 https://mc.tencentmusic.com/sdk/ad
 https://oss.umetrip.com/fs/advert
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.index.cn
