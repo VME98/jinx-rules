@@ -6,6 +6,7 @@
 /launch_ad/
 /app_start/ad
 /splash/show
+/get_thridparity_open_ads
 /api/ad/
 /api/ads/
 /api/v1/ad/
@@ -50,3 +51,9 @@
 /gw/mtop.alimarket.splash
 /gw/mtop.taobao.wireless.splash
 /gw/mtop.taobao.mbact.splash
+/gw/mtop.film.mtopadvert
+/gw/mtop.alibaba.advertisementservice.getadv
+/gw/mtop.alimusic.common.mobileservice.startinit
+/gw/mtop.o2o.ad.gateway.get
+/gw/mtop.taobao.idle.home.welcome
+/gw/mtop.trip.activity.querytmsresources

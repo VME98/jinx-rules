@@ -74,11 +74,12 @@ httpdns.*
 *item.ecombdimg.com
 *aio.ecombdimg.com
 *ad-sign.byteimg.com
-*.default.ixigua.com
-*.byteorge.com
-*.bytegoofy.com
 *.tange365.com
 *.yunxish.com
 *.iggrowth.cn
 *.mentamob.com
 *.anythinktech.com
+*.cpatrk.net
+*.ecombdapi.com
+isaas*-normal-lf.ecombdapi.com
+ecom*-normal-lf.ecombdapi.com

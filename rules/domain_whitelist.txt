@@ -44,7 +44,6 @@ alsc-fingerprint.ele.me
 ynuf.aliapp.org
 alihealth.taobao.com
 h5api.m.taobao.com
-guide-acs.m.taobao.com
 cainiao.com
 page.cainiao.com
 e2e-mtop.cainiao.com
@@ -93,6 +92,7 @@ httpdns.meituan.com
 file.neixin.cn
 api.neixin.cn
 creditpay.meituan.com
+gapp-api.gwmapp-h.com
 newclient.map.baidu.com
 info4.video.qq.com
 info6.video.qq.com
