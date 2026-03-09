@@ -28,3 +28,6 @@ tls-goofish.dingtalk.com
 bike.meituan.com
 ai.amap.com
 *.hdslb.com
+story.zhihu.com
+appcloud.zhihu.com
+appcloud2.zhihu.com

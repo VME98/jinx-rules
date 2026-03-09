@@ -7,6 +7,7 @@
 /app_start/ad
 /splash/show
 /get_thridparity_open_ads
+/mtop.fliggy.crm.screen.availablesplashstrategies
 /api/ad/
 /api/ads/
 /api/v1/ad/
@@ -83,7 +84,6 @@ https://acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.get
 https://acs.m.taobao.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch.report
-https://dinamicx.alibabausercontent.com/pub
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://acs.m.taobao.com/gw/mtop.taobao.wireless.home.splash
 https://acs.m.taobao.com/gw/mtop.alimarket.splash
@@ -111,6 +111,7 @@ https://acs.m.goofish.com/gw/mtop.alimusic.common.mobileservice.startinit
 https://acs.m.goofish.com/gw/mtop.o2o.ad.gateway.get
 https://acs.m.goofish.com/gw/mtop.taobao.idle.home.welcome
 https://acs.m.goofish.com/gw/mtop.trip.activity.querytmsresources
+https://acs.m.taobao.com/gw/mtop.fliggy.crm.screen.availablesplashstrategies
 https://guide-acs.m.goofish.com/gw/mtop.taobao.wireless.home.splash
 https://guide-acs.m.goofish.com/gw/mtop.alimarket.splash
 https://guide-acs.m.goofish.com/gw/mtop.taobao.wireless.splash

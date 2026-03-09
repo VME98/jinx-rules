@@ -7,6 +7,7 @@
 /app_start/ad
 /splash/show
 /get_thridparity_open_ads
+/mtop.fliggy.crm.screen.availablesplashstrategies
 /api/ad/
 /api/ads/
 /api/v1/ad/

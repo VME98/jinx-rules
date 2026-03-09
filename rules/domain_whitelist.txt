@@ -121,7 +121,6 @@ cdn.coolapk.com
 config.cmpassport.com
 config2.cmpassport.com
 crl.apple.com
-dinamicx.alibabausercontent.com
 dns.weixin.qq.com.cn
 gsa.apple.com
 gslb.qianxun.com
@@ -133,6 +132,16 @@ jpush.cn
 l7-online-self-max.s.dsa.cdnbuild.net
 mesu.apple.com
 mihoyo.com
+mssdk.volces.com
+mssdk.volces.com.queniusz.com
+appcloud.zhihu.com
+appcloud2.zhihu.com
+appcloud.in.zhihu.com
+appcloud2.in.zhihu.com
+klink.volceapplog.com
+toblog.volceapplog.com
+tobapplog.volceapplog.com
+sf3-fe-tos.pglstatp-toutiao.com
 msv6.wosms.cn
 ocsp.apple.com
 ocsp2.apple.com

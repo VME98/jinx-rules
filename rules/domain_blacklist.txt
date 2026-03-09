@@ -454,7 +454,6 @@ jswebcollects.kugou.com
 kde.qq.com
 kepler.jd.com
 kl.67it.com
-klink.volceapplog.com
 knicks.jd.com
 ks-p2p-v2.pull.yximgs.com
 ks-p2p.pull.yximgs.com
@@ -553,7 +552,6 @@ ms.applvn.com
 ms4.applovin.com
 ms4.applvn.com
 mssdk.voiceads.cn
-mssdk.volces.com
 mssdk.zijieapi.com
 mtj.baidu.com
 nadvideo2.baidu.com
@@ -687,7 +685,6 @@ sentry.music.163.com
 service.changhong.upgrade2.huan.tv
 service.vmos.cn
 sf16-static.i18n-pglstatp.com
-sf3-fe-tos.pglstatp-toutiao.com
 sigmob.com
 skdisplay.jd.com
 sl.hpplay.cn
@@ -746,19 +743,6 @@ tmfmazu-wangka.m.qq.com
 tmfmazu.m.qq.com
 tmfsdk.m.qq.com
 tmfsdktcpv4.m.qq.com
-tnc0-aliec2.zijieapi.com
-tnc0-alisc1.zijieapi.com
-tnc0-bjlgy.zijieapi.com
-tnc3-aliec1.toutiaoapi.com
-tnc3-aliec2.bytedance.com
-tnc3-aliec2.snssdk.com
-tnc3-aliec2.toutiaoapi.com
-tnc3-aliec2.zijieapi.com
-tnc3-alisc1.bytedance.com
-tnc3-alisc1.snssdk.com
-tnc3-alisc1.toutiaoapi.com
-tnc3-alisc1.zijieapi.com
-tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
@@ -902,10 +886,6 @@ oneid.getui.net
 mantis.bayescom.com
 duga.zhihu.com
 julang.taobao.com
-appcloud2.in.zhihu.com
-appcloud.in.zhihu.com
-appcloud2.zhihu.com
-appcloud.zhihu.com
 imp.voiceads.cn
 zhihu.com.eo.dnse0.com
 api.zhihu.com.eo.dnse0.com
@@ -920,6 +900,7 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 hc.tdm.qq.com
 https://us.l.qq.com/exapp
+acs.m.taobao.com
 acs.m.cainiao.com
 guide-acs.m.cainiao.com
 g-acs.m.cainiao.com
@@ -986,7 +967,6 @@ tab.volces.com.c.dsa.cdnbuild.net
 ios.rqd.qq.com
 f5ie8y7l.dayugslb.com
 adx.zuoyebang.com
-mssdk.volces.com.queniusz.com
 log.volces.com
 rtc.volces.com
 afd.baidu.com
@@ -1271,6 +1251,7 @@ httpdnsvip.meituan.com
 httpsdns.baidu.com
 lofter.httpdns.c.163.com
 music.httpdns.c.163.com
+ad-track.fliggy.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
 *-normal-gr-sourcecdn.bytegecko.com
@@ -1312,7 +1293,6 @@ adcdn*.tencentmusic.com
 *.zjtoolbar.*
 *.pangolin-dsp-toutiao.*
 *.miaozhen.*
-*.volceapplog.*
 *.ad.alibabacorp.*
 *.tianmu.*
 *.yingt.asia
@@ -1331,7 +1311,6 @@ webcast-open.douyin.*
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com
-*.alibabausercontent.*
 *.qtaeixd.com
 *.siomxity.com
 *.queniubl.com.v3.tushuokeji.net
@@ -1347,8 +1326,6 @@ httpdns.*
 *item.ecombdimg.com
 *aio.ecombdimg.com
 *ad-sign.byteimg.com
-*.tange365.com
-*.yunxish.com
 *.iggrowth.cn
 *.mentamob.com
 *.anythinktech.com
