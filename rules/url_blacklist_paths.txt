@@ -58,3 +58,6 @@
 /gw/mtop.o2o.ad.gateway.get
 /gw/mtop.taobao.idle.home.welcome
 /gw/mtop.trip.activity.querytmsresources
+/splashscreen/
+/opening_ad/
+/welcome_ad/

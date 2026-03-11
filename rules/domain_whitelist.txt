@@ -1,3 +1,5 @@
+LOG-AUTH.FLYSLEEP.CN
+log-auth.flysleep.cn
 apm-native.xiaohongshu.com
 grs.dbankcloud.eu
 grs.dbankcloud.cn
@@ -142,6 +144,13 @@ klink.volceapplog.com
 toblog.volceapplog.com
 tobapplog.volceapplog.com
 sf3-fe-tos.pglstatp-toutiao.com
+conf.hpplay.cn
+rp.hpplay.cn
+cdnauth1.hpplay.cn
+cdnauth2.hpplay.cn
+ssdkauth.hpplay.cn
+vfa.hpplay.cn
+logu.hpplay.cn
 msv6.wosms.cn
 ocsp.apple.com
 ocsp2.apple.com
@@ -163,6 +172,11 @@ wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
 miniapp.bilibili.com
+httpdns.bilivideo.com
+crash.xiaohongshu.com
+wbox.sinaimg.cn
+vs.biz.weibo.com
+seeds-sina.xycdn.com
 *.7moor.com
 *.github.com
 *.githubusercontent.com
@@ -183,10 +197,6 @@ miniapp.bilibili.com
 *.tl88.net
 *.alikunlun.net
 *.alikunlun.com
-*.bytefcdn.com
-*.volcfcdndvs.com
-*.volcfcdndvs1.com
-*.vedcdnlb.com
 *.xhscdn.com
 *.wagbridge.alsc-prd.tanx.com
 *.bcelive.com

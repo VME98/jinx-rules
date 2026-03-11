@@ -18,10 +18,6 @@
 *.tl88.net
 *.alikunlun.net
 *.alikunlun.com
-*.bytefcdn.com
-*.volcfcdndvs.com
-*.volcfcdndvs1.com
-*.vedcdnlb.com
 *.xhscdn.com
 *.wagbridge.alsc-prd.tanx.com
 *.bcelive.com

@@ -169,6 +169,7 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
+https://s3plus.meituan.net/v1/mss_*/nebulafile/
 https://vas-lf-x.snssdk.com/video/fplay
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
@@ -448,3 +449,15 @@ https://app.bilibili.com/bilibili.community.service.dm.v1.DM/DmSegMobile
 https://app.bilibili.com/x/v2/search/square
 https://api.bilibili.com/x/web-interface/search/square
 https://cpevs.500star.com/esinfo/loading/get_thridparity_open_ads
+https://restapi.amap.com/v3/ad/
+https://restapi.amap.com/v3/ads/
+https://restapi.amap.com/v3/advert/
+https://restapi.amap.com/v3/banner/
+https://restapi.amap.com/v3/promo/
+https://restapi.amap.com/v3/marketing/
+https://restapi.amap.com/v3/coupon/
+https://restapi.amap.com/v3/activity/
+https://app.bilibili.com/x/resource/abtest/abserver
+https://api.zhihu.com/metrics/report
+https://goofish.com/splash
+https://goofish.com/ad

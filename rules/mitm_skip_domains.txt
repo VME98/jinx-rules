@@ -20,7 +20,6 @@ tls-goofish.dingtalk.com
 *.walmartmobile.cn
 *.huawei.com
 *.vmall.com
-*.xiaohongshu.com
 *.xhscdn.com
 *.ke.com
 *.lianjia.com
@@ -28,6 +27,3 @@ tls-goofish.dingtalk.com
 bike.meituan.com
 ai.amap.com
 *.hdslb.com
-story.zhihu.com
-appcloud.zhihu.com
-appcloud2.zhihu.com

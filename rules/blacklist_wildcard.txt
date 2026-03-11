@@ -1,7 +1,5 @@
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
 *orange-sign.byteimg.com
-*-normal-gr-sourcecdn.bytegecko.com
-*-reward-video.bytedcdn.com
 adcdn*.tencentmusic.com
 *-ad.sm.cn*
 *-ad.video.yximgs.com*
@@ -72,6 +70,7 @@ httpdns.*
 *item.ecombdimg.com
 *aio.ecombdimg.com
 *ad-sign.byteimg.com
+gecko*-*.zijieapi.com
 *.iggrowth.cn
 *.mentamob.com
 *.anythinktech.com
