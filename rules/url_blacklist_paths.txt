@@ -61,3 +61,4 @@
 /splashscreen/
 /opening_ad/
 /welcome_ad/
+/gaia-gateway

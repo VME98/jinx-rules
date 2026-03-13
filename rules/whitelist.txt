@@ -1,5 +1,7 @@
 LOG-AUTH.FLYSLEEP.CN
 log-auth.flysleep.cn
+dypnsapi.aliyuncs.com
+dypnsapi-dualstack.aliyuncs.com
 apm-native.xiaohongshu.com
 grs.dbankcloud.eu
 grs.dbankcloud.cn

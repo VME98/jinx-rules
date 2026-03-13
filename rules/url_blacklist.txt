@@ -61,6 +61,7 @@
 /splashscreen/
 /opening_ad/
 /welcome_ad/
+/gaia-gateway
 https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
@@ -210,9 +211,11 @@ https://sugar.zhihu.com/glory_adreaper
 https://api.weibo.cn/2/client/launch
 https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
+https://api.weibo.cn/2/sdk/union_config
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
+https://mediadata.api.weibo.com/2/multimedia/log
 https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
 https://img1.doubanio.com/view/dale-online/dale_ad
@@ -346,10 +349,14 @@ https://hfapp-service.qweather.net/ad
 https://cdn.moji.com/advert
 https://api.xueqiu.com/brand/search/v1.json
 https://api.xueqiu.com/snowpard/launch_strategy/query.json
+https://api.xueqiu.com/statuses/brand_info.json
+https://api.xueqiu.com/snowpard/launch_strategy
 https://promo.xueqiu.com/promotion/display_cache
 https://promo.xueqiu.com/promotion/display_ad
 https://promo.xueqiu.com/promotion/feed_display
 https://promo.xueqiu.com/promotion/search_ad
+https://promo.xueqiu.com/promotion/splash
+https://101.xueqiu.com
 https://api.m.jd.com/client.action?functionId=home_launchConfig
 https://api.m.jd.com/client.action?functionId=start
 https://ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture
@@ -417,7 +424,7 @@ https://api.cloud.189.cn/guns/getOpenscreenBanners
 https://api.cloud.189.cn/guns/img/recommendedPosition
 https://cloud.189.cn/include/splash
 https://member.alipan.com/v2/activity/sign_in_info
-https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer
+https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern
 https://sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer/package.json
 https://gorgon.youdao.com/gorgon
 https://cdke.youdao.com/course3/recommend/dict/startup

@@ -884,6 +884,7 @@ oneid.getui.net
 mantis.bayescom.com
 duga.zhihu.com
 julang.taobao.com
+data.bilibili.com
 imp.voiceads.cn
 zhihu.com.eo.dnse0.com
 api.zhihu.com.eo.dnse0.com
@@ -972,7 +973,6 @@ afd.baidu.com
 info.tuisong.baidu.com
 dxp.e.shifen.com
 a.shifen.com
-dypnsapi.aliyuncs.com
 lf-cdn-tos.bytescm.com
 lf-cdn-tos.bytescm.com.queniuuf.com
 lf-cdn-tos.bytescm.com.bytedns1.com
@@ -1036,7 +1036,6 @@ market.qunar.com
 ugapi.alipay.com
 smbd.sm.cn
 discardrp.umetrip.com
-dypnsapi-dualstack.aliyuncs.com
 httpdns.danuoyi.tbcache.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
@@ -1164,6 +1163,8 @@ tuia-adx-web.tuia.cn
 adcdn6.tencentmusic.com
 adcdn2.tencentmusic.com
 adcdn3.tencentmusic.com
+tmeadcommquic.y.qq.com
+report.tencentmusic.com
 t.hs.lingjuad.com
 c3.gdt.qq.com
 empower.pangolin-sdk-toutiao.com
