@@ -78,6 +78,7 @@ https://api.bilibili.com/x/vas_ads_open
 https://i1.hdslb.com/bfs/sycp/creative_img
 https://i2.hdslb.com/bfs/sycp/creative_img
 https://i3.hdslb.com/bfs/sycp/creative_img
+https://api.live.bilibili.com/xlive/web-ucenter/v1/banned/GetShieldKeywordList
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
@@ -241,6 +242,8 @@ https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
 https://gateway.kugou.com/ads.gateway
+https://gateway.kugou.com/ads.service
+https://gateway.kugou.com/youth/v1/ad/
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
 https://ad.maoyan.com/api/position/detail
@@ -386,6 +389,8 @@ https://api.taou.com/sdk/global/splash_ad
 https://open.taou.com/maimai/launch_ad
 https://api.zhipin.com/common/ad
 https://api.douban.com/v2/app_ads/splash
+https://api.douban.com/v2/app_ads/splash_show
+https://api.douban.com/v2/app_ads/splash_preload
 https://games.mobileapi.hupu.com/interfaceAdMonitor
 https://goblin.hupu.com/interfaceAd/getOther
 https://api.xiachufang.com/v2/ad

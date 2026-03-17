@@ -1,4 +1,6 @@
+*.mediation.unity3d.com
 *.7moor.com
+*.tpns.tencent.com
 *.github.com
 *.githubusercontent.com
 *.shouji.sogou.com
