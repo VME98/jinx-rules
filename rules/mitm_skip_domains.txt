@@ -27,3 +27,4 @@ tls-goofish.dingtalk.com
 bike.meituan.com
 ai.amap.com
 *.hdslb.com
+*.smaato.net

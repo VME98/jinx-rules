@@ -336,6 +336,12 @@ https://b.zhuishushenqi.com/advert
 https://ih2.ireader.com/zyapi/bookstore/ad
 https://ih2.ireader.com/zyapi/self/screen/ad
 https://ih2.ireader.com/zycl/api/ad
+https://sys.ireader.com/zyapi/bookstore/ad
+https://sys.ireader.com/zyapi/self/screen/ad
+https://sys.ireader.com/zycl/api/ad
+https://ah2.ireader.com/zyapi/bookstore/ad
+https://ah2.ireader.com/zyapi/self/screen/ad
+https://ah2.ireader.com/zycl/api/ad
 https://webboot.zhangyue.com/zyapi/bookstore/ad
 https://webboot.zhangyue.com/zycl/api/ad
 https://saad.ms.zhangyue.net/ad

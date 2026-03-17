@@ -180,6 +180,7 @@ wbox.sinaimg.cn
 vs.biz.weibo.com
 seeds-sina.xycdn.com
 gia.jd.com
+*.smaato.*
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com
