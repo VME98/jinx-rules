@@ -53,6 +53,7 @@ adashx.ut.*
 webcast-open.douyin.*
 *.voiceads.*
 *.zhiyan.tencent-cloud.net
+*.tanx.com
 *.mmstat.com
 *.ugsdk.cn
 *.markiapp.com

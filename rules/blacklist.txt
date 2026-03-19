@@ -981,6 +981,7 @@ afd.baidu.com
 info.tuisong.baidu.com
 dxp.e.shifen.com
 a.shifen.com
+lf-cdn-tos.bytescm.com
 lf-cdn-tos.bytescm.com.queniuuf.com
 lf-cdn-tos.bytescm.com.bytedns1.com
 lf-cdn-tos.bytescm.com.w.kunluncan.com
