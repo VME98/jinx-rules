@@ -22,6 +22,7 @@ https://g-acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash.ads
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.goofish.com/gw/mtop.idle.ad.expose
+https://acs.m.goofish.com/gw/mtop.taobao.idle.rule.config
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.get
 https://acs.m.taobao.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch.report
@@ -68,6 +69,7 @@ https://guide-acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash.ads
 https://guide-acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://guide-acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://guide-acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
+https://acs.m.goofish.com/gw/mtop.alibaba.mum.citem.get
 https://g-acs.m.goofish.com/gw/mtop.taobao.wireless.home.splash
 https://g-acs.m.goofish.com/gw/mtop.alimarket.splash
 https://g-acs.m.goofish.com/gw/mtop.taobao.wireless.splash
@@ -149,6 +151,7 @@ https://api.weibo.cn/2/client/launch
 https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
 https://api.weibo.cn/2/sdk/union_config
+https://vs.biz.weibo.com/sdkserver/brand_monitor
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
@@ -324,6 +327,7 @@ https://app.zhuanzhuan.com/zzx/transfer/getConfigInfo
 https://api.taou.com/sdk/global/splash_ad
 https://open.taou.com/maimai/launch_ad
 https://api.zhipin.com/common/ad
+https://api.douban.com/v2/app_ads
 https://api.douban.com/v2/app_ads/splash
 https://api.douban.com/v2/app_ads/splash_show
 https://api.douban.com/v2/app_ads/splash_preload
@@ -380,7 +384,6 @@ https://mobile-pic.cache.iciba.com/feeds_ad
 https://service.iciba.com/popo/open/screens/v1?adjson
 https://ios.wps.cn/ad-statistics-service
 https://adapi.ximalaya.com
-https://api.coolapk.com/v6/search?type=hotSearch
 https://rtbapi.douyucdn.cn/japi/sign/app/getinfo
 https://business.msstatic.com/advertiser
 https://maicai.api.ddxq.mobi/advert

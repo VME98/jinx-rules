@@ -370,6 +370,7 @@ grs.dbankcloud.com
 grs.hicloud.com
 gslb.hpplay.cn
 gvideo.qpic.cn
+gxh.material.qq.com
 h-adashx.ut.taobao.com
 h.trace.qq.com
 h5.analytics.126.net
@@ -577,6 +578,7 @@ openadapi.fancydsp.com
 optimus-ads.amap.com
 orbit.jd.com
 oss.cdn.aiclk.com
+oth.bls.mdt.qq.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 otheve.play.aiseet.atianqi.com
@@ -806,6 +808,8 @@ v2mi.gdt.qq.com
 v3-ad.video.yximgs.com
 v3.gdt.qq.com
 vd6.l.qq.com
+sq.bls.mdt.qq.com
+vi.bls.mdt.qq.com
 vi.l.qq.com
 video-ad.sm.cn
 video-dsp.pddpic.com
@@ -977,7 +981,6 @@ afd.baidu.com
 info.tuisong.baidu.com
 dxp.e.shifen.com
 a.shifen.com
-lf-cdn-tos.bytescm.com
 lf-cdn-tos.bytescm.com.queniuuf.com
 lf-cdn-tos.bytescm.com.bytedns1.com
 lf-cdn-tos.bytescm.com.w.kunluncan.com
@@ -1016,7 +1019,9 @@ jsb.zijieapi.com
 gatherer.m.qq.com
 orange-dc.m.taobao.com
 pages-fast.m.taobao.com
+atoken.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
+tls-goofish.dingtalk.com
 i.snssdk.com
 lf.snssdk.com
 sdk-track.66mobi.com
@@ -1123,6 +1128,10 @@ p3-sign.douyinpic.com
 p3-sign.douyinpic.com.w.alikunlun.com
 popup.jd.com
 promo.p3-sign.douyinpic.com
+search-app-m.i4.cn
+d.image.i4.cn
+cl-m.i4.cn
+list-app-m.i4.cn
 pub-conf-m.i4.cn
 push.p3-sign.douyinpic.com
 pv.sohu.com
@@ -1172,6 +1181,8 @@ adcdn6.tencentmusic.com
 adcdn2.tencentmusic.com
 adcdn3.tencentmusic.com
 tmeadcommquic.y.qq.com
+tmeadkgquic.y.qq.com
+tmeadquic.y.qq.com
 report.tencentmusic.com
 t.hs.lingjuad.com
 c3.gdt.qq.com
@@ -1193,6 +1204,7 @@ ma.zijieapi.com
 feedback-c.zijieapi.com
 mktm.jd.com
 broker.tips2.gz.tencent.com
+app-alpha.bytedance.net
 adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com

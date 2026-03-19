@@ -1,3 +1,4 @@
+/app_ads
 /splash/
 /splash_ad/
 /openscreen/
