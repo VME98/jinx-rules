@@ -1,3 +1,4 @@
+*.appsflyersdk.com
 *.jmedium.cn
 *.amazon-adsystem.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa

@@ -177,6 +177,7 @@ miniapp.bilibili.com
 httpdns.bilivideo.com
 crash.xiaohongshu.com
 wbox.sinaimg.cn
-vs.biz.weibo.com
 seeds-sina.xycdn.com
 gia.jd.com
+httpdns.qq.com
+cloud.tgpa.qq.com

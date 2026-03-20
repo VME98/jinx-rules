@@ -698,7 +698,6 @@ smartad.10010.com
 smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
-snowflake.qq.com
 ssp.cloooud.com
 staging-notify.sec.miui.com
 stat.dongqiudi.com
@@ -906,7 +905,6 @@ d.kugou.com
 ins-u5twfbbu.ias.tencent-cloud.net
 xindai.duxiaoman.com
 ad.bdstatic.com
-hc.tdm.qq.com
 https://us.l.qq.com/exapp
 acs.m.taobao.com
 acs.m.cainiao.com
@@ -1335,6 +1333,12 @@ _dns.resolver.arpa
 bridgeads.massx.com
 report.jmedium.cn
 ad-track.jmedium.cn
+ade.googlesyndication.com
+newsad.ssp.qq.com
+inews.gtimg.com
+adui.tg.meitu.com
+rabbit.tg.meitu.com
+*.appsflyersdk.com
 *.jmedium.cn
 *.amazon-adsystem.com
 lb._dns-sd._udp.0.7.28.172.in-addr.arpa
