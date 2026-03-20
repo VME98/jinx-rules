@@ -99,6 +99,7 @@ https://g-acs.m.taobao.com/gw/mtop.taobao.idlecommerce.splash.ads
 https://g-acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch
 https://g-acs.m.taobao.com/gw/mtop.idle.ad.expose
 https://g-acs.m.taobao.com/gw/mtop.taobao.idle.activity.query
+https://ulk.alimama.com/tb
 https://guide-acs.m.taobao.com/gw/mtop.taobao.wireless.home.splash
 https://guide-acs.m.taobao.com/gw/mtop.alimarket.splash
 https://guide-acs.m.taobao.com/gw/mtop.taobao.wireless.splash
@@ -152,6 +153,7 @@ https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
 https://api.weibo.cn/2/sdk/union_config
 https://vs.biz.weibo.com/sdkserver/brand_monitor
+https://wbapp.uve.weibo.com/wbapplua/wbpullad.lua
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
@@ -176,7 +178,9 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://s3plus.meituan.net/v1/mss_*/nebulafile/
+https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
+https://lf-cdn-tos.bytescm.com/obj/static/ad
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
