@@ -1345,6 +1345,7 @@ aweme.snssdk.com
 www.bkaivl2daed.com
 www2.bkaivl2daed.com
 sdkgen.data.tianwenca.com
+*.guangtuikeji.com
 *.appsflyersdk.com
 *.jmedium.cn
 *.amazon-adsystem.com

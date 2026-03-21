@@ -1,3 +1,4 @@
+*.guangtuikeji.com
 *.appsflyersdk.com
 *.jmedium.cn
 *.amazon-adsystem.com

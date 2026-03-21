@@ -24,6 +24,7 @@ https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
 https://g-acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash.ads
+https://acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.idle.rule.config
@@ -489,3 +490,5 @@ https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic
 https://media-img.puui.qpic.cn/media_img
 https://vv.video.qq.com/getvinfo
 https://richmedia.video.qq.com/get_rich_media_info
+https://cdn2.guangtuikeji.com/adx
+https://guoguo-cdn.cainiao.com/cnn_guide_ads
