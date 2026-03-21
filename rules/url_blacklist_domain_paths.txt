@@ -10,10 +10,13 @@ https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://app.bilibili.com/x/v2/splash
+https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://api.bilibili.com/x/vas_ads_open
+https://i0.hdslb.com/bfs/sycp/creative_img
 https://i1.hdslb.com/bfs/sycp/creative_img
 https://i2.hdslb.com/bfs/sycp/creative_img
 https://i3.hdslb.com/bfs/sycp/creative_img
+grpc.biliapi.net/bilibili.app.resource.v1.Module/List
 https://api.live.bilibili.com/xlive/web-ucenter/v1/banned/GetShieldKeywordList
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report

@@ -26,5 +26,4 @@ tls-goofish.dingtalk.com
 *.kzurl03.cn
 bike.meituan.com
 ai.amap.com
-*.hdslb.com
 *.smaato.net
