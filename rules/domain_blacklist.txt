@@ -1021,7 +1021,6 @@ orange-dc.m.taobao.com
 pages-fast.m.taobao.com
 atoken.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
-tls-goofish.dingtalk.com
 i.snssdk.com
 lf.snssdk.com
 sdk-track.66mobi.com
@@ -1210,7 +1209,6 @@ adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com
 media-show.wanzi.com
-gaoneng.bilibili.com
 goblin.hupu.com
 csj-sp.csjdeveloper.com
 dspadlogger.waimai.meituan.com
@@ -1338,6 +1336,15 @@ newsad.ssp.qq.com
 inews.gtimg.com
 adui.tg.meitu.com
 rabbit.tg.meitu.com
+cgi.connect.qq.com
+ltscsy.qq.com
+ugchsy.gtimg.com
+reading.snssdk.com
+effect.snssdk.com
+aweme.snssdk.com
+www.bkaivl2daed.com
+www2.bkaivl2daed.com
+sdkgen.data.tianwenca.com
 *.appsflyersdk.com
 *.jmedium.cn
 *.amazon-adsystem.com
@@ -1442,3 +1449,5 @@ stream-api.feedcoopapi.com
 *.da.hunantv.com
 *.log.mgtv.com
 *.aaa.mgtv.com
+*.bjmxy.net
+*.cjjd14.com

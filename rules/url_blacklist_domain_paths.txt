@@ -9,6 +9,8 @@ https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
+https://upos-sz-mirrorcos.bilivideo.com/ssaxcode
+https://i0.hdslb.com/bfs/fawkes/dd/prod/iphone.zip
 https://app.bilibili.com/x/v2/splash
 https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://api.bilibili.com/x/vas_ads_open
@@ -16,7 +18,6 @@ https://i0.hdslb.com/bfs/sycp/creative_img
 https://i1.hdslb.com/bfs/sycp/creative_img
 https://i2.hdslb.com/bfs/sycp/creative_img
 https://i3.hdslb.com/bfs/sycp/creative_img
-grpc.biliapi.net/bilibili.app.resource.v1.Module/List
 https://api.live.bilibili.com/xlive/web-ucenter/v1/banned/GetShieldKeywordList
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
@@ -166,6 +167,10 @@ https://img3.doubanio.com/view/dale-online/dale_ad
 https://img1.doubanio.com/view/dale-online/dale_ad
 https://img2.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad
+https://interface3.music.163.com/eapi/delivery/deliver
+https://interface3.music.163.com/eapi/delivery/batch-deliver
+https://interface3.music.163.com/eapi/link/position/show/resource
+https://interface3.music.163.com/eapi/resource-exposure/activity/config/get
 https://mc.tencentmusic.com/sdk/ad
 https://oss.umetrip.com/fs/advert
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
@@ -180,6 +185,7 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
+https://s3plus.meituan.net/v1/mss
 https://s3plus.meituan.net/v1/mss_*/nebulafile/
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
@@ -476,3 +482,10 @@ https://app.bilibili.com/x/resource/abtest/abserver
 https://api.zhihu.com/metrics/report
 https://goofish.com/splash
 https://goofish.com/ad
+https://file.video.qpic.cn/file_offline_package_manage_
+https://playproxy.video.qq.com/monet/comm_resource/get
+https://vv6.video.qq.com/getvinfo
+https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic
+https://media-img.puui.qpic.cn/media_img
+https://vv.video.qq.com/getvinfo
+https://richmedia.video.qq.com/get_rich_media_info

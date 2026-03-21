@@ -102,3 +102,5 @@ stream-api.feedcoopapi.com
 *.da.hunantv.com
 *.log.mgtv.com
 *.aaa.mgtv.com
+*.bjmxy.net
+*.cjjd14.com

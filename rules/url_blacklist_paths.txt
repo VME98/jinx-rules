@@ -1,4 +1,5 @@
-obj/static/ad
+/ssaxcode
+/obj/static/ad
 /mtop.idle.idleadv.scene.restore
 /app_ads
 /splash/
