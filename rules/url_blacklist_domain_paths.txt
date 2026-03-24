@@ -196,6 +196,7 @@ https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
 https://gateway.kugou.com/ads.gateway
 https://gateway.kugou.com/ads.service
+https://gateway.kugou.com/pxy/v1/combo/startup
 https://gateway.kugou.com/youth/v1/ad/
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
@@ -415,12 +416,14 @@ https://creditcardapp.bankcomm.com/mapp/common/getPopAds.do
 https://creditcardapp.bankcomm.com/mapp/common/queryGuidePageAds.do
 https://v.icbc.com.cn/userfiles/Resources/WAP/advertisement
 https://m.client.10010.com/mobileService/activity/accountListData
+https://m.client.10010.com/mobileService/activity/homePopUpActivityNew.htm
 https://m.client.10010.com/mobileService/customer/get_client_adv
 https://m.client.10010.com/mobileService/customer/get_startadv
+https://m.client.10010.com/mobileserviceNine/api/v1/homeService/getServiceHomeMarketingBits
+https://m.client.10010.com/getDataFromService?methodType=topAdGet
 https://m.client.10010.com/uniAdmsInterface/getHomePageAd
 https://m.client.10010.com/uniAdmsInterface/getWelcomeAd
 https://clientaccess.10086.cn/biz-orange/DN/init/startInit
-https://client.app.coc.10086.cn/biz-orange/DN/explorePage/getAdverList
 https://gd.10086.cn/zt-portal/gxhzg/portal/app/api/v
 https://gx.10086.cn/zt-portal/gxhzg/portal/app/api/v
 https://smsrebuild1.mail.10086.cn/together/s

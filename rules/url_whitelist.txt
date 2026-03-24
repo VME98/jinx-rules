@@ -4,6 +4,12 @@ bilibili.community.service.dm.v1.DM/DmView
 /x/v2/dm/
 /x/v2/search/square
 /x/web-interface/search/square
+https://r.inews.qq.com/getNewsRemoteConfig
+https://clientaccess.10086.cn/biz-orange/BN/scoreQueryService/getScoreQuery
+https://clientaccess.10086.cn/biz-orange/BN/payFeesQuery/getPayFeesQueryInfo
+https://clientaccess.10086.cn/biz-orange/BN/realFeeQuery/getRealFee
+https://clientaccess.10086.cn/biz-orange/BH/newPlanRemainQry/getNewPlanRemainQry
+https://clientaccess.10086.cn/biz-orange/BN/userInformationService/getUserInformation
 /api/pay/
 /api/payment/
 /api/order/

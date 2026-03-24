@@ -1,3 +1,10 @@
+clientaccess.10086.cn
+pic5.40017.cn
+file.40017.cn
+pic4.40017.cn
+datahub.zhihu.com
+m-cloud.zhihu.com
+license.vodglcdn.com
 LOG-AUTH.FLYSLEEP.CN
 log-auth.flysleep.cn
 dypnsapi.aliyuncs.com
@@ -16,6 +23,11 @@ apple.com
 icloud.com
 apple-cloudkit.com
 mzstatic.com
+i4.cn
+search-app-m.i4.cn
+pub-conf-m.i4.cn
+cl-m.i4.cn
+list-app-m.i4.cn
 itunes.apple.com
 apps.apple.com
 appstoreconnect.apple.com
@@ -37,6 +49,7 @@ punch.p2p.qq.com
 v6-accvideo.wns.qq.com
 vv.video.qq.com
 vv6.video.qq.com
+appcfg.v.qq.com
 alipay.com
 alipayobjects.com
 mdap.alipay.com
@@ -124,6 +137,9 @@ auth.wosms.cn
 cdn.coolapk.com
 config.cmpassport.com
 config2.cmpassport.com
+dnconfig.cmpassport.com
+dnlog.cmpassport.com
+pub.idqqimg.com
 crl.apple.com
 dns.weixin.qq.com.cn
 gsa.apple.com
@@ -136,8 +152,13 @@ jpush.cn
 l7-online-self-max.s.dsa.cdnbuild.net
 mesu.apple.com
 mihoyo.com
-mssdk.volces.com
 mssdk.volces.com.queniusz.com
+sysdk.cl2009.com
+i.snssdk.com
+is.snssdk.com
+polaris.zijieapi.com
+tnc3-aliec2.zijieapi.com
+tnc3-alisc1.zijieapi.com
 appcloud.zhihu.com
 appcloud2.zhihu.com
 appcloud.in.zhihu.com
@@ -154,6 +175,7 @@ ssdkauth.hpplay.cn
 vfa.hpplay.cn
 logu.hpplay.cn
 msv6.wosms.cn
+sdkapi.cloooud.com
 ocsp.apple.com
 ocsp2.apple.com
 passport.bilibili.cn

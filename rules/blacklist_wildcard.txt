@@ -69,6 +69,10 @@ httpdns.*
 *.bytedance.com.queniurc.com
 *.adkwai.*
 *novelapp.fqnovelvod.com
+*-reading-ad.qznovelvod.com
+*-reading-video.qznovelvod.com
+*-reading-videod.qznovelvod.com
+*-iosreadingvideo.qznovelvod.com
 *.pangolin-sdk-toutiao.com
 *.pangolin-sdk-toutiao-b.com
 *.pangolin-sdk-toutiao1.com
@@ -105,3 +109,4 @@ stream-api.feedcoopapi.com
 *.aaa.mgtv.com
 *.bjmxy.net
 *.cjjd14.com
+*.iosreadingvideo.qznovelvod.com

@@ -13,6 +13,8 @@
 /launch_ad
 /app_start/ad
 /splash/show
+/common/qryPopAds.do
+/common/qryLaunchAds.do
 /get_thridparity_open_ads
 /mtop.fliggy.crm.screen.availablesplashstrategies
 /api/ad
@@ -68,4 +70,5 @@
 /splashscreen/
 /opening_ad/
 /welcome_ad/
+/goku/lucency/
 /gaia-gateway
