@@ -164,7 +164,6 @@ appcloud2.in.zhihu.com
 klink.volceapplog.com
 toblog.volceapplog.com
 tobapplog.volceapplog.com
-sf3-fe-tos.pglstatp-toutiao.com
 conf.hpplay.cn
 rp.hpplay.cn
 cdnauth1.hpplay.cn
