@@ -76,6 +76,11 @@ https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
 https://api5-lf.qishui.com/luna/ads/config
+https://api-hl.amemv.com/luna/ads/config
+https://api-hl.amemv.com/luna/advert
+https://api-hl.amemv.com/luna/launch
+https://api-hl.amemv.com/aweme/v1/ad/
+https://api-hl.amemv.com/aweme/v1/splash/
 https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/

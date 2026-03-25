@@ -35,3 +35,4 @@
 *.10jqka.com.cn
 *.umiwi.com
 piccdn*
+*.ndcpp.com

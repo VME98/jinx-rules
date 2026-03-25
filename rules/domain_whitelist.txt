@@ -157,8 +157,6 @@ sysdk.cl2009.com
 i.snssdk.com
 is.snssdk.com
 polaris.zijieapi.com
-tnc3-aliec2.zijieapi.com
-tnc3-alisc1.zijieapi.com
 appcloud.zhihu.com
 appcloud2.zhihu.com
 appcloud.in.zhihu.com
@@ -203,6 +201,13 @@ seeds-sina.xycdn.com
 gia.jd.com
 httpdns.qq.com
 cloud.tgpa.qq.com
+scene.ke.com
+ab.ke.com
+license.vod2.myqcloud.com
+onepass.geetest.com
+httpdns.yunxinfw.com
+static.360buyimg.com
+ccc-x.jd.com
 *.smaato.*
 *.mediation.unity3d.com
 *.7moor.com
@@ -240,3 +245,4 @@ cloud.tgpa.qq.com
 *.10jqka.com.cn
 *.umiwi.com
 piccdn*
+*.ndcpp.com
