@@ -528,7 +528,6 @@ https://emdcadvertise.eastmoney.com/infoService
 https://pdapis.pdnews.cn/api/rmrb-bff-display-zh/display/zh/c/launchPage
 https://entree-ws.igetget.com/oms/front/start/push
 https://bbs-api.miyoushe.com/apihub/api/getAppSplash
-https://api.hellobike.com/api
 https://gameapi.hellobike.com/api
 https://cap.caocaokeji.cn/advert-bss
 https://minicap.caocaokeji.cn/advert-bss/pullAdvert
@@ -589,3 +588,6 @@ https://vv.video.qq.com/getvinfo
 https://richmedia.video.qq.com/get_rich_media_info
 https://cdn2.guangtuikeji.com/adx
 https://guoguo-cdn.cainiao.com/cnn_guide_ads
+https://p1.meituan.net/adunion
+https://p0.meituan.net/adunion
+https://api.bilibili.com/x/push/broadcast/display
