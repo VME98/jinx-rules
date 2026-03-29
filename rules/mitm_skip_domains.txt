@@ -25,4 +25,7 @@ tls-goofish.dingtalk.com
 *.kzurl03.cn
 bike.meituan.com
 ai.amap.com
-*.smaato.net
+*.qznovelvod.com
+*.douyincdn.com
+*.douyinliving.com
+*.ixigua.com

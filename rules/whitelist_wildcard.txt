@@ -1,4 +1,3 @@
-*.smaato.*
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com

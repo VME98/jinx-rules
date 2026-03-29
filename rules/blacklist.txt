@@ -702,7 +702,6 @@ sf16-static.i18n-pglstatp.com
 sigmob.com
 skdisplay.jd.com
 sl.hpplay.cn
-slb-p2p.vcloud.ks-live.com
 smad.ms.zhangyue.net
 smartad.10010.com
 smetrics.samsung.com
@@ -1041,7 +1040,6 @@ access.toggle.qq.com
 jsb.zijieapi.com
 gatherer.m.qq.com
 orange-dc.m.taobao.com
-pages-fast.m.taobao.com
 atoken.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 i.snssdk.com
@@ -1062,7 +1060,6 @@ impression.biligame.com
 dsap.jd.com
 tracking.leiting.com
 imp-toutiao-data.37.com.cn
-bd-fireworks.eastmoney.com
 emdcadvertise.eastmoney.com
 appadvise.eastmoney.com
 startup.umetrip.com
@@ -1133,9 +1130,6 @@ gdmf-ados.v.aaplimg.com
 gwm.taobao.com
 i.qchannel03.cn
 image.uczzd.cn
-imgcps1.jd.com
-imgcps2.jd.com
-imgcps3.jd.com
 inews.gtimg.com.sched.legopic2-dk.tdnsv6.com
 live-ad.jd.com
 log.mmstat.com
@@ -1288,8 +1282,6 @@ httpdns.baidubce.com
 httpdns.c.cdnhwc2.com
 httpdns.calorietech.com
 httpdns.meituan.com
-httpdns.music.163.com
-httpdns.n.netease.com
 httpdns.push.oppomobile.com
 httpdns.volcengineapi.com
 httpdns.yunxindns.com
@@ -1319,8 +1311,6 @@ nbsdk-baichuan.taobao.com
 appdownload.alicdn.com
 adgate.jd.com
 adsp.jd.com
-heracles.jd.com
-jpushsc.m.jd.com
 pingjs.qq.com
 pingma.qq.com
 tmeadkg.y.qq.com
@@ -1372,3 +1362,10 @@ dypnsapi.aliyuncs.com
 wvcfg.alicdn.com
 x.hyzhihe.com
 api-mayi.django.t.taobao.com
+dns.fsbkw.com
+dy-tt9.org
+xadget.bhfanshi.cn
+api.meishesdk.com
+hw-advert-video.jiakaobaodian.com
+ssp.kakamobi.cn
+ad-transform.kakamobi.cn

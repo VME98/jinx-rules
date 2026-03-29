@@ -1,3 +1,5 @@
+apikey.map.qq.com
+frog.yuanfudao.com
 clientaccess.10086.cn
 pic5.40017.cn
 file.40017.cn
@@ -207,7 +209,6 @@ onepass.geetest.com
 httpdns.yunxinfw.com
 static.360buyimg.com
 ccc-x.jd.com
-*.smaato.*
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com
