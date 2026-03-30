@@ -864,8 +864,6 @@ wv.inner-active.mobi
 wwads.cn
 wxa.wxs.qq.com
 wxaintpcos.wxqcloud.qq.com.cn
-wximg.wxs.qq.com
-wxsmw.wxs.qq.com
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
@@ -1168,7 +1166,6 @@ track.ximalaya.com
 tracker.mv.72kjmb.com
 tracking.ximalaya.com
 union.jd.com
-vdn6.vzuu.com
 video-ad.jd.com
 vip.jiasule.org
 vod.300hu.com
@@ -1209,7 +1206,6 @@ qcwx.medproad.com
 tr.medproad.com
 adtracker.medproad.com
 ad.us.sinaimg.cn
-tvax3.sinaimg.cn
 xs.gdt.qq.com
 ipv4.gdt.qq.com
 kadmimage.biz.weibo.com
@@ -1369,6 +1365,8 @@ api.meishesdk.com
 hw-advert-video.jiakaobaodian.com
 ssp.kakamobi.cn
 ad-transform.kakamobi.cn
+lf-leads-fe-scm.bytecdn.com
+tj-adc-exposure.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com
 *.jmedium.cn

@@ -1,3 +1,4 @@
+p214-imap.mail.icloud.com.cn
 apikey.map.qq.com
 frog.yuanfudao.com
 clientaccess.10086.cn
@@ -104,8 +105,6 @@ douyin.com
 toutiao.com
 dns.google
 cloudflare-dns.com
-dns.alidns.com
-qidian.com
 api-unionid.meituan.com
 httpdns.meituan.com
 file.neixin.cn
@@ -189,8 +188,6 @@ status-ipv6.jpush.cn
 tsis-ipv6.jpush.cn
 tsis.jpush.cn
 www.coolapk.com
-wximg.wxs.qq.com
-wxsmw.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com

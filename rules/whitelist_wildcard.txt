@@ -3,7 +3,6 @@
 *.tpns.tencent.com
 *.github.com
 *.githubusercontent.com
-*.shouji.sogou.com
 *.shouji.sougou.com
 *.ecombdapi.com
 *.ecombdimg.com
@@ -18,9 +17,6 @@
 *.akamai.net
 *.akamaitechnologies.com
 *.tl88.net
-*.alikunlun.net
-*.alikunlun.com
-*.xhscdn.com
 *.wagbridge.alsc-prd.tanx.com
 *.bcelive.com
 *.jomodns.com
