@@ -36,7 +36,6 @@ https://acs.m.goofish.com/gw/com.taobao.idle.user.init
 https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.circle.list
 https://ynuf.aliapp.org/service/um.json
 https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
-https://mobilegw.alipay.com/mgw.htm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logconfig.do
 https://wximg.wxs.qq.com/*/ads*
 https://wxsmw.wxs.qq.com/*/ads*
@@ -205,8 +204,6 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
-https://s3plus.meituan.net/v1/mss
-https://s3plus.meituan.net/v1/mss_*/nebulafile/
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
 https://lf-cdn-tos.bytescm.com/obj/static/ad
@@ -504,11 +501,7 @@ https://api.zhihu.com/metrics/report
 https://goofish.com/splash
 https://goofish.com/ad
 https://file.video.qpic.cn/file_offline_package_manage_
-https://playproxy.video.qq.com/monet/comm_resource/get
-https://vv6.video.qq.com/getvinfo
-https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic
 https://media-img.puui.qpic.cn/media_img
-https://vv.video.qq.com/getvinfo
 https://richmedia.video.qq.com/get_rich_media_info
 https://cdn2.guangtuikeji.com/adx
 https://guoguo-cdn.cainiao.com/cnn_guide_ads
