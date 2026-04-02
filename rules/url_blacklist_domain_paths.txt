@@ -1,4 +1,7 @@
 https://api.xiaoheihe.cn/account/ad
+https://api.xiaoheihe.cn/account/get_ads_info_v2
+https://game.gtimg.cn/images/daojushop/uploads/ad
+https://game.gtimg.cn/images/daojushop/zb/ad
 https://beta-luna.douyin.com/luna/advert
 https://beta-luna.douyin.com/luna/launch
 https://api.qishui.com/luna/ads/config
@@ -215,6 +218,8 @@ https://gateway.kugou.com/ads.gateway
 https://gateway.kugou.com/ads.service
 https://gateway.kugou.com/pxy/v1/combo/startup
 https://gateway.kugou.com/youth/v1/ad/
+https://gateway3.kugou.com/ads.gateway
+https://*.kugou.com/ads.gateway
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
 https://ad.maoyan.com/api/position/detail
@@ -330,6 +335,7 @@ https://promo.xueqiu.com/promotion/display_ad
 https://promo.xueqiu.com/promotion/feed_display
 https://promo.xueqiu.com/promotion/search_ad
 https://promo.xueqiu.com/promotion/splash
+https://fmapp.chinafamilymart.com.cn/api/app/market/start/ad
 https://101.xueqiu.com
 https://api.m.jd.com/client.action?functionId=home_launchConfig
 https://api.m.jd.com/client.action?functionId=start

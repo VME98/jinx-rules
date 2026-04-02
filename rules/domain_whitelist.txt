@@ -206,6 +206,7 @@ onepass.geetest.com
 httpdns.yunxinfw.com
 static.360buyimg.com
 ccc-x.jd.com
+dgw.c10r.facebook.com
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com
