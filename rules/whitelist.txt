@@ -1,3 +1,4 @@
+sdk.verification.jiguang.cn
 p214-imap.mail.icloud.com.cn
 apikey.map.qq.com
 frog.yuanfudao.com

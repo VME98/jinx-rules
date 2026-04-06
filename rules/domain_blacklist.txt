@@ -1590,6 +1590,10 @@ ads.lejuliang.cn
 vegslb.com
 weilayun.com
 page.cainiao.com.danuoyi.tbcache.com
+ad.ddxq.mobi
+zad.cztv.com
+adx-cfg-u1.ubixioe.com
+bd-cdn.halomobi.com
 *-ad.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com

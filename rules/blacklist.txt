@@ -1580,6 +1580,10 @@ ads.lejuliang.cn
 vegslb.com
 weilayun.com
 page.cainiao.com.danuoyi.tbcache.com
+ad.ddxq.mobi
+zad.cztv.com
+adx-cfg-u1.ubixioe.com
+bd-cdn.halomobi.com
 abtest.volceapplog.com
 shark-tracer.netease.com
 ytadsdk.radio.cn

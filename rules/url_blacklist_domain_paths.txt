@@ -369,7 +369,6 @@ https://api.douban.com/v2/app_ads
 https://api.douban.com/v2/app_ads/splash
 https://api.douban.com/v2/app_ads/splash_show
 https://api.douban.com/v2/app_ads/splash_preload
-https://games.mobileapi.hupu.com/interfaceAdMonitor
 https://goblin.hupu.com/interfaceAd/getOther
 https://api.xiachufang.com/v2/ad
 https://api.zhuishushenqi.com/advert
@@ -521,3 +520,4 @@ https://sh-gateway.shihuo.cn/v4/services/sh-adapi/home/ad
 https://livewsa.ximalaya.com/live-data-web/v1/app/push/screen
 http://pns.ximalaya.com/pns-portal/pns/startUp
 https://api.bilibili.com/x/kv-frontend/namespace/data
+https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads
