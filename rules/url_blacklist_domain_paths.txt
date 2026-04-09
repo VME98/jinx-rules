@@ -12,6 +12,8 @@ https://api-hl.amemv.com/luna/launch
 https://api-hl.amemv.com/aweme/v1/ad/
 https://api-hl.amemv.com/aweme/v1/splash/
 https://tr.byteurl.cn/ad
+https://api.bilibili.com/open
+https://api.bilibili.com/x/v2/dm/exposure
 https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/
@@ -38,12 +40,12 @@ https://acs.m.goofish.com/gw/mtop.taobao.idlecommerce.splash
 https://acs.m.goofish.com/gw/com.taobao.idle.user.init
 https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.circle.list
 https://ynuf.aliapp.org/service/um.json
-https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logconfig.do
 https://wximg.wxs.qq.com/*/ads*
 https://wxsmw.wxs.qq.com/*/ads*
-https://wxapp.*.com/wxapp/advertion*
+https://wxapp.*.com/wxapp/advert*
 https://*.aliyuncs.com/adverts/*
+https://open.laiyagushi.com/ad-track
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.goofish.com/gw/mtop.idle.ad.expose
 https://acs.m.goofish.com/gw/mtop.taobao.idle.rule.config
@@ -154,9 +156,7 @@ https://trade-acs.m.taobao.com/gw/mtop.taobao.idlecommerce.splash.ads
 https://trade-acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch
 https://trade-acs.m.taobao.com/gw/mtop.idle.ad.expose
 https://trade-acs.m.taobao.com/gw/mtop.taobao.idle.activity.query
-https://ipm.atm.youku.com/ipm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
-/iflyad/deliverysystem/material/
 https://apimobile.meituan.com/prom/v2
 https://p0.meituan.net/bizad/
 https://p1.meituan.net/bizad/
@@ -165,6 +165,8 @@ https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.nextfresh
 https://wmapi.meituan.com/api/v7/startpicture
 https://s.qiumibao.com/activities/material/json.htm
 https://a.qiumibao.com/ios/config/
+https://ggtg.duoduocdn.com/ad
+https://img1.360buyimg.com/pop/jfs
 https://api.zhihu.com/commercial_api/launch_v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://api.zhihu.com/commercial_api
@@ -175,6 +177,7 @@ https://sugar.zhihu.com/ad-track
 https://sugar.zhihu.com/glory_adreaper
 https://appcloud2.in.zhihu.com/api/env/check
 https://api.weibo.cn/2/client/launch
+https://api.weibo.cn/*/ad
 https://1249900002-0.m.ctrmi.cn/t/ad2
 https://bootpreload.uve.weibo.com/v1/ad/preload
 https://api.weibo.cn/2/sdk/union_config
@@ -211,6 +214,7 @@ https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
 https://lf-cdn-tos.bytescm.com/obj/static/ad
 https://*.bytegecko.com/obj/byte-gurd-source-gr/ad
+https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/getSortInfo
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
@@ -439,6 +443,7 @@ https://creditcardapp.bankcomm.cn/mappweb_interface/common/qryLaunchAds.do
 https://creditcardapp.bankcomm.com/mapp/common/getPopAds.do
 https://creditcardapp.bankcomm.com/mapp/common/queryGuidePageAds.do
 https://v.icbc.com.cn/userfiles/Resources/WAP/advertisement
+https://m.client.10010.com/getDataFromService?*&methodType=topAdGet
 https://m.client.10010.com/mobileService/activity/homePopUpActivityNew.htm
 https://m.client.10010.com/mobileService/customer/get_client_adv
 https://m.client.10010.com/mobileService/customer/get_startadv
@@ -488,6 +493,7 @@ https://m.you.163.com/activity/popWindow
 https://app.bilibili.com/x/v2/splash/list
 https://app.bilibili.com/x/v2/splash/show
 https://app.bilibili.com/x/v2/splash/brand/list
+https://grpc.biliapi.net/bilibili.community.service.dm.v1.dm/dmview
 https://app.bilibili.com/x/vip/ads/material/report
 https://api.bilibili.com/x/vip/ads/material/report
 https://cm.bilibili.com/cm/api
@@ -516,8 +522,9 @@ https://api.bilibili.com/x/push/broadcast/display
 https://pan.baidu.com/buy/ad
 https://pn.baidu.com/iad
 https://pan.baidu.com/*/adv
+https://sh-gateway.shihuo.cn/v4/services/sh-adapi
 https://sh-gateway.shihuo.cn/v4/services/sh-adapi/home/ad
 https://livewsa.ximalaya.com/live-data-web/v1/app/push/screen
-http://pns.ximalaya.com/pns-portal/pns/startUp
+https://pns.ximalaya.com/pns-portal/pns/startUp
 https://api.bilibili.com/x/kv-frontend/namespace/data
 https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads

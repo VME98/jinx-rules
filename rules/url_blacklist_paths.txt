@@ -72,3 +72,4 @@
 /welcome_ad/
 /goku/lucency/
 /gaia-gateway
+/iflyad/deliverysystem/material/

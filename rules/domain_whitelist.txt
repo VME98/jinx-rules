@@ -1,4 +1,5 @@
-sdk.verification.jiguang.cn
+input.shouji.sogou.com
+img.shouji.sogou.com
 p214-imap.mail.icloud.com.cn
 apikey.map.qq.com
 frog.yuanfudao.com

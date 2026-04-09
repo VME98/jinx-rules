@@ -8,6 +8,9 @@ ad-*file.myqcloud.com
 *-ad.adbkwai.com
 *-ad.gskwai.com
 *-ad.adukwai.com
+*.adparticle.com
+ad-*.com
+ad-*.net
 *-ad.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com

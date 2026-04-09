@@ -991,7 +991,6 @@ wpk-hb3c-lbg-2.ude.effirst.com
 ads.ximalaya.com
 www.qchannel01.cn
 tab.volces.com.c.dsa.cdnbuild.net
-ios.rqd.qq.com
 f5ie8y7l.dayugslb.com
 adx.zuoyebang.com
 log.volces.com
@@ -1129,6 +1128,7 @@ gwm.taobao.com
 i.qchannel03.cn
 image.uczzd.cn
 inews.gtimg.com.sched.legopic2-dk.tdnsv6.com
+ios.rqd.qq.com
 live-ad.jd.com
 log.mmstat.com
 log.p3-sign.douyinpic.com
@@ -1594,6 +1594,20 @@ ad.ddxq.mobi
 zad.cztv.com
 adx-cfg-u1.ubixioe.com
 bd-cdn.halomobi.com
+mdap.mpaas.cn-hangzhou.aliyuncs.com
+admedia.elemecdn.com
+ad-drs.52qumao.com
+ad-ocpx.zhltech.net
+ad-drs-ipv6.52qumao.com
+ad-drs-ipv4.52qumao.com
+api-adx.52qumao.com
+business.msstatic.com
+ads-log.huolala.cn
+ads-i10.xhscdn.com
+adv.ccb.com
+*.adparticle.com
+ad-*.com
+ad-*.net
 *-ad.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com

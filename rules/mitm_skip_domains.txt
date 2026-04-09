@@ -6,8 +6,3 @@
 *.google.com
 *.googleapis.com
 *.gstatic.com
-auth-asg.aliyuncs.com
-mpaasapi.mpaas.cn-hangzhou.aliyuncs.com
-cloudauth-device.aliyuncs.com
-id6.me
-api-e189.21cn.com
