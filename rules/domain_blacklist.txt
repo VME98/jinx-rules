@@ -1607,6 +1607,12 @@ wpad
 qiniu-ad.super.cn
 wpad.lan
 bid.adbiding.com
+lf3-ad.searchpstatp.com
+ad.myfriday.cn
+vip.ad.qq.com
+v.ad.qq.com
+adcdn.l.qq.com
+ad.l.qq.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 aanetwork.vn
@@ -9612,7 +9618,9 @@ zxc.world
 zz.bdstatic.com
 appsflyer.com
 appsflyersdk.com
+*-ad.searchpstatp.com
 *.adbiding.com
+*.adbiding.cn
 *.adparticle.com
 ad-*.com
 ad-*.net

@@ -63,7 +63,9 @@ prod.*.publishers.advertising.a2z.com
 promo-*.vercel.app
 tblog-*.kgslb.com
 v*.denakop.com
+*-ad.searchpstatp.com
 *.adbiding.com
+*.adbiding.cn
 *.adparticle.com
 ad-*.com
 ad-*.net

@@ -313,6 +313,7 @@ https://m.ctrip.com/restapi/soa2/12673/queryWeChatHotEvent
 https://m.ctrip.com/restapi/soa2/13916/tripAds
 https://client.qunar.com/pitcher-proxy?qrt=p_splashAd
 https://homefront.qunar.com/front/splash/ad
+https://m.ctrip.com/mkt-ad-monitor
 https://conf.diditaxi.com.cn/homepage/v1/core
 https://htwkop.xiaojukeji.com/gateway?api=cms.htw.delivery
 https://htwkop.xiaojukeji.com/gateway?api=hm.fa.combineHomepageInfo
@@ -351,6 +352,7 @@ https://mime.baidu.com/v2/IosStart/getStartInfo
 https://mime.baidu.com/v2/activity/advertisement
 https://mobads.baidu.com/cpro/ui/mads.php
 https://appwk.baidu.com/xpage/interface/wknaad
+https://pan.baidu.com/rest/2.0/membership/advertise/dsp
 https://interface.music.163.com/eapi/ad
 https://interface.music.163.com/eapi/hot
 https://interface.music.163.com/eapi/sp
@@ -597,6 +599,7 @@ https://api.bilibili.com/x/push/broadcast/display
 https://pan.baidu.com/buy/ad
 https://pn.baidu.com/iad
 https://pan.baidu.com/*/adv
+https://pan.baidu.com/rest/2.0/pcs/adv
 https://sh-gateway.shihuo.cn/v4/services/sh-adapi
 https://sh-gateway.shihuo.cn/v4/services/sh-adapi/home/ad
 https://livewsa.ximalaya.com/live-data-web/v1/app/push/screen
@@ -606,3 +609,4 @@ https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads
 https://api.wfdata.club/v2/yesfeng/infoCenterAd
 https://api.wfdata.club/v1/yesfeng/infoCenterAd
 https://apimobile.meituan.com/dsp
+https://course.myfriday.cn/Others/Update/V3/startAdSpace.action
