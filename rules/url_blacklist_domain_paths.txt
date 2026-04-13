@@ -22,14 +22,9 @@ https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://upos-sz-mirrorcos.bilivideo.com/ssaxcode
-https://i0.hdslb.com/bfs/fawkes/dd/prod/iphone.zip
 https://app.bilibili.com/x/v2/splash
 https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://api.bilibili.com/x/vas_ads_open
-https://i0.hdslb.com/bfs/sycp/creative_img
-https://i1.hdslb.com/bfs/sycp/creative_img
-https://i2.hdslb.com/bfs/sycp/creative_img
-https://i3.hdslb.com/bfs/sycp/creative_img
 https://api.live.bilibili.com/xlive/web-ucenter/v1/banned/GetShieldKeywordList
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
@@ -365,7 +360,6 @@ https://app.58.com/api/home/advertising
 https://app.58.com/api/home/appadv
 https://app.58.com/api/home/invite/popupAdv
 https://app.58.com/api/log
-https://app.zhuanzhuan.com/zzx/transfer/getConfigInfo
 https://api.taou.com/sdk/global/splash_ad
 https://open.taou.com/maimai/launch_ad
 https://api.zhipin.com/common/ad
@@ -374,7 +368,6 @@ https://api.douban.com/v2/app_ads/splash
 https://api.douban.com/v2/app_ads/splash_show
 https://api.douban.com/v2/app_ads/splash_preload
 https://goblin.hupu.com/interfaceAd/getOther
-https://api.xiachufang.com/v2/ad
 https://api.zhuishushenqi.com/advert
 https://api.zhuishushenqi.com/splashes/ios
 https://b.zhuishushenqi.com/advert
@@ -393,6 +386,14 @@ https://saad.ms.zhangyue.net/ad
 https://mage.if.qidian.com/argus/api/v1/client/getsplashscreen
 https://*.if.qidian.com/argus/api/v2/adv
 https://*.if.qidian.com/argus/api/v1/bookshelf/getHoverAdv
+https://magev6.if.qidian.com/argus/api/v1/adv
+https://*.if.qidian.com/argus/api/v1/adv
+https://magev6.if.qidian.com/argus/api/v1/bookshelf/getad
+https://*.if.qidian.com/argus/api/v1/bookshelf/getad
+https://magev6.if.qidian.com/argus/api/v2/bookshelf/getad
+https://*.if.qidian.com/argus/api/v2/bookshelf/getad
+https://magev6.if.qidian.com/argus/api/v1/client/iosad
+https://magev6.if.qidian.com/argus/api/v2/client/iosad
 https://api.kkmh.com/v1/ad
 https://api.kkmh.com/v1/advertisement
 https://mangaapi.manhuaren.com/v2/public/getShelfActivity
@@ -490,7 +491,6 @@ https://api3.cls.cn/v1/boot/ad
 https://api.vistopia.com.cn/api/v1/home/advertisement
 https://support.you.163.com/xhr/boot/getBootMedia.json
 https://m.you.163.com/activity/popWindow
-https://app.bilibili.com/x/v2/splash/list
 https://app.bilibili.com/x/v2/splash/show
 https://app.bilibili.com/x/v2/splash/brand/list
 https://grpc.biliapi.net/bilibili.community.service.dm.v1.dm/dmview
@@ -528,3 +528,6 @@ https://livewsa.ximalaya.com/live-data-web/v1/app/push/screen
 https://pns.ximalaya.com/pns-portal/pns/startUp
 https://api.bilibili.com/x/kv-frontend/namespace/data
 https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads
+https://api.wfdata.club/v2/yesfeng/infoCenterAd
+https://api.wfdata.club/v1/yesfeng/infoCenterAd
+https://apimobile.meituan.com/dsp
