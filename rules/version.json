@@ -1,7 +1,7 @@
 {
-  "version": "2.7.2",
-  "lastUpdate": "2026-04-13T08:08:16Z",
-  "domainBlacklistCount": 9756,
+  "version": "2.7.3",
+  "lastUpdate": "2026-04-13T10:32:09Z",
+  "domainBlacklistCount": 3570,
   "domainWhitelistCount": 246,
   "urlBlacklistCount": 612,
   "urlWhitelistCount": 23,
