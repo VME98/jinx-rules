@@ -55,8 +55,6 @@
 /obj/web.business.image
 /img/web.business.image
 /client/startpicture
-/api/v7/loadInfo
-/horn/v1/
 /gw/mtop.taobao.wireless.home.splash
 /gw/mtop.alimarket.splash
 /gw/mtop.taobao.wireless.splash
@@ -70,8 +68,6 @@
 /splashscreen/
 /opening_ad/
 /welcome_ad/
-/goku/lucency/
-/gaia-gateway
 /iflyad/deliverysystem/material/
 https://api.xiaoheihe.cn/account/ad
 https://api.xiaoheihe.cn/account/get_ads_info_v2
@@ -415,8 +411,6 @@ https://fmapp.chinafamilymart.com.cn/api/app/market/start/ad
 https://101.xueqiu.com
 https://api.m.jd.com/client.action?functionId=home_launchConfig
 https://api.m.jd.com/client.action?functionId=start
-https://ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture
-https://ms.jr.jd.com/gw/generic/base/na/m/adInfo
 https://lop-proxy.jd.com/queryAppHomePageMarketingRecommendRuleConfigInfo
 https://jdread-api.jd.com/jdread/api/channel/module/opens
 https://jdread-api.jd.com/jdread/api/popup

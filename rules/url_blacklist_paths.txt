@@ -55,8 +55,6 @@
 /obj/web.business.image
 /img/web.business.image
 /client/startpicture
-/api/v7/loadInfo
-/horn/v1/
 /gw/mtop.taobao.wireless.home.splash
 /gw/mtop.alimarket.splash
 /gw/mtop.taobao.wireless.splash
@@ -70,6 +68,4 @@
 /splashscreen/
 /opening_ad/
 /welcome_ad/
-/goku/lucency/
-/gaia-gateway
 /iflyad/deliverysystem/material/

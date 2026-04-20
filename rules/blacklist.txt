@@ -1206,12 +1206,10 @@ kadmimage.biz.weibo.com
 rhdc-acs.m.taobao.com
 lf-reward-video.bytedcdn.com
 vas-lf-x.snssdk.com
-timon.zijieapi.com
 ma.zijieapi.com
 feedback-c.zijieapi.com
 mktm.jd.com
 broker.tips2.gz.tencent.com
-app-alpha.bytedance.net
 adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com
@@ -1237,7 +1235,6 @@ tower.17gwx.com
 i-lq.snssdk.com
 is.snssdk.com
 security-lq.snssdk.com
-gurd.snssdk.com
 v6-novelapp.ixigua.com
 gecko5-hj.zijieapi.com
 gecko5-lq.zijieapi.com
@@ -1603,6 +1600,8 @@ vip.ad.qq.com
 v.ad.qq.com
 adcdn.l.qq.com
 ad.l.qq.com
+ads.zyudkkup.com
+app-analytics-services.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

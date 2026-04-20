@@ -340,8 +340,6 @@ https://fmapp.chinafamilymart.com.cn/api/app/market/start/ad
 https://101.xueqiu.com
 https://api.m.jd.com/client.action?functionId=home_launchConfig
 https://api.m.jd.com/client.action?functionId=start
-https://ms.jr.jd.com/gw/generic/aladdin/na/m/getLoadingPicture
-https://ms.jr.jd.com/gw/generic/base/na/m/adInfo
 https://lop-proxy.jd.com/queryAppHomePageMarketingRecommendRuleConfigInfo
 https://jdread-api.jd.com/jdread/api/channel/module/opens
 https://jdread-api.jd.com/jdread/api/popup

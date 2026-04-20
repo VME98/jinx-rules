@@ -30,6 +30,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+adx-*.ubixioe.com
 *-ad.searchpstatp.com
 *.adbiding.com
 *.adbiding.cn
@@ -147,7 +148,6 @@ ads*-normal-lq.zijieapi.com.queniuiq.com
 p*-ad-sign.byteimg.com
 p*-ad.byteimg.com
 lf*-orange.byteorge.com
-v*-novelapp.fqnovelvod.com
 sf*-ttcdn-tos.pstatp.com
 p*-local-ads.byteimg.com.queniuso.com
 p*-local-ads.byteimg.com
