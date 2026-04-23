@@ -30,6 +30,12 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+*.ad.*
+ad-*
+ad.*
+*.ads.*
+ads-*
+ads.*
 adx-*.ubixioe.com
 *-ad.searchpstatp.com
 *.adbiding.com

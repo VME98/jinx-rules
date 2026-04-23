@@ -316,7 +316,6 @@ dc.sigmob.cn
 de.tynt.com
 deepinstall.com
 diagnosis.ad.xiaomi.com
-dig.bdurl.net
 dl.zuimeitianqi.com
 dlogs.bwton.com
 dm.toutiao.com
@@ -417,7 +416,6 @@ iad.apple.com
 iad.g.163.com
 ads.cup.com.cn
 adv-api.shenshiads.com
-analytics.oceanengine.com
 api-ad-data.kajicam.com
 api-ad.kajicam.com
 engine.dcad01.com
@@ -761,16 +759,12 @@ tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com
 tnc3-aliec2.toutiaoapi.com
-tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
-tnc3-alisc1.zijieapi.com
-tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
-tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
 tobidad.cn
 tpa-hcdn.iqiyi.com
@@ -1337,7 +1331,6 @@ ade.googlesyndication.com
 newsad.ssp.qq.com
 adui.tg.meitu.com
 rabbit.tg.meitu.com
-cgi.connect.qq.com
 ltscsy.qq.com
 ugchsy.gtimg.com
 reading.snssdk.com
@@ -1612,6 +1605,7 @@ adcdn.l.qq.com
 ad.l.qq.com
 ads.zyudkkup.com
 app-analytics-services.com
+ad.jooancloud.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3431,6 +3425,12 @@ yesads.com
 yesadvertising.com
 yoc-adserver.com
 youradexchange.com
+*.ad.*
+ad-*
+ad.*
+*.ads.*
+ads-*
+ads.*
 adx-*.ubixioe.com
 *-ad.searchpstatp.com
 *.adbiding.com
