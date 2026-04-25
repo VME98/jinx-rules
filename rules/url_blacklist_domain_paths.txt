@@ -1,4 +1,6 @@
+https://a.qiumibao.com/ios/*ad_target
 https://m.ctrip.com/*/tripAds
+https://m.ctrip.com/*/ad
 https://sh-gateway.shihuo.cn/*/sh-adapi
 https://api.xiaoheihe.cn/account/ad
 https://api.xiaoheihe.cn/account/get_ads_info_v2
@@ -155,7 +157,6 @@ https://trade-acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch
 https://trade-acs.m.taobao.com/gw/mtop.idle.ad.expose
 https://trade-acs.m.taobao.com/gw/mtop.taobao.idle.activity.query
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logUpload.do
-https://apimobile.meituan.com/prom/v2
 https://p0.meituan.net/bizad/
 https://p1.meituan.net/bizad/
 https://p2.meituan.net/bizad/
@@ -234,7 +235,6 @@ https://api.mcd.cn/bff/portal/home/hotActivity
 https://api.mcd.cn/bff/portal/richpop
 https://api.mcd.cn/bff/portal/home/splash
 https://dynamicad.kfc.com.cn/api
-https://orders.kfc.com.cn/preorder-portal/api/v2/coupon
 https://res.kfc.com.cn/advertisement
 https://res.kfc.com.cn/CRM/kfcad/custom_v2/wxapp
 https://m.ctrip.com/restapi/soa2/12673/queryWeChatHotEvent
@@ -535,3 +535,5 @@ https://api.wfdata.club/v2/yesfeng/infoCenterAd
 https://api.wfdata.club/v1/yesfeng/infoCenterAd
 https://apimobile.meituan.com/dsp
 https://course.myfriday.cn/Others/Update/V3/startAdSpace.action
+https://pan.baidu.com/*/adx
+https://pan.baidu.com/rest/*ad

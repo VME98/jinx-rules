@@ -1,9 +1,9 @@
 {
-  "version": "2.7.5",
-  "lastUpdate": "2026-04-23T09:57:29Z",
-  "domainBlacklistCount": 3569,
-  "domainWhitelistCount": 246,
-  "urlBlacklistCount": 608,
+  "version": "2.7.6",
+  "lastUpdate": "2026-04-25T13:13:57Z",
+  "domainBlacklistCount": 3572,
+  "domainWhitelistCount": 247,
+  "urlBlacklistCount": 610,
   "urlWhitelistCount": 23,
   "mitmSkipDomainsCount": 8
 }

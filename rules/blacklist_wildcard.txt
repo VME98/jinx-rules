@@ -30,6 +30,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+*.ahdohpiechei.com
 *.ad.*
 ad-*
 ad.*

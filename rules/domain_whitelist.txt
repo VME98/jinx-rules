@@ -1,3 +1,4 @@
+upload-bbs.miyoushe.com
 indivi-cdn.shouji.sogou.com
 get.shouji.sogou.com
 input.shouji.sogou.com
