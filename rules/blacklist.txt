@@ -1598,6 +1598,9 @@ app-analytics-services.com
 ad.jooancloud.com
 ad.thsi.cn
 adbehaviorhera.ximalaya.com
+video-ads.twitter.com
+pagead2.googlevideo.com
+adx.ys7.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

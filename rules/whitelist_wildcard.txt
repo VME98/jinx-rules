@@ -1,3 +1,4 @@
+weread-*.file.myqcloud.com
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com

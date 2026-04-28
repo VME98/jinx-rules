@@ -397,8 +397,6 @@ https://appapi.huazhu.com/client/app/getAppStartPage
 https://app.homeinns.com/api/v5/local
 https://app.homeinns.com/api/v6/indexs
 https://app.homeinns.com/api/landing
-https://capi.lkcoffee.com/resource/m/sys/homePage/contactor/modules
-https://capi.lkcoffee.com/resource/m/sys/app/adposNew
 https://hfapp-service.qweather.net/ad
 https://cdn.moji.com/advert
 https://api.xueqiu.com/brand/search/v1.json
@@ -552,7 +550,6 @@ https://dsp.fcbox.com
 https://webchatapp.fcbox.com/fcboxactivityweb/api/v2/clientPage
 https://supplier-api.imdada.cn/fe/public/ad/spot?forwardServiceName=growth-activity
 https://suyun-guest.daojia.com/api/kuaigou/banjia/review
-https://webapi.qmai.cn/web/catering/advertising/ad
 https://appconf.mail.163.com/mmad
 https://client.mail.163.com/apptrack/confinfo/searchMultiAds
 https://ad.lofter.com
