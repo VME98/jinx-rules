@@ -35,8 +35,6 @@ adx-*.ubixioe.com
 *.adbiding.com
 *.adbiding.cn
 *.adparticle.com
-ad-*.com
-ad-*.net
 *-ad.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com

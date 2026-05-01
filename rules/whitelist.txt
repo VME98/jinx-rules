@@ -1,3 +1,8 @@
+ossp.voicecloud.cn
+s3.voicecloud.cn
+s5.voicecloud.cn
+s10.voicecloud.cn
+imeaigc.openspeech.cn
 mon.snssdk.com
 mon.zijieapi.com
 upload-bbs.miyoushe.com

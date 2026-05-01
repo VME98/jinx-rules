@@ -6,3 +6,7 @@
 *.google.com
 *.googleapis.com
 *.gstatic.com
+cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
+*.captcha-open.aliyuncs.com
+*.captcha-open-b.aliyuncs.com
+peisongapi.meituan.com

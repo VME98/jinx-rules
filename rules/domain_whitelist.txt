@@ -1,3 +1,8 @@
+ossp.voicecloud.cn
+s3.voicecloud.cn
+s5.voicecloud.cn
+s10.voicecloud.cn
+imeaigc.openspeech.cn
 mon.snssdk.com
 mon.zijieapi.com
 upload-bbs.miyoushe.com
@@ -214,7 +219,7 @@ httpdns.yunxinfw.com
 static.360buyimg.com
 ccc-x.jd.com
 dgw.c10r.facebook.com
-weread-*.file.myqcloud.com
+*.openspeech.cn
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com

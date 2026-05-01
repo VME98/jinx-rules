@@ -823,9 +823,6 @@ v2mi.gdt.qq.com
 v3-ad.video.yximgs.com
 v3.gdt.qq.com
 vd6.l.qq.com
-sq.bls.mdt.qq.com
-vi.bls.mdt.qq.com
-vi.l.qq.com
 video-ad.sm.cn
 video-dsp.pddpic.com
 video.dispatch.tc.qq.com
@@ -918,6 +915,7 @@ d.kugou.com
 ins-u5twfbbu.ias.tencent-cloud.net
 xindai.duxiaoman.com
 ad.bdstatic.com
+service.qttunion.com
 https://us.l.qq.com/exapp
 acs.m.taobao.com
 acs.m.cainiao.com
@@ -1189,7 +1187,6 @@ adcdn3.tencentmusic.com
 tmeadcommquic.y.qq.com
 tmeadkgquic.y.qq.com
 tmeadquic.y.qq.com
-report.tencentmusic.com
 t.hs.lingjuad.com
 c3.gdt.qq.com
 empower.pangolin-sdk-toutiao.com
@@ -3435,8 +3432,6 @@ adx-*.ubixioe.com
 *.adbiding.com
 *.adbiding.cn
 *.adparticle.com
-ad-*.com
-ad-*.net
 *-ad.wtzw.com
 *.guangtuikeji.com
 *.appsflyersdk.com

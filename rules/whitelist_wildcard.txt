@@ -1,4 +1,4 @@
-weread-*.file.myqcloud.com
+*.openspeech.cn
 *.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com

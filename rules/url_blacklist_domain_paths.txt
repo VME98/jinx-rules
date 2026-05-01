@@ -1,3 +1,4 @@
+https://api-one-wscn.awtmt.com/apiv1/advertising
 https://a.qiumibao.com/ios/*ad_target
 https://m.ctrip.com/*/tripAds
 https://m.ctrip.com/*/ad
@@ -16,6 +17,7 @@ https://api-hl.amemv.com/luna/launch
 https://api-hl.amemv.com/aweme/v1/ad/
 https://api-hl.amemv.com/aweme/v1/splash/
 https://tr.byteurl.cn/ad
+https://tr.byteurl.cn/ug/ad
 https://api.bilibili.com/open
 https://api.bilibili.com/x/v2/dm/exposure
 https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
@@ -534,3 +536,12 @@ https://apimobile.meituan.com/dsp
 https://course.myfriday.cn/Others/Update/V3/startAdSpace.action
 https://pan.baidu.com/*/adx
 https://pan.baidu.com/rest/*ad
+https://sns.amap.com/ws/activity
+https://sns.amap.com/ws/activity_boost
+https://apimobile.meituan.com/prom/v2
+http://api.weibo.cn/2/h5/comonitor
+https://simg.s.weibo.com/ads
+https://home.mi.com/cgi-op/api/v1/recommendation
+https://drs-ipv6.wtzw.com/client-aggregate/reader_free_ios
+https://drs.wtzw.com/api/v1/i4
+https://drs-ipv6.wtzw.com/api/v3/config
