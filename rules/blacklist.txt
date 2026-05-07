@@ -211,8 +211,6 @@ api.yfanads.com
 api5-normal-quic-lf.ixigua.com
 apiyd.my91app.com
 app-measurement.com
-appgoadhd.189.cn
-appgoadsz.189.cn
 appcfg.v.qq.com
 applog.lc.quark.cn
 applog.uc.cn
@@ -554,7 +552,6 @@ mobilelog.upqzfile.com
 monitor-ads-test.huan.tv
 monitor-uu.play.aiseet.atianqi.com
 monitor.adxsenmeng.com
-monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
 ms.applovin.com
@@ -1598,6 +1595,10 @@ adbehaviorhera.ximalaya.com
 video-ads.twitter.com
 pagead2.googlevideo.com
 adx.ys7.com
+ads.api.vungle.com
+finderdsp.video.qq.com
+admark-x.xunlei.com
+gslbali.ximalaya.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

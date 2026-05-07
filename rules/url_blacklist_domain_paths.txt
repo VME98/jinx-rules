@@ -28,9 +28,14 @@ https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://upos-sz-mirrorcos.bilivideo.com/ssaxcode
+https://upos-sz-staticcos.bilivideo.com/ssaxcode
+https://upos-*.bilivideo.com/ssaxcode
 https://app.bilibili.com/x/v2/splash
 https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
+https://mall.bilibili.com/mall-c-search/app/config/all
 https://api.bilibili.com/x/vas_ads_open
+https://app.bilibili.com/x/resource/patch/tab/v2
+https://app.bilibili.com/x/resource/show/tab/v2
 https://api.live.bilibili.com/xlive/web-ucenter/v1/banned/GetShieldKeywordList
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
@@ -225,6 +230,8 @@ https://gateway.kugou.com/pxy/v1/combo/startup
 https://gateway.kugou.com/youth/v1/ad/
 https://gateway3.kugou.com/ads.gateway
 https://*.kugou.com/ads.gateway
+https://gatewayretry.kugou.com/adp
+https://gatewayretry.kugou.com/vipenergy/v1/free_time_ad
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
 https://ad.maoyan.com/api/position/detail
@@ -341,8 +348,6 @@ https://promo.xueqiu.com/promotion/search_ad
 https://promo.xueqiu.com/promotion/splash
 https://fmapp.chinafamilymart.com.cn/api/app/market/start/ad
 https://101.xueqiu.com
-https://api.m.jd.com/client.action?functionId=home_launchConfig
-https://api.m.jd.com/client.action?functionId=start
 https://lop-proxy.jd.com/queryAppHomePageMarketingRecommendRuleConfigInfo
 https://jdread-api.jd.com/jdread/api/channel/module/opens
 https://jdread-api.jd.com/jdread/api/popup
@@ -356,9 +361,6 @@ https://mapi.appvipshop.com/vips-mobile/rest/iosAdInfo/report
 https://api.dangdang.com/mapi2/mobile/init
 https://mapi.dangdang.com/index.php?action=init
 https://e.dangdang.com/media/api
-https://app.api.ke.com/config/config/bootpage
-https://apps.api.ke.com/config/config/bootpage
-https://apps.api.ke.com/config/config/getactivityconfig
 https://app.58.com/api/home/advertising
 https://app.58.com/api/home/appadv
 https://app.58.com/api/home/invite/popupAdv
