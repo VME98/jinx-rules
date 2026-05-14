@@ -89,8 +89,18 @@ https://api-hl.amemv.com/aweme/v1/ad/
 https://api-hl.amemv.com/aweme/v1/splash/
 https://tr.byteurl.cn/ad
 https://tr.byteurl.cn/ug/ad
+https://api5-lq.qishui.com/luna/ads/config
+https://api5-lq.qishui.com/luna/advert
+https://api5-lq.qishui.com/luna/launch
+https://api5-hl.qishui.com/luna/ads/config
+https://api5-hl.qishui.com/luna/advert
+https://api5-hl.qishui.com/luna/launch
+https://api3-hl.qishui.com/luna/ads/config
+https://api3-hl.qishui.com/luna/advert
+https://api3-hl.qishui.com/luna/launch
 https://api.bilibili.com/open
 https://api.bilibili.com/x/v2/dm/exposure
+https://gaoneng.bilibili.com/tetris/page/*adtype=CPM*
 https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/
@@ -100,6 +110,7 @@ https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://upos-sz-mirrorcos.bilivideo.com/ssaxcode
 https://upos-sz-staticcos.bilivideo.com/ssaxcode
+https://upos-sz-302ppio.bilivideo.com/ssaxcode
 https://upos-*.bilivideo.com/ssaxcode
 https://app.bilibili.com/x/v2/splash
 https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
@@ -260,6 +271,7 @@ https://bootpreload.uve.weibo.com/v1/ad/preload
 https://api.weibo.cn/2/sdk/union_config
 https://vs.biz.weibo.com/sdkserver/brand_monitor
 https://wbapp.uve.weibo.com/wbapplua/wbpullad.lua
+https://api.weibo.cn/2/client/get_grayfeature
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
@@ -290,11 +302,12 @@ https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
 https://lf-cdn-tos.bytescm.com/obj/static/ad
-https://*.bytegecko.com/obj/byte-gurd-source-gr/ad
 https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/getSortInfo
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
+https://bjacshow.kugou.com/mfx-appconf/cdn/start
+https://welfare.kugou.com/popup
 https://gateway.kugou.com/ads.gateway
 https://gateway.kugou.com/ads.service
 https://gateway.kugou.com/pxy/v1/combo/startup
@@ -347,6 +360,8 @@ https://amap-aos-info-nogw.amap.com/ws/aos/alimama
 https://m5.amap.com/ws/valueadded
 https://sns.amap.com/ws/msgbox/pull
 https://render-oss-cdn.amap.com/render/studio-dev/image
+https://m5.amap.com/ws/shield/dsp/app/startup
+https://m5.amap.com/ws/promote/main-page/assets
 https://newclient.map.baidu.com/client/crossmarketing
 https://newclient.map.baidu.com/client/usersystem/home/dynamic
 https://newclient.map.baidu.com/client/phpui2/?qt=ads

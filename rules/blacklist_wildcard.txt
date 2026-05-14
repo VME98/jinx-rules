@@ -30,6 +30,9 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+*.cloudfront.net
+ads*-normal-*.zijieapi.com
+mon*-misc-*.fqnovel.com
 *.dahhxxttxs.com
 *.ahdohpiechei.com
 ad-*.com

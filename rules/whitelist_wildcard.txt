@@ -1,3 +1,12 @@
+*.gcloudcs.com
+*.gcloud.qq.com
+*.gsdk.qq.com
+*.anticheatexpert.com
+*.tgpa.qq.com
+*.tdm.qq.com
+*.wepop.qq.com
+*.tplay.qq.com
+*.voice.gcloudcs.com
 *.openspeech.cn
 *.mediation.unity3d.com
 *.7moor.com

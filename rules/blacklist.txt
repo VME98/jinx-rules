@@ -224,7 +224,6 @@ auction.unityads.unity3d.com
 audid-api.taobao.com
 audid.umeng.com
 b1-data.ads.heytapmobi.com
-badjs.weixinbridge.com
 baichuan-sdk.alicdn.com
 baichuan-sdk.taobao.com
 bdad.123pan.cn
@@ -912,7 +911,6 @@ xindai.duxiaoman.com
 ad.bdstatic.com
 service.qttunion.com
 https://us.l.qq.com/exapp
-acs.m.taobao.com
 acs.m.cainiao.com
 guide-acs.m.cainiao.com
 g-acs.m.cainiao.com
@@ -993,8 +991,8 @@ qh-material.taobao.com
 awp-assets.meituan.net
 wpt-giant.vip.meituan.com
 cube.meituan.com
+prom-sdkv2.jysper.net
 marketing-thh.meituan.com
-promotion.waimai.meituan.com
 analytics.meituan.net
 report.meituan.com
 logan.sankuai.com
@@ -1100,7 +1098,6 @@ api5-normal-lq.doubao.com
 blackhole.m.jd.com.gslb.qianxun.com
 click.union.jd.com
 d.image.i4.cn.cdn20.com.chnc.cloudcsp.com
-discover.300hu.com
 e.ximalaya.com
 e6858.e19.s.tl88.net
 et.tanx.com
@@ -1151,7 +1148,6 @@ tracking.ximalaya.com
 union.jd.com
 video-ad.jd.com
 vip.jiasule.org
-vod.300hu.com
 volcsirius.com
 waapdg.jd.com.gslb.qianxun.com
 webboot.zhangyue.com
@@ -1202,6 +1198,7 @@ adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com
 media-show.wanzi.com
+gaoneng.bilibili.com
 goblin.hupu.com
 csj-sp.csjdeveloper.com
 dspadlogger.waimai.meituan.com
@@ -1251,7 +1248,6 @@ dns.weixin.qq.com.cn
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
 httpdns.alicdn.com
-httpdns.baidu.com
 httpdns.baidubce.com
 httpdns.c.cdnhwc2.com
 httpdns.calorietech.com
@@ -1599,6 +1595,9 @@ ads.api.vungle.com
 finderdsp.video.qq.com
 admark-x.xunlei.com
 gslbali.ximalaya.com
+duer-ad.cdn.bcebos.com
+ssp.soulapp.cn
+api.kuaishouzt.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3396,6 +3395,7 @@ yesads.com
 yesadvertising.com
 yoc-adserver.com
 youradexchange.com
+dig.bdurl.net
 abtest.volceapplog.com
 shark-tracer.netease.com
 ytadsdk.radio.cn
