@@ -1,3 +1,5 @@
+gateway.icloud.com.cn
+ip.hellobike.com
 vod.300hu.com
 discover.300hu.com
 cactus.jd.com

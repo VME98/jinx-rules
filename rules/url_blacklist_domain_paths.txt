@@ -27,6 +27,7 @@ https://api5-hl.qishui.com/luna/launch
 https://api3-hl.qishui.com/luna/ads/config
 https://api3-hl.qishui.com/luna/advert
 https://api3-hl.qishui.com/luna/launch
+https://app.bilibili.com/x/v2/feed/coldstart
 https://api.bilibili.com/open
 https://api.bilibili.com/x/v2/dm/exposure
 https://gaoneng.bilibili.com/tetris/page/*adtype=CPM*
@@ -38,9 +39,11 @@ https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferre
 https://api.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://upos-sz-static.bilivideo.com/ssaxcode
 https://upos-sz-mirrorcos.bilivideo.com/ssaxcode
+http://upos-sz-mirrorcos.bilivideo.com/ssaxcode
 https://upos-sz-staticcos.bilivideo.com/ssaxcode
 https://upos-sz-302ppio.bilivideo.com/ssaxcode
 https://upos-*.bilivideo.com/ssaxcode
+https://upos-sz-staticcos.bilivideo.com/appstaticboss
 https://app.bilibili.com/x/v2/splash
 https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://mall.bilibili.com/mall-c-search/app/config/all
@@ -193,6 +196,7 @@ https://api.zhihu.com/ad-style-service
 https://sugar.zhihu.com/ad-track
 https://sugar.zhihu.com/glory_adreaper
 https://appcloud2.in.zhihu.com/api/env/check
+https://pic1.zhimg.com/*_1440w.webp
 https://api.weibo.cn/2/client/launch
 https://api.weibo.cn/*/ad
 https://1249900002-0.m.ctrmi.cn/t/ad2
@@ -231,7 +235,6 @@ https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
 https://lf-cdn-tos.bytescm.com/obj/static/ad
-https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/getSortInfo
 https://api.17gwx.com/v2/base/app/ad
 https://api.17gwx.com/v2/app/spotlightv2
 https://thor.weidian.com/ares/home.splash
@@ -464,7 +467,6 @@ https://creditcardapp.bankcomm.com/mapp/common/getPopAds.do
 https://creditcardapp.bankcomm.com/mapp/common/queryGuidePageAds.do
 https://v.icbc.com.cn/userfiles/Resources/WAP/advertisement
 https://m.client.10010.com/getDataFromService?*&methodType=topAdGet
-https://m.client.10010.com/mobileService/activity/homePopUpActivityNew.htm
 https://m.client.10010.com/mobileService/customer/get_client_adv
 https://m.client.10010.com/mobileService/customer/get_startadv
 https://m.client.10010.com/getDataFromService?methodType=topAdGet

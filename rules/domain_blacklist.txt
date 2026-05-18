@@ -582,9 +582,6 @@ openadapi.fancydsp.com
 optimus-ads.amap.com
 orbit.jd.com
 oss.cdn.aiclk.com
-oth.bls.mdt.qq.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
 otheve.play.aiseet.atianqi.com
 outlookads.live.com
 p.l.qq.com
