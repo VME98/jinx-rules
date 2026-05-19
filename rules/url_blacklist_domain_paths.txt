@@ -1,3 +1,4 @@
+https://qwhdcdn.cmcc-cs.cn/prd-mgcenter
 https://api-one-wscn.awtmt.com/apiv1/advertising
 https://a.qiumibao.com/ios/*ad_target
 https://m.ctrip.com/*/tripAds
@@ -474,6 +475,7 @@ https://m.client.10010.com/uniAdmsInterface/getHomePageAd
 https://m.client.10010.com/uniAdmsInterface/getWelcomeAd
 https://clientaccess.10086.cn/biz-orange/DN/init/startInit
 https://client.app.coc.10086.cn/biz-orange/DN/explorePage/getAdverList
+https://client.app.coc.10086.cn/biz-orange/dn/init/startinit
 https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/
 https://m.sd.10086.cn/zapi/app_common/homeWelcome/welcome.do
 https://adm.10jqka.com.cn/interface/ad/recommend

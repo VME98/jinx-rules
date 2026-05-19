@@ -401,6 +401,7 @@ hwpub-s01-drcn.cloud.dbankcloud.cn
 hybrid.miniapp.taobao.com
 hye.comp.360os.com
 hyt.comp.360os.com
+a1.alibabausercontent.com
 ad.iot.360.cn
 ad.jia.360.cn
 ad.life.360.cn
@@ -1595,6 +1596,10 @@ gslbali.ximalaya.com
 duer-ad.cdn.bcebos.com
 ssp.soulapp.cn
 api.kuaishouzt.com
+grpc.biliapi.net
+v5-se-ex-mc-luna.douyinvod.com
+huodong.caiyun.feixin.10086.cn
+backendmarket.youdao.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

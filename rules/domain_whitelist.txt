@@ -215,6 +215,7 @@ dnconfig.cmpassport.com
 dnlog.cmpassport.com
 pub.idqqimg.com
 crl.apple.com
+dataflow.biliapi.com
 dns.weixin.qq.com.cn
 gsa.apple.com
 gslb.qianxun.com
