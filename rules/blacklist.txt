@@ -1051,6 +1051,7 @@ httpdns.danuoyi.tbcache.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
 s3plus.sankuai.com
+httpdns.bilivideo.com
 nbfriend-mtop.cainiao.com
 mum.hzchengdun.com
 bytedance.com.queniurc.com
@@ -1600,6 +1601,8 @@ grpc.biliapi.net
 v5-se-ex-mc-luna.douyinvod.com
 huodong.caiyun.feixin.10086.cn
 backendmarket.youdao.com
+upos-sz-static.bilivideo.com
+upos-sz-mirrorcos.bilivideo.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

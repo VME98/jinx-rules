@@ -267,7 +267,6 @@ wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
 miniapp.bilibili.com
-httpdns.bilivideo.com
 crash.xiaohongshu.com
 wbox.sinaimg.cn
 seeds-sina.xycdn.com
