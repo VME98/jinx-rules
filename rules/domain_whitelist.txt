@@ -1,3 +1,4 @@
+amdc.m.taobao.com
 gateway.icloud.com.cn
 ip.hellobike.com
 vod.300hu.com

@@ -1,5 +1,4 @@
 bilibili.community.service.dm.v1.DM/DmSegMobile
-bilibili.community.service.dm.v1.DM/DmView
 /x/v2/dm/
 /x/v2/search/square
 /x/web-interface/search/square

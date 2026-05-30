@@ -115,7 +115,6 @@ webcast-open.douyin.*
 *.queniubl.com.v3.tushuokeji.net
 cainiao-app-logs.*
 popunify-public-dualstack.*
-httpdns.*
 *.bytedance.com.queniurc.com
 *.adkwai.*
 *ad.qznovelvod.com
