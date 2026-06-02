@@ -391,6 +391,11 @@ https://interface.music.163.com/eapi/abtest
 https://iadmusicmat.music.163.com
 https://rich.kuwo.cn/AdService/kaiping/adinfo
 https://mobilead.kuwo.cn/EcomResourceServer/adBubble
+https://bd-api.kuwo.cn/api/service/finds/module
+https://bd-api.kuwo.cn/api/service/banner/myPage
+https://bd-api.kuwo.cn/api/play/listening/entrance/music
+https://bd-api.kuwo.cn/api/service/advert/watch
+https://h5app.kuwo.cn/m/kwtemplatePage/index.html
 https://iface.iqiyi.com/api/getNewAdInfo
 https://iface2.iqiyi.com/fusion/3.0/fusion_switch
 https://act.vip.iqiyi.com/interact/api/show.do
@@ -602,8 +607,6 @@ https://restapi.amap.com/v3/activity/
 https://api.zhihu.com/metrics/report
 https://goofish.com/splash
 https://goofish.com/ad
-https://file.video.qpic.cn/file_offline_package_manage_
-https://media-img.puui.qpic.cn/media_img
 https://richmedia.video.qq.com/get_rich_media_info
 https://cdn2.guangtuikeji.com/adx
 https://guoguo-cdn.cainiao.com/cnn_guide_ads

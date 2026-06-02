@@ -3,7 +3,6 @@
 https://ynuf.aliapp.org/savewb.json?
 p*-ad-aweme.byteimg.com
 v*-ad.video.yximgs.com
-p*-webcast-sign.douyinpic.com
 ad-*file.myqcloud.com
 *-ad.adbkwai.com
 *-ad.gskwai.com
@@ -30,6 +29,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+p*-webcast-sign.douyinpic.com
 *.cloudfront.net
 ads*-normal-*.zijieapi.com
 mon*-misc-*.fqnovel.com
@@ -122,7 +122,6 @@ popunify-public-dualstack.*
 *.pangolin-sdk-toutiao-b.com
 *.pangolin-sdk-toutiao1.com
 *ad-sign.byteimg.com
-gecko*-*.zijieapi.com
 *.iggrowth.cn
 *.mentamob.com
 *.anythinktech.com

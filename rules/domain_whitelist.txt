@@ -217,7 +217,6 @@ dnlog.cmpassport.com
 pub.idqqimg.com
 crl.apple.com
 dataflow.biliapi.com
-dns.weixin.qq.com.cn
 gsa.apple.com
 gslb.qianxun.com
 huawei.com
@@ -264,7 +263,6 @@ status-ipv6.jpush.cn
 tsis-ipv6.jpush.cn
 tsis.jpush.cn
 www.coolapk.com
-wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
 miniapp.bilibili.com

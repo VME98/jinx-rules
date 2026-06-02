@@ -10,3 +10,5 @@ cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 *.captcha-open.aliyuncs.com
 *.captcha-open-b.aliyuncs.com
 peisongapi.meituan.com
+mmbiz.qpic.cn
+mmbiz.qlogo.cn

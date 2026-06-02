@@ -470,7 +470,6 @@ l6.fancyapi.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
 lf3-ad-union-sdk.pglstatp-toutiao.com
-lf3-reading.fqnovelpic.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 lftxali.fancyapi.com
 lh3.googleadsserving.cn
@@ -597,8 +596,6 @@ p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
 p3-be-pack-sign.pglstatp-toutiao.com
 p3-lm.adkwai.com
-p3-reading-sign.fqnovelpic.com
-p3-tt.byteimg.com
 p4-be-pack-sign.pglstatp-toutiao.com
 p5-be-pack-sign.pglstatp-toutiao.com
 p6-be-pack-sign.pglstatp-toutiao.com
@@ -843,12 +840,10 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
-wxa.wxs.qq.com
 wxaintpcos.wxqcloud.qq.com.cn
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
-wxsnsdythumb.wxs.qq.com
 xc.gdt.qq.com
 xiaomi-dtv.m.cn.miaozhen.com
 xlog.jd.com
@@ -917,7 +912,6 @@ adx.halomobi.com
 creative.feedsads.cn
 adx.anythinktech.com
 impdsp.meituan.com
-video4-x.pddpic.com
 sdk.open.talk.gepush.com
 ad.xiaohongshu.com
 neptune-api.volces.com
@@ -961,7 +955,6 @@ cpush.ctrip.com
 ma-adx.ctrip.com
 pages.ctrip.com
 ad.p3-sign.douyinpic.com
-p3-sign.douyinpic.com.queniusy.com
 tao.ad.tao.tengine.ingress.alibabacorp.com
 px.effirst.com
 bjimp.voiceads.cn
@@ -1118,7 +1111,7 @@ marketing.p3-sign.douyinpic.com
 mmstat.com
 mp.ximalaya.com.eo.dnse1.com
 na61-na62.wagbridge.alibaba.tanx.com.gds.alibabadns.com
-p3-sign.douyinpic.com
+p3-sign.douyinpic.com.queniusy.com
 p3-sign.douyinpic.com.w.alikunlun.com
 popup.jd.com
 promo.p3-sign.douyinpic.com
@@ -1243,7 +1236,6 @@ cpc-service-square.58iclick.com
 dns.jd.com
 dns.weibo.cn
 dns.weixin.qq.com
-dns.weixin.qq.com.cn
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
 httpdns.alicdn.com
@@ -1302,12 +1294,6 @@ ads.uc.cn
 adslot.uc.cn
 e.uc.cn
 ad-log-upload.mihoyo.com
-video4-1.pddpic.com
-video4-5.pddpic.com
-video4-e.pddpic.com
-video4-p.pddpic.com
-video4-p.pddugc.com
-live11-adapt.pddpic.com
 rc-track.66mobi.com
 adx-strategy-api.hookspf.com
 bridgeads.massx.com
@@ -1478,7 +1464,6 @@ leads.baidu.com
 x61.inyvf.top
 b2.ghj7l.com
 nosup-jd1.127.net
-p*-webcast-sign.douyinpic.com
 v6-adashx.ut.ele.me
 v6-adashx.ut.amap.com
 ad-audit-provider.soulapp.cn
@@ -3442,6 +3427,7 @@ yesadvertising.com
 yoc-adserver.com
 youradexchange.com
 dig.bdurl.net
+p*-webcast-sign.douyinpic.com
 *.cloudfront.net
 ads*-normal-*.zijieapi.com
 mon*-misc-*.fqnovel.com
@@ -3534,7 +3520,6 @@ popunify-public-dualstack.*
 *.pangolin-sdk-toutiao-b.com
 *.pangolin-sdk-toutiao1.com
 *ad-sign.byteimg.com
-gecko*-*.zijieapi.com
 *.iggrowth.cn
 *.mentamob.com
 *.anythinktech.com
