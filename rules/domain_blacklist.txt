@@ -1240,7 +1240,7 @@ tencent-ssp.66mobi.com
 ssp.iytcdn.com
 missile.iytcdn.com
 cpc-service-square.58iclick.com
-DOMAIN,dns.jd.com
+dns.jd.com
 dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com.cn

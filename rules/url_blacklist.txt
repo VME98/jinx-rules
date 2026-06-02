@@ -138,9 +138,6 @@ https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.circle.list
 https://ynuf.aliapp.org/service/um.json
 https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logconfig.do
-https://wximg.wxs.qq.com/*/ads*
-https://wxsmw.wxs.qq.com/*/ads*
-https://wxapp.*.com/wxapp/advert*
 https://*.aliyuncs.com/adverts/*
 https://open.laiyagushi.com/ad-track
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
@@ -290,6 +287,7 @@ https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
 https://img1.doubanio.com/view/dale-online/dale_ad
 https://img2.doubanio.com/view/dale-online/dale_ad
+https://img*.doubanio.com/view/dale-online/dale_ad
 https://interface3.music.163.com/eapi/ad
 https://interface3.music.163.com/eapi/delivery/deliver
 https://interface3.music.163.com/eapi/delivery/batch-deliver
@@ -592,8 +590,6 @@ https://app.bilibili.com/x/v2/splash/brand/list
 https://grpc.biliapi.net/bilibili.community.service.dm.v1.dm/dmview
 https://app.bilibili.com/x/vip/ads/material/report
 https://api.bilibili.com/x/vip/ads/material/report
-https://cm.bilibili.com/cm/api
-https://api.bilibili.com/pgc/activity/deliver/material/receive
 https://cpevs.500star.com/esinfo/loading/get_thridparity_open_ads
 https://restapi.amap.com/v3/ad/
 https://restapi.amap.com/v3/ads/
