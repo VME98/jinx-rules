@@ -1,3 +1,11 @@
+p*-ad.adkwai.com
+v*-ad.adkwai.com
+p*-ad.adukwai.com
+v*-ad.adukwai.com
+p*-lm.adkwai.com
+v*-lm.adkwai.com
+p*-lm.adukwai.com
+v*-lm.adukwai.com
 *.cupid.iqiyi.com
 *.cupid.ptqy.gitv.tv
 https://ynuf.aliapp.org/savewb.json?

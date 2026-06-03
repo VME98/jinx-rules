@@ -11,6 +11,7 @@ ad-cdn.qingting.fm
 ad-scope.com
 ad-scope.com.cn
 ad-sdk-config.youdao.com
+ad-screen-api.immomo.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
 ad.12306.cn
@@ -1183,6 +1184,7 @@ ma.zijieapi.com
 feedback-c.zijieapi.com
 mktm.jd.com
 broker.tips2.gz.tencent.com
+app-alpha.bytedance.net
 adtrack.qianwen.com
 dsp.ads.umeng.com
 mssdk.bytedance.com
@@ -1206,9 +1208,6 @@ vhdezl.launches.appsflyersdk.com
 vhdezl.skadsdkless.appsflyersdk.com
 vhdezl.cdn-settings.appsflyersdk.com
 tower.17gwx.com
-i-lq.snssdk.com
-is.snssdk.com
-security-lq.snssdk.com
 v6-novelapp.ixigua.com
 gecko5-hj.zijieapi.com
 gecko5-lq.zijieapi.com
