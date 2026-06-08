@@ -1,3 +1,5 @@
+*.duolingo.com
+*.icloud.com
 *.gcloudcs.com
 *.gcloud.qq.com
 *.gsdk.qq.com

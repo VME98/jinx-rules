@@ -1,3 +1,6 @@
+api-mayi.django.t.taobao.com
+umdc.alibabachengdun.com
+grs.hihonorcloud.com
 amdc.m.taobao.com
 gateway.icloud.com.cn
 ip.hellobike.com
@@ -217,6 +220,7 @@ dnlog.cmpassport.com
 pub.idqqimg.com
 crl.apple.com
 dataflow.biliapi.com
+dns.weixin.qq.com.cn
 gsa.apple.com
 gslb.qianxun.com
 huawei.com
@@ -231,7 +235,6 @@ mssdk.volces.com.queniusz.com
 sysdk.cl2009.com
 i.snssdk.com
 is.snssdk.com
-polaris.zijieapi.com
 appcloud.zhihu.com
 appcloud2.zhihu.com
 appcloud.in.zhihu.com

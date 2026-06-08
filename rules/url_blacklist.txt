@@ -74,7 +74,6 @@ https://poplayer.template.alibaba.com/92e26e8fba1f4b88b715e526e1f75c11.json
 https://alicdn.com/ad/
 https://baidu.com/ad/
 https://i0.hdslb.com/bfs/splash
-https://gw.alipayobjects.com/ad/
 https://ossgw.alicdn.com/ad/
 https://tmall.com/ad/
 https://amap.com/ad/
@@ -425,7 +424,6 @@ https://home.mi.com/cgi-op/api/v1/recommendation/myTab
 https://home.mi.com/cgi-op/api/v1/recommendation/openingBanner
 https://api.m.mi.com/v1/app/start
 https://hd.mina.mi.com/splashscreen/alert
-https://shop-api.retail.mi.com/mtop/navi/skywheel/mishop/splash
 https://shopapi.io.mi.com/mtop/mf/resource/homePage/pageConfig
 https://t1.market.xiaomi.com/thumbnail/webp/w1170q100
 https://api-fouth-mem.huazhu.com/api/rights/bannerList
@@ -637,3 +635,5 @@ https://home.mi.com/cgi-op/api/v1/recommendation
 https://drs-ipv6.wtzw.com/client-aggregate/reader_free_ios
 https://drs.wtzw.com/api/v1/i4
 https://drs-ipv6.wtzw.com/api/v3/config
+https://lf3-short.ibytedapm.com/slardar/fe/sdk-web/
+https://p3-dcd.byteimg.com/obj/motor-mis-img/5ec2c8af22bc17aedafe147a1d38f21d.json

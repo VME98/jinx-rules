@@ -12,3 +12,10 @@ cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 peisongapi.meituan.com
 mmbiz.qpic.cn
 mmbiz.qlogo.cn
+a1lhVdtw38W.iot-as-mqtt.cn-shanghai.aliyuncs.com
+public.iot-as-mqtt.cn-shanghai.aliyuncs.com
+iotx-vision-p2p-signal-vpc-sh.aliyuncs.com
+iotx-vision-streaming-rtmp-vpc-sh.aliyuncs.com
+devicelink-drcn.platform.hihonorcloud.com
+grs.hihonorcloud.com
+app.skyworthdigitaliot.com

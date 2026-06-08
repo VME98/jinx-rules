@@ -37,8 +37,14 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+*.bridgeoos.com
+*.vgade.cn
+*.xinduoad.com
+*.adx.huazirc.com
+*.adxiuqia.com
+*.advast.cn
+*.adloop.cn
 p*-webcast-sign.douyinpic.com
-*.cloudfront.net
 ads*-normal-*.zijieapi.com
 mon*-misc-*.fqnovel.com
 *.dahhxxttxs.com
@@ -148,6 +154,7 @@ popunify-public-dualstack.*
 *.bjmxy.net
 *.cjjd14.com
 *.smaato.*
+*.statisticslinks.com
 pangolin-sdk.*
 pangolin-sdk-toutiao.*/
 pangolin-sdk-toutiao1.*
