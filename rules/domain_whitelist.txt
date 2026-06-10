@@ -221,8 +221,10 @@ pub.idqqimg.com
 crl.apple.com
 dataflow.biliapi.com
 dns.weixin.qq.com.cn
+extshort.weixin.qq.com
 gsa.apple.com
 gslb.qianxun.com
+gtimg.wechatpay.cn
 huawei.com
 image.coolapk.com
 iosapps.itunes.apple.com
@@ -254,9 +256,11 @@ msv6.wosms.cn
 sdkapi.cloooud.com
 ocsp.apple.com
 ocsp2.apple.com
+paydns.wechatpay.cn
 passport.bilibili.cn
 passport.ximalaya.com
 push.coolapk.com
+res.wx.qq.com
 s.jpush.cn
 se-edge.itunes.apple.com
 sis-ipv6.jpush.cn
@@ -266,6 +270,10 @@ status-ipv6.jpush.cn
 tsis-ipv6.jpush.cn
 tsis.jpush.cn
 www.coolapk.com
+wxa.wxs.qq.com
+wximg.wxs.qq.com
+wxsmw.wxs.qq.com
+wxsnsdythumb.wxs.qq.com
 xmcdn.com
 xmly.com
 miniapp.bilibili.com
