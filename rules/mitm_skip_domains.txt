@@ -10,6 +10,7 @@ cloudauth-device-dualstack.cn-shanghai.aliyuncs.com
 *.captcha-open.aliyuncs.com
 *.captcha-open-b.aliyuncs.com
 peisongapi.meituan.com
+wap.cmpassport.com
 *.wechatpay.cn
 extshort.weixin.qq.com
 gtimg.wechatpay.cn

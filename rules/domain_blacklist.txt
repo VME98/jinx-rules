@@ -305,6 +305,7 @@ config.inmobi.com
 config.unityads.unity3d.com
 cpc-service-square.aiclk.com
 cpro.baidustatic.com
+cpro.xdmssp.com
 crash2.zhihu.com
 crashlyticsreports-pa.googleapis.com
 csjplatform.com
@@ -318,6 +319,7 @@ data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 datacollection.uve.weibo.com
+bd.wintaosaas.com
 dc.sigmob.cn
 de.tynt.com
 deepinstall.com
@@ -342,6 +344,7 @@ edge.ads.twitch.tv
 ef-dongfeng.tanx.com
 entry.baidu.com
 et-eus.w.inmobi.com
+event.dashisx.com
 event.tradplusad.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
@@ -349,6 +352,7 @@ events.redditmedia.com
 fancyapi.com
 fclog.baidu.com
 feed-image.baidu.com
+fg.xiawan8.com
 file.daihuo.qq.com
 firebaselogging-pa.googleapis.com
 flurry.com
@@ -586,6 +590,7 @@ open.kuaishouzt.com
 open.kwaizt.com
 open.snssdk.com
 openadapi.fancydsp.com
+mpcfg.fancydsp.com
 optimus-ads.amap.com
 orbit.jd.com
 oss.cdn.aiclk.com
@@ -653,6 +658,7 @@ rt.applovin.com
 rt.applvn.com
 rtb.adxsenmeng.com
 rtb.voiceads.cn
+rtbcallback.sigmob.cn
 s.amazon-adsystem.com
 s1.cdn-sg.advlion.com
 s8t.teads.tv
@@ -771,6 +777,7 @@ trace.qq.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
 track.lc.quark.cn
+track.xdmssp.com
 track.uc.cn
 tracker.ai.xiaomi.com
 tracker.gitee.com
@@ -1048,7 +1055,6 @@ httpdns.danuoyi.tbcache.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 mirrorcos.sched.stsoclegoby2-dk.tdnsvod1.cn
 s3plus.sankuai.com
-httpdns.bilivideo.com
 nbfriend-mtop.cainiao.com
 mum.hzchengdun.com
 bytedance.com.queniurc.com
@@ -1615,6 +1621,7 @@ adxapi.readgps.com
 lemon.gameley.com
 v95-zjbwz-alismart-reading-video.qznovelvod.com
 adx-ad-prod.wkanx.com
+fancydsp.oss-cn-beijing.aliyuncs.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3541,6 +3548,7 @@ datk.bridgeoos.com
 adx-os.bridgeoos.com
 adx-sg-req.bridgeoos.com
 frontier100-toutiao-lf.fqnovel.com
+*dsp.*.aliyuncs.com
 *.bridgeoos.com
 *.vgade.cn
 *.xinduoad.com

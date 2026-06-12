@@ -97,6 +97,7 @@ https://api-hl.amemv.com/aweme/v1/ad/
 https://api-hl.amemv.com/aweme/v1/splash/
 https://tr.byteurl.cn/ad
 https://tr.byteurl.cn/ug/ad
+https://jt-sdk-ios.oss-cn-beijing.aliyuncs.com/iosconfig.txt
 https://api5-lq.qishui.com/luna/ads/config
 https://api5-lq.qishui.com/luna/advert
 https://api5-lq.qishui.com/luna/launch
@@ -110,7 +111,6 @@ https://app.bilibili.com/x/v2/feed/coldstart
 https://api.bilibili.com/open
 https://api.bilibili.com/x/v2/dm/exposure
 https://gaoneng.bilibili.com/tetris/page/*adtype=CPM*
-https://api.bilibili.com/x/internal/gaia-gateway/ExClimbCongLing
 https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/
 https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
@@ -137,7 +137,6 @@ https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.circle.list
 https://ynuf.aliapp.org/service/um.json
 https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logconfig.do
-https://*.aliyuncs.com/adverts/*
 https://open.laiyagushi.com/ad-track
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.goofish.com/gw/mtop.idle.ad.expose
@@ -322,6 +321,9 @@ https://gateway3.kugou.com/ads.gateway
 https://*.kugou.com/ads.gateway
 https://gatewayretry.kugou.com/adp
 https://gatewayretry.kugou.com/vipenergy/v1/free_time_ad
+https://activity.kugou.com/getvips/*/static/js/@kg_uni-gdt-view-sdk
+https://h5.kugou.com/modal/*/static/js/@kg_gdt-
+https://h5.kugou.com/modal/*/static/js/@kg_uni-gdt-
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
 https://ad.maoyan.com/api/position/detail
@@ -543,7 +545,6 @@ https://creditcardapp.bankcomm.cn/mappweb_interface/common/qryPopAds.do
 https://creditcardapp.bankcomm.cn/mappweb_interface/common/qryLaunchAds.do
 https://creditcardapp.bankcomm.com/mapp/common/getPopAds.do
 https://creditcardapp.bankcomm.com/mapp/common/queryGuidePageAds.do
-https://v.icbc.com.cn/userfiles/Resources/WAP/advertisement
 https://m.client.10010.com/getDataFromService?*&methodType=topAdGet
 https://m.client.10010.com/mobileService/customer/get_client_adv
 https://m.client.10010.com/mobileService/customer/get_startadv

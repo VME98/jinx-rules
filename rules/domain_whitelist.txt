@@ -1,3 +1,4 @@
+static.biligame.net
 api-mayi.django.t.taobao.com
 umdc.alibabachengdun.com
 grs.hihonorcloud.com
