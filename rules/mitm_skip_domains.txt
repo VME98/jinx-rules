@@ -14,14 +14,7 @@ wap.cmpassport.com
 *.wechatpay.cn
 extshort.weixin.qq.com
 gtimg.wechatpay.cn
-mp.weixin.qq.com
 paydns.wechatpay.cn
-res.wx.qq.com
-wxa.wxs.qq.com
-wx.gtimg.com
-wximg.wxs.qq.com
-wxsmw.wxs.qq.com
-wxsnsdythumb.wxs.qq.com
 mmbiz.qpic.cn
 mmbiz.qlogo.cn
 a1lhVdtw38W.iot-as-mqtt.cn-shanghai.aliyuncs.com

@@ -37,6 +37,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+wxsnsdy.*
 *dsp.*.aliyuncs.com
 *.bridgeoos.com
 *.vgade.cn
