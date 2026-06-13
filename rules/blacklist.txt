@@ -750,9 +750,13 @@ tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.snssdk.com
 tnc3-aliec2.toutiaoapi.com
+tnc3-aliec2.zijieapi.com
 tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
+tnc3-alisc1.zijieapi.com
+tnc3-alisc2.zijieapi.com
+bj.openstorage.cn
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
@@ -815,6 +819,7 @@ v2mi.gdt.qq.com
 v3-ad.video.yximgs.com
 v3.gdt.qq.com
 vd6.l.qq.com
+s.adxvip.com
 video-ad.sm.cn
 video-dsp.pddpic.com
 video.dispatch.tc.qq.com
@@ -1321,6 +1326,7 @@ lf-leads-fe-scm.bytecdn.com
 tj-adc-exposure.wtzw.com
 bsccdn.net
 dig.zjurl.cn
+dig.bdurl.net
 apps.bytesfield.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
@@ -1605,6 +1611,8 @@ lemon.gameley.com
 v95-zjbwz-alismart-reading-video.qznovelvod.com
 adx-ad-prod.wkanx.com
 fancydsp.oss-cn-beijing.aliyuncs.com
+cd.yfanads.cn
+dsp.cdn.gameley.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3500,7 +3508,6 @@ yesads.com
 yesadvertising.com
 yoc-adserver.com
 youradexchange.com
-dig.bdurl.net
 vdn-ad.vzuu.com
 cn3-bid.adsrvr.cn
 tc.weszxdrf.com

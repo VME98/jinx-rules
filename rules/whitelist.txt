@@ -28,14 +28,10 @@ activity.m.duiba.com.cn
 switch.cup.com.cn
 effect.snssdk.com
 gecko.zijieapi.com
-tnc3-bjlgy.zijieapi.com
-tnc3-aliec2.zijieapi.com
-tnc3-alisc1.zijieapi.com
 tnc3-bjlgy.snssdk.com
 tnc3-aliec2.snssdk.com
 tnc3-alisc1.snssdk.com
 mssdk.bytedance.com
-mssdk.volces.com
 pitaya.bytedance.com
 user.jpush.cn
 user-ipv6.jpush.cn
@@ -207,7 +203,6 @@ amp-api-updates.apps.apple.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
-api.coolapk.com
 api.ximalaya.com
 app-site-association.cdn-apple.com
 auth.wosms.cn

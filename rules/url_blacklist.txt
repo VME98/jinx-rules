@@ -139,6 +139,7 @@ https://upos-sz-staticcos.bilivideo.com/appstaticboss
 https://app.bilibili.com/x/v2/splash
 https://mall.bilibili.com/mall-c-search/app/config/all
 https://api.bilibili.com/x/vas_ads_open
+https://grpc.biliapi.net/bilibili.app.viewunite.v1.view/playpause
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch.report
 https://acs.m.goofish.com/gw/mtop.taobao.idle.activity.query
@@ -157,6 +158,7 @@ https://acs.m.goofish.com/gw/mtop.taobao.idle.rule.config
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.get
 https://acs.m.taobao.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch.report
+https://acs.m.taobao.com/gw/mtop.common.gettimestamp
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://acs.m.taobao.com/gw/mtop.taobao.wireless.home.splash
 https://acs.m.taobao.com/gw/mtop.alimarket.splash
@@ -281,6 +283,9 @@ https://sugar.zhihu.com/ad-track
 https://sugar.zhihu.com/glory_adreaper
 https://appcloud2.in.zhihu.com/api/env/check
 https://pic1.zhimg.com/*_1440w.webp
+https://download*.vzuu.com/ad-style-service
+https://download*.vzuu.com/commercial_api/real_time_launch_v2
+https://download*.vzuu.com/commercial_api/launch_v2
 https://api.weibo.cn/2/client/launch
 https://api.weibo.cn/*/ad
 https://1249900002-0.m.ctrmi.cn/t/ad2
@@ -289,6 +294,7 @@ https://api.weibo.cn/2/sdk/union_config
 https://vs.biz.weibo.com/sdkserver/brand_monitor
 https://wbapp.uve.weibo.com/wbapplua/wbpullad.lua
 https://api.weibo.cn/2/client/get_grayfeature
+https://weibointl.api.weibo.cn/portal.php?a=get_coopen_ads
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
