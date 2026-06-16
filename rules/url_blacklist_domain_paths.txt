@@ -16,7 +16,13 @@ https://poplayer.template.alibaba.com/92e26e8fba1f4b88b715e526e1f75c11.json
 https://alicdn.com/ad/
 https://baidu.com/ad/
 https://i0.hdslb.com/bfs/splash
+https://i0.hdslb.com/bfs/ad
 https://boss.hdslb.com/bfs/splash
+https://boss.hdslb.com/bfs/ad
+https://i1.hdslb.com/bfs/sycp_brand
+https://i1.hdslb.com/bfs/sycp/creative_img
+https://i0.hdslb.com/bfs/sycp_brand
+https://i0.hdslb.com/bfs/sycp/creative_img
 https://ossgw.alicdn.com/ad/
 https://tmall.com/ad/
 https://amap.com/ad/
