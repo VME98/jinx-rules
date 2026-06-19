@@ -37,6 +37,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+tnc*-*.zijieapi.com
 *.yfanads.com
 *.lingjuad.com
 wxsnsdy.*
@@ -78,7 +79,6 @@ adcdn*.tencentmusic.com
 *-ad.wtzw.com*
 *-be-pack-sign.pglstatp-toutiao.com*
 *.inkuai.com
-*.zztfly.com
 *.uyunad.com
 *.beacon.com
 *.adukwai.com

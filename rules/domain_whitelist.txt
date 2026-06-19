@@ -1,3 +1,6 @@
+zlink.ugsdk.cn
+praisewindow.ugsdk.cn
+mssdk3-normal-lf.zijieapi.com
 static.biligame.net
 api-mayi.django.t.taobao.com
 umdc.alibabachengdun.com
@@ -231,10 +234,6 @@ mssdk.volces.com.queniusz.com
 sysdk.cl2009.com
 i.snssdk.com
 is.snssdk.com
-appcloud.zhihu.com
-appcloud2.zhihu.com
-appcloud.in.zhihu.com
-appcloud2.in.zhihu.com
 klink.volceapplog.com
 toblog.volceapplog.com
 tobapplog.volceapplog.com

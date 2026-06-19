@@ -952,7 +952,6 @@ cactus.jd.com
 m.ad.jd.com
 ad.jd.com
 ad.jdfcloud.com
-zlink.ugsdk.cn.queniuiq.com
 dgstatic.jd.com
 loggw-ex.alipay.com
 iadsdk.qtlcdn.com
@@ -1326,7 +1325,6 @@ lf-leads-fe-scm.bytecdn.com
 tj-adc-exposure.wtzw.com
 bsccdn.net
 dig.zjurl.cn
-dig.bdurl.net
 apps.bytesfield.com
 pangolin-sdk-toutiao.com
 pangolin-sdk-toutiao1.com
@@ -1613,6 +1611,11 @@ adx-ad-prod.wkanx.com
 fancydsp.oss-cn-beijing.aliyuncs.com
 cd.yfanads.cn
 dsp.cdn.gameley.com
+adn.1rtb.cn
+dualstack-adiu.amap.com
+ctrace.sogaha.cn
+xigua.sogaha.cn
+adapi.pandabus.cn
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
