@@ -365,6 +365,8 @@ getui.com
 ggx.cmvideo.cn
 ggx01.miguvideo.com
 ggx03.miguvideo.com
+ggx07.miguvideo.com
+ggx05.miguvideo.com
 globalapi.ad.xiaomi.com
 google-analytics.com
 googleads.g.doubleclick-cn.net
@@ -1616,6 +1618,17 @@ dualstack-adiu.amap.com
 ctrace.sogaha.cn
 xigua.sogaha.cn
 adapi.pandabus.cn
+gateway-b.offerwall.unity3d.com
+api.bidmachine.io
+sdk.ssp.admobile.top
+monitor.ssp.admobile.top
+adsmartget.datads.cn
+dmsdk-api.dmrtb.com
+dmsdk-api-ssp.dmrtb.com
+dmsdk-tracking.dmrtb.com
+dmugc-cn.domobcdn.com
+jt-sdk-ios.oss-cn-beijing.aliyuncs.com
+lf-sourcecdn-tos.bytegecko.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

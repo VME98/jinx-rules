@@ -61,7 +61,6 @@ https://app.bilibili.com/x/v2/feed/coldstart
 https://api.bilibili.com/open
 https://api.bilibili.com/x/v2/dm/exposure
 https://gaoneng.bilibili.com/tetris/page/*adtype=CPM*
-https://api.bilibili.com/x/push/popup
 https://im-x.jd.com/dsp/
 https://grpc.biliapi.net/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
 https://app.bilibili.com/bilibili.app.coldstart.v1.ColdStart/GetColdStartDeferredData
@@ -72,7 +71,6 @@ http://upos-sz-mirrorcos.bilivideo.com/ssaxcode
 https://upos-sz-staticcos.bilivideo.com/ssaxcode
 https://upos-sz-302ppio.bilivideo.com/ssaxcode
 https://upos-*.bilivideo.com/ssaxcode
-https://upos-sz-staticcos.bilivideo.com/appstaticboss
 https://app.bilibili.com/x/v2/splash
 https://mall.bilibili.com/mall-c-search/app/config/all
 https://api.bilibili.com/x/vas_ads_open
@@ -232,6 +230,8 @@ https://download*.vzuu.com/commercial_api/real_time_launch_v2
 https://download*.vzuu.com/commercial_api/launch_v2
 https://vdn*.vzuu.com/commercial_api/launch_v2
 https://vdn*.vzuu.com/commercial_api/real_time_launch_v2
+https://vdn*.vzuu.com/hd/ad_bidding_ob
+https://vdn5.vzuu.com/mediacloud/catchingfire/video/*_ad_*
 https://api.weibo.cn/2/client/launch
 https://api.weibo.cn/*/ad
 https://1249900002-0.m.ctrmi.cn/t/ad2
@@ -241,6 +241,7 @@ https://vs.biz.weibo.com/sdkserver/brand_monitor
 https://wbapp.uve.weibo.com/wbapplua/wbpullad.lua
 https://api.weibo.cn/2/client/get_grayfeature
 https://weibointl.api.weibo.cn/portal.php?a=get_coopen_ads
+https://api.weibo.cn/2/h5/comonitor
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
@@ -257,6 +258,9 @@ https://interface3.music.163.com/eapi/delivery/batch-deliver
 https://interface3.music.163.com/eapi/link/position/show/resource
 https://interface3.music.163.com/eapi/resource-exposure/activity/config/get
 https://mc.tencentmusic.com/sdk/ad
+https://music.y.qq.com/maproxy/getpbcompressad
+https://c*.y.qq.com/musichall/fcgi-bin/3g_get_splash.fcg
+https://bd-api.kuwo.cn/api/*/advert/*
 https://oss.umetrip.com/fs/advert
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
@@ -349,6 +353,15 @@ https://mime.baidu.com/v2/activity/advertisement
 https://mobads.baidu.com/cpro/ui/mads.php
 https://appwk.baidu.com/xpage/interface/wknaad
 https://pan.baidu.com/rest/2.0/membership/advertise/dsp
+https://pan.baidu.com/act/api/activitystatus
+https://pan.baidu.com/api/activity/status
+https://pan.baidu.com/act/v2/uinfo/get
+https://tiebac.baidu.com/c/f/ad/getsplashad
+https://tiebac.baidu.com/c/f/ad/getfeedad
+https://img.meituan.net/adunion/
+https://tiebac.baidu.com/c/s/adlog
+https://tiebac.baidu.com/c/s/adnewlog
+https://tiebac.baidu.com/c/b/ad/adbid
 https://interface.music.163.com/eapi/ad
 https://interface.music.163.com/eapi/hot
 https://interface.music.163.com/eapi/sp
@@ -362,6 +375,9 @@ https://bd-api.kuwo.cn/api/service/banner/myPage
 https://bd-api.kuwo.cn/api/play/listening/entrance/music
 https://bd-api.kuwo.cn/api/service/advert/watch
 https://h5app.kuwo.cn/m/kwtemplatePage/index.html
+https://bd-api.kuwo.cn/api/popup/start
+https://bd-api.kuwo.cn/api/rec/config/toufangarpu
+https://bd-api.kuwo.cn/api/service/v2/openscreen
 https://iface.iqiyi.com/api/getNewAdInfo
 https://iface2.iqiyi.com/fusion/3.0/fusion_switch
 https://act.vip.iqiyi.com/interact/api/show.do
@@ -377,6 +393,7 @@ https://pcvideoyd.titan.mgtv.com/pb
 https://api.tv.sohu.com/agg/api/app/config/bootstrap
 https://s1.api.tv.itc.cn/v1/mobile/control/switch.json
 https://iyes.youku.com/uts/v1/start
+https://apiv4-iyes.youku.com/uts/v1/start
 https://api.gotokeep.com/ads
 https://api.gotokeep.com/ads/v1/ads/preload
 https://api.gotokeep.com/cauchy/growth/init

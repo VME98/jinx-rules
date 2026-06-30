@@ -1,3 +1,5 @@
+skynet.bilivideo.com
+shark.dianping.com
 zlink.ugsdk.cn
 praisewindow.ugsdk.cn
 mssdk3-normal-lf.zijieapi.com
@@ -234,6 +236,7 @@ mssdk.volces.com.queniusz.com
 sysdk.cl2009.com
 i.snssdk.com
 is.snssdk.com
+polaris.zijieapi.com
 klink.volceapplog.com
 toblog.volceapplog.com
 tobapplog.volceapplog.com

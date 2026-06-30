@@ -37,6 +37,11 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+*.chinaliftoff.io
+*.admobile.top
+*.admobile.*
+ggx*.miguvideo.com
+*-0.m.ctrmi.cn
 tnc*-*.zijieapi.com
 *.yfanads.com
 *.lingjuad.com
@@ -157,6 +162,8 @@ popunify-public-dualstack.*
 *.aaa.mgtv.com
 *.bjmxy.net
 *.cjjd14.com
+*.ecombdapi.com
+*.ecombdimg.com
 *.smaato.*
 *.statisticslinks.com
 pangolin-sdk.*

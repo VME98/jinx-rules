@@ -10,14 +10,11 @@
 *.tplay.qq.com
 *.voice.gcloudcs.com
 *.openspeech.cn
-*.mediation.unity3d.com
 *.7moor.com
 *.tpns.tencent.com
 *.github.com
 *.githubusercontent.com
 *.shouji.sougou.com
-*.ecombdapi.com
-*.ecombdimg.com
 *.queniucf.com
 *.queniuiq.com
 *.queniusz.com
