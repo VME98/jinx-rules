@@ -1646,6 +1646,8 @@ dmsdk-tracking.dmrtb.com
 dmugc-cn.domobcdn.com
 jt-sdk-ios.oss-cn-beijing.aliyuncs.com
 lf-sourcecdn-tos.bytegecko.com
+mores.takuad.com
+adprolink.xwpbj.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3584,6 +3586,7 @@ ad.wx.com
 badjs.weixinbridge.com
 gdt.qq.com
 c2.gdt.qq.com
+*.takuad.com
 *.chinaliftoff.io
 *.admobile.top
 *.admobile.*

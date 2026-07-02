@@ -69,6 +69,8 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://opapi.xxghh.biz/common/comm/dict/getdictitems/leigod_app_openadv
+https://cad.kuaicad.com/cad/query/mobileads
 https://mp.weixin.qq.com/mp/getappmsgad
 https://mp.weixin.qq.com/mp/cps_product_info
 https://mp.weixin.qq.com/mp/advertisement_report
@@ -281,6 +283,7 @@ https://p1.meituan.net/bizad/
 https://p2.meituan.net/bizad/
 https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.nextfresh
 https://img.meituan.net/bizad
+https://img.meituan.net/waimaiad
 https://wmapi.meituan.com/api/v7/startpicture
 https://s.qiumibao.com/activities/material/json.htm
 https://a.qiumibao.com/ios/config/
@@ -332,6 +335,7 @@ https://mc.tencentmusic.com/sdk/ad
 https://music.y.qq.com/maproxy/getpbcompressad
 https://c*.y.qq.com/musichall/fcgi-bin/3g_get_splash.fcg
 https://bd-api.kuwo.cn/api/*/advert/*
+https://bd-api.kuwo.cn/api/popup/start
 https://oss.umetrip.com/fs/advert
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
@@ -446,7 +450,6 @@ https://bd-api.kuwo.cn/api/service/banner/myPage
 https://bd-api.kuwo.cn/api/play/listening/entrance/music
 https://bd-api.kuwo.cn/api/service/advert/watch
 https://h5app.kuwo.cn/m/kwtemplatePage/index.html
-https://bd-api.kuwo.cn/api/popup/start
 https://bd-api.kuwo.cn/api/rec/config/toufangarpu
 https://bd-api.kuwo.cn/api/service/v2/openscreen
 https://iface.iqiyi.com/api/getNewAdInfo
@@ -683,7 +686,6 @@ https://api.wfdata.club/v1/yesfeng/infoCenterAd
 https://apimobile.meituan.com/dsp
 https://course.myfriday.cn/Others/Update/V3/startAdSpace.action
 https://pan.baidu.com/*/adx
-https://pan.baidu.com/rest/*ad
 https://sns.amap.com/ws/activity
 https://sns.amap.com/ws/activity_boost
 https://apimobile.meituan.com/prom/v2
