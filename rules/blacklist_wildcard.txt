@@ -37,6 +37,17 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+ulog*.kwaipros.com
+ulog*.kwai-pro.com
+ulog.*.kwai-pro.com
+api-p*.yksdks.com
+p*-pro.a.yximgs.com
+*-ad.a.yximgs.com
+ulog*.gifshow.com
+ulog-*.ksapisrv.com
+ulog.*.ksapisrv.com
+v66-ad.*.com
+*.adfunlink.com
 *.takuad.com
 *.chinaliftoff.io
 *.admobile.top
@@ -163,8 +174,6 @@ popunify-public-dualstack.*
 *.aaa.mgtv.com
 *.bjmxy.net
 *.cjjd14.com
-*.ecombdapi.com
-*.ecombdimg.com
 *.smaato.*
 *.statisticslinks.com
 pangolin-sdk.*

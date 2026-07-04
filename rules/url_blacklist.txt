@@ -69,6 +69,10 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://api.tencentmusic.com/get/ads
+https://c.tieba.baidu.com/c/f/forum/getadinfo
+https://yximgs.com/bs2/adcarsku/
+https://yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 https://opapi.xxghh.biz/common/comm/dict/getdictitems/leigod_app_openadv
 https://cad.kuaicad.com/cad/query/mobileads
 https://mp.weixin.qq.com/mp/getappmsgad
@@ -124,9 +128,6 @@ https://jt-sdk-ios.oss-cn-beijing.aliyuncs.com/iosconfig.txt
 https://api5-lq.qishui.com/luna/ads/config
 https://api5-lq.qishui.com/luna/advert
 https://api5-lq.qishui.com/luna/launch
-https://api5-hl.qishui.com/luna/ads/config
-https://api5-hl.qishui.com/luna/advert
-https://api5-hl.qishui.com/luna/launch
 https://api3-hl.qishui.com/luna/ads/config
 https://api3-hl.qishui.com/luna/advert
 https://api3-hl.qishui.com/luna/launch
@@ -737,9 +738,11 @@ https://api3-hl.qishui.com/luna/ads/
 https://api3-lf.qishui.com/luna/ads/
 https://api3-lq.qishui.com/luna/ads/
 https://api5-lf.qishui.com/luna/advert
+https://api5-hl.qishui.com/luna/advert
 https://api3-lf.qishui.com/luna/advert
 https://api3-lq.qishui.com/luna/advert
 https://api5-lf.qishui.com/luna/launch
+https://api5-hl.qishui.com/luna/launch
 https://api3-lf.qishui.com/luna/launch
 https://api3-lq.qishui.com/luna/launch
 https://api5-lf.qishui.com/luna/media_ads
