@@ -2,9 +2,6 @@ https://splashqqlive.gtimg.com/website/
 https://bla.gtimg.com/qqlive/
 https://imgcache.qq.com/qqlive/
 https://wa.gtimg.com/adxcdn/
-https://*.tc.qq.com/*p20*.1.mp4
-https://*.tc.qq.com/*_p20*_
-https://api.tencentmusic.com/get/ads
 https://c.tieba.baidu.com/c/f/forum/getadinfo
 https://yximgs.com/bs2/adcarsku/
 https://yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
