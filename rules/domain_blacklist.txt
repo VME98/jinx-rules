@@ -1686,6 +1686,10 @@ kwaiads.cn
 kwaiads.com
 kwaibusiness.cn
 kwaibusiness.com
+api.adprod.cn
+files.adprod.cn
+splashqqlive.gtimg.com
+bla.gtimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
