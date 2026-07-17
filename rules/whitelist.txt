@@ -163,7 +163,6 @@ file.neixin.cn
 api.neixin.cn
 creditpay.meituan.com
 gapp-api.gwmapp-h.com
-newclient.map.baidu.com
 info4.video.qq.com
 info6.video.qq.com
 p0.meituan.net

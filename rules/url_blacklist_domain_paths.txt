@@ -1,3 +1,5 @@
+https://openapi.dvr163.com/app_adv
+https://openapi.dvr163.com/newappapi/thirdadappapi
 https://splashqqlive.gtimg.com/website/
 https://bla.gtimg.com/qqlive/
 https://imgcache.qq.com/qqlive/
@@ -38,7 +40,6 @@ https://amap.com/ad/
 https://alibaba.com/ad/
 https://qwhdcdn.cmcc-cs.cn/prd-mgcenter
 https://api-one-wscn.awtmt.com/apiv1/advertising
-https://a.qiumibao.com/ios/*ad_target
 https://m.ctrip.com/*/tripAds
 https://m.ctrip.com/*/ad
 https://sh-gateway.shihuo.cn/*/sh-adapi
@@ -92,6 +93,10 @@ https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.circle.list
 https://ynuf.aliapp.org/service/um.json
 https://mpaasapi.mpaas.cn-hangzhou.aliyuncs.com/mgw.htm
 https://mdap.mpaas.cn-hangzhou.aliyuncs.com/loggw/logconfig.do
+https://wximg.wxs.qq.com/*/ads*
+https://wxsmw.wxs.qq.com/*/ads*
+https://*.wxs.qq.com/*/ads*
+https://wxapp.*.com/wxapp/advert*
 https://open.laiyagushi.com/ad-track
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.app.launch
 https://acs.m.goofish.com/gw/mtop.idle.ad.expose
@@ -219,9 +224,11 @@ https://img.meituan.net/bizad
 https://img.meituan.net/waimaiad
 https://wmapi.meituan.com/api/v7/startpicture
 https://s.qiumibao.com/activities/material/json.htm
-https://a.qiumibao.com/ios/config/
 https://ggtg.duoduocdn.com/ad
 https://img1.360buyimg.com/pop/jfs
+https://a.qiumibao.com/activities/config.php
+https://m.zhibo8.cc/activities/ios.php
+https://m.zhibo8.com/activities/ios.php
 https://api.zhihu.com/commercial_api/launch_v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://api.zhihu.com/commercial_api
@@ -248,6 +255,8 @@ https://wbapp.uve.weibo.com/wbapplua/wbpullad.lua
 https://api.weibo.cn/2/client/get_grayfeature
 https://weibointl.api.weibo.cn/portal.php?a=get_coopen_ads
 https://api.weibo.cn/2/h5/comonitor
+https://acs.m.taobao.com/gw/mtop.film.mtopadvertiseapi
+https://acs.m.taobao.com/gw/mtop.film.independentadvertiseapi
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
@@ -265,6 +274,9 @@ https://interface3.music.163.com/eapi/delivery/deliver
 https://interface3.music.163.com/eapi/delivery/batch-deliver
 https://interface3.music.163.com/eapi/link/position/show/resource
 https://interface3.music.163.com/eapi/resource-exposure/activity/config/get
+https://interface3.music.163.com/xeapi/ad
+https://api.xiangji.qq.com/splash
+http://api.sogaha.cn/ssp/ad/get
 https://mc.tencentmusic.com/sdk/ad
 https://music.y.qq.com/maproxy/getpbcompressad
 https://c*.y.qq.com/musichall/fcgi-bin/3g_get_splash.fcg
@@ -296,7 +308,6 @@ https://gateway.kugou.com/ads.service
 https://gateway.kugou.com/pxy/v1/combo/startup
 https://gateway.kugou.com/youth/v1/ad/
 https://gateway3.kugou.com/ads.gateway
-https://*.kugou.com/ads.gateway
 https://gatewayretry.kugou.com/adp
 https://gatewayretry.kugou.com/vipenergy/v1/free_time_ad
 https://activity.kugou.com/getvips/*/static/js/@kg_uni-gdt-view-sdk
@@ -333,9 +344,7 @@ https://qapi.huolala.cn/home_new_user
 https://appuser-static.huolala.cn/imgs
 https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad
 https://shopic.sf-express.com/crm/mobile/common/flashscreen
-https://ucmp.sf-express.com/proxy/operation-platform/info-flow-adver/query
 https://hdgateway.zto.com/getAdInfo
-https://hdgateway.zto.com/getApolloConfig
 https://hdgateway.zto.com/listJumperShow
 https://customer-app.sto.cn/api/app/banner/banner
 https://elemecdn.com/sitemap
@@ -545,9 +554,7 @@ https://m.client.10010.com/mobileService/customer/get_startadv
 https://m.client.10010.com/getDataFromService?methodType=topAdGet
 https://m.client.10010.com/uniAdmsInterface/getHomePageAd
 https://m.client.10010.com/uniAdmsInterface/getWelcomeAd
-https://clientaccess.10086.cn/biz-orange/DN/init/startInit
 https://client.app.coc.10086.cn/biz-orange/DN/explorePage/getAdverList
-https://client.app.coc.10086.cn/biz-orange/dn/init/startinit
 https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/
 https://m.sd.10086.cn/zapi/app_common/homeWelcome/welcome.do
 https://adm.10jqka.com.cn/interface/ad/recommend

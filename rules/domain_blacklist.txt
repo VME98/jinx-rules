@@ -860,7 +860,6 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
-wxaintpcos.wxqcloud.qq.com.cn
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
@@ -1690,6 +1689,9 @@ api.adprod.cn
 files.adprod.cn
 splashqqlive.gtimg.com
 bla.gtimg.com
+t.funlinkads.com
+s.funlinkads.com
+alphas.adxvip.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3617,10 +3619,7 @@ adx-sg-req.bridgeoos.com
 frontier100-toutiao-lf.fqnovel.com
 wxsnsdythumb.wxs.qq.com
 wxsnsdy.video.qq.com
-wxa.wxs.qq.com
 wximg.wxs.qq.com
-wxsmw.wxs.qq.com
-wxs.qq.com
 ad.weixin.qq.com
 as.weixin.qq.com
 aedns.weixin.qq.com
@@ -3628,6 +3627,7 @@ ad.wx.com
 badjs.weixinbridge.com
 gdt.qq.com
 c2.gdt.qq.com
+*.funlinkads.com
 ulog*.kwaipros.com
 ulog*.kwai-pro.com
 ulog.*.kwai-pro.com

@@ -1,3 +1,8 @@
+fsios.tx.kugou.com
+fx.service.kugou.com
+imge.tx.kugou.com
+imgewebp.kugou.com
+imge.kugou.com
 *.apple.com
 *.icloud.com
 *.icloud.com.cn
