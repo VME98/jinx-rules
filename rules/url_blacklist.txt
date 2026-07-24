@@ -69,6 +69,12 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://app.zhuanzhuan.com/zz/v2/zzlogic/getopenscreen
+https://ytmsout.radio.cn/publish/recScreen/getLoadPage
+http://mercury-gateway.ixiaochuan.cn/mercury/v1/ad/*
+https://mercury-gateway.ixiaochuan.cn/mercury/v1/ad/*
+https://cdn.wup.huya.com/launch/queryHttpDns
+https://cdnfile1.msstatic.com/cdnfile/appad
 https://openapi.dvr163.com/app_adv
 https://openapi.dvr163.com/newappapi/thirdadappapi
 https://splashqqlive.gtimg.com/website/
@@ -114,7 +120,7 @@ https://api-one-wscn.awtmt.com/apiv1/advertising
 https://m.ctrip.com/*/tripAds
 https://m.ctrip.com/*/ad
 https://sh-gateway.shihuo.cn/*/sh-adapi
-https://c.y.qq.com/tips/fcgi-bin/fcg_get_advert
+https://c*.y.qq.com/tips/fcgi-bin/fcg_get_advert
 https://game.gtimg.cn/images/daojushop/uploads/ad
 https://game.gtimg.cn/images/daojushop/zb/ad
 https://beta-luna.douyin.com/luna/advert
@@ -293,6 +299,8 @@ https://p2.meituan.net/bizad/
 https://acs.m.goofish.com/gw/mtop.taobao.idlehome.home.nextfresh
 https://img.meituan.net/bizad
 https://img.meituan.net/waimaiad
+https://apimobile.meituan.com/dsp
+https://mall.meituan.com/api/c/homepage/splash
 https://wmapi.meituan.com/api/v7/startpicture
 https://s.qiumibao.com/activities/material/json.htm
 https://ggtg.duoduocdn.com/ad
@@ -300,6 +308,7 @@ https://img1.360buyimg.com/pop/jfs
 https://a.qiumibao.com/activities/config.php
 https://m.zhibo8.cc/activities/ios.php
 https://m.zhibo8.com/activities/ios.php
+https://vdn6.vzuu.com/hd/ad_bidding/
 https://api.zhihu.com/commercial_api/launch_v2
 https://api.zhihu.com/commercial_api/real_time_launch_v2
 https://api.zhihu.com/commercial_api
@@ -333,8 +342,13 @@ https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply.cn
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.click.reply
 https://mediadata.api.weibo.com/2/multimedia/log
-https://guide-acs.m.taobao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show
+https://guide-acs.m.taobao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads
 https://guide-acs.m.taobao.com/gw/mtop.ali.ad
+https://cn.alicdn.com/mcn/cainiao-score/*/index.js
+https://cn.alicdn.com/upload/gede/*/data.json
+https://cn-acs.m.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.*
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.*
+https://guide-acs.m.taobao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.*
 https://1244f00001-0.m.ctrmi.cn/t/ad2
 https://img3.doubanio.com/view/dale-online/dale_ad
 https://img1.doubanio.com/view/dale-online/dale_ad
@@ -354,7 +368,7 @@ https://c*.y.qq.com/musichall/fcgi-bin/3g_get_splash.fcg
 https://bd-api.kuwo.cn/api/*/advert/*
 https://bd-api.kuwo.cn/api/popup/start
 https://oss.umetrip.com/fs/advert
-https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow
+https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.mshow.cn
@@ -364,7 +378,6 @@ https://community-mtop.cainiao.com/gw/mtop.cainiao.guoguouser.live.activity.trig
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.show.cn/1.0
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show.v2.cn/1.0
-https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.guoguo.ads.expose.mreply.cn
 https://contentcenter-drcn.dbankcdn.cn/img/pub_17/pps_realtimeimage_100_1
 https://acs.m.goofish.com/gw/mtop.idle.idleadv.scene.restore
 https://vas-lf-x.snssdk.com/video/fplay
@@ -428,6 +441,8 @@ https://sns.amap.com/ws/msgbox/pull
 https://render-oss-cdn.amap.com/render/studio-dev/image
 https://m5.amap.com/ws/shield/dsp/app/startup
 https://m5.amap.com/ws/promote/main-page/assets
+https://pan.baidu.com/api/getconfig
+https://pan.baidu.com/api/getsyscfg
 https://newclient.map.baidu.com/client/crossmarketing
 https://newclient.map.baidu.com/client/usersystem/home/dynamic
 https://newclient.map.baidu.com/client/phpui2/?qt=ads
@@ -484,11 +499,7 @@ https://iyes.youku.com/uts/v1/start
 https://apiv4-iyes.youku.com/uts/v1/start
 https://api.gotokeep.com/ads
 https://api.gotokeep.com/ads/v1/ads/preload
-https://api.gotokeep.com/cauchy/growth/init
-https://api.gotokeep.com/cauchy/user/notice/growth/guide
 https://api.gotokeep.com/op-engine-webapp/v1/ad
-https://api.gotokeep.com/search/v1/default/keyword/list
-https://api.gotokeep.com/training/box/config
 https://app.dewu.com/api/v1/app/advertisement
 https://app.poizon.com/api/v1/app/advertisement
 https://home.mi.com/cgi-op/api/v1/recommendation/banner
@@ -695,7 +706,6 @@ https://pns.ximalaya.com/pns-portal/pns/startUp
 https://gn-web-assets.api.bbc.com/ngas/latest/dotcom-ads
 https://api.wfdata.club/v2/yesfeng/infoCenterAd
 https://api.wfdata.club/v1/yesfeng/infoCenterAd
-https://apimobile.meituan.com/dsp
 https://img.meituan.net/*/bizad/
 https://p0.meituan.net/*/bizad/
 https://p1.meituan.net/*/bizad/

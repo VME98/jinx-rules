@@ -369,7 +369,6 @@ gdfp.gifshow.com
 gemini.yahoo.com
 geo.yahoo.com
 getui.cn
-getui.com
 ggx.cmvideo.cn
 ggx01.miguvideo.com
 ggx03.miguvideo.com
@@ -996,7 +995,6 @@ lf-cdn-tos.bytescm.com.bytedns1.com
 lf-cdn-tos.bytescm.com.w.kunluncan.com
 tanx-creative.taobao.com
 qh-material.taobao.com
-awp-assets.meituan.net
 wpt-giant.vip.meituan.com
 cube.meituan.com
 prom-sdkv2.jysper.net
@@ -1692,6 +1690,13 @@ bla.gtimg.com
 t.funlinkads.com
 s.funlinkads.com
 alphas.adxvip.com
+dreport.meituan.net
+adgame.waimai.meituan.com
+meituancdn.cc
+al-log.dreport.meituan.net
+route-stats.dreport.meituan.net
+metrics-picture.dreport.meituan.net
+data-sdk-uuid-report.dreport.meituan.net
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
