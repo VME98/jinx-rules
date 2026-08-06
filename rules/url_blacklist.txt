@@ -156,6 +156,7 @@ https://upos-sz-staticcos.bilivideo.com/ssaxcode
 https://upos-sz-302ppio.bilivideo.com/ssaxcode
 https://upos-*.bilivideo.com/ssaxcode
 https://app.bilibili.com/x/v2/splash
+https://grpc.biliapi.net/bilibili.app.wall.v1.Wall/RuleInfo
 https://mall.bilibili.com/mall-c-search/app/config/all
 https://api.bilibili.com/x/vas_ads_open
 https://grpc.biliapi.net/bilibili.app.viewunite.v1.view/playpause
@@ -397,6 +398,7 @@ https://gatewayretry.kugou.com/vipenergy/v1/free_time_ad
 https://activity.kugou.com/getvips/*/static/js/@kg_uni-gdt-view-sdk
 https://h5.kugou.com/modal/*/static/js/@kg_gdt-
 https://h5.kugou.com/modal/*/static/js/@kg_uni-gdt-
+https://gatewayretry.kugou.com/ads.gateway/v4/mobile_splash
 https://3pp.starbucks.com.cn/wxmem/index/banner
 https://3pp.starbucks.com.cn/wxmem/popup
 https://ad.maoyan.com/api/position/detail
@@ -636,8 +638,6 @@ https://m.client.10010.com/mobileService/customer/get_startadv
 https://m.client.10010.com/getDataFromService?methodType=topAdGet
 https://m.client.10010.com/uniAdmsInterface/getHomePageAd
 https://m.client.10010.com/uniAdmsInterface/getWelcomeAd
-https://client.app.coc.10086.cn/biz-orange/DN/explorePage/getAdverList
-https://client.app.coc.10086.cn/biz-orange/DN/homepagePopup/
 https://m.sd.10086.cn/zapi/app_common/homeWelcome/welcome.do
 https://adm.10jqka.com.cn/interface/ad/recommend
 https://ftapi.10jqka.com.cn/futgwapi/api/om/v1/ad/common/transfer
@@ -729,10 +729,6 @@ https://ggic08.miguvideo.com/ad
 https://ggadoffline.miguvideo.com/invalidadunit/
 https://gginvasdk.miguvideo.com/invalidsdk/
 https://tnc*-*.zijieapi.com/get_domains/v*
-https://beta-luna.douyin.com/luna/me
-https://api5-lq.qishui.com/luna/me
-https://beta-luna.douyin.com/luna/feed/song-tab
-https://api5-lq.qishui.com/luna/feed/song-tab
 https://beta-luna.douyin.com/luna/card
 https://api5-lq.qishui.com/luna/card
 https://beta-luna.douyin.com/luna/more-panel
@@ -745,8 +741,6 @@ https://beta-luna.douyin.com/luna/ads/
 https://webcast-open.douyin.com/webcast/openapi/feed/
 https://beta-luna.douyin.com/luna/treasure/entrance/config
 https://api5-lq.qishui.com/luna/treasure/entrance/config
-https://beta-luna.douyin.com/luna/activities
-https://api5-lq.qishui.com/luna/activities
 https://beta-luna.douyin.com/luna/media_ads
 https://api5-lq.qishui.com/luna/media_ads
 https://beta-luna.douyin.com/luna/commerce/upsells

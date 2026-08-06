@@ -1,4 +1,3 @@
-raw.githubusercontent.com
 skynet.bilivideo.com
 shark.dianping.com
 zlink.ugsdk.cn
@@ -139,6 +138,7 @@ jsdelivr.net
 cdn.jsdelivr.net
 fastly.jsdelivr.net
 gcore.jsdelivr.net
+raw.githubusercontent.com
 github.com
 githubusercontent.com
 gitlab.com

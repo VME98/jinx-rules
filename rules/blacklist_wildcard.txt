@@ -37,6 +37,7 @@ mads*z.com
 n*adserv.com
 n*adserv.xyz
 prod.*.publishers.advertising.a2z.com
+ads*.zijieapi.com
 *.funlinkads.com
 ulog*.kwaipros.com
 ulog*.kwai-pro.com

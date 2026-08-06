@@ -91,6 +91,10 @@ ads3-normal-hl.zijieapi.com
 ads3-normal-lf.zijieapi.com
 ads3-normal-lq.zijieapi.com
 ads3-normal.zijieapi.com
+ads4-normal-hl.zijieapi.com
+ads4-normal-lf.zijieapi.com
+ads4-normal-lq.zijieapi.com
+ads4-normal.zijieapi.com
 ads5-normal-hl.zijieapi.com
 ads5-normal-lf.zijieapi.com
 ads5-normal-lq.zijieapi.com
@@ -986,7 +990,6 @@ lf-cdn-tos.bytescm.com.w.kunluncan.com
 tanx-creative.taobao.com
 qh-material.taobao.com
 wpt-giant.vip.meituan.com
-cube.meituan.com
 prom-sdkv2.jysper.net
 marketing-thh.meituan.com
 analytics.meituan.net
@@ -1483,6 +1486,7 @@ ad.mcloud.139.com
 ad.zhuanzhuan.com
 adserving-oss.bangdao-tech.com
 v6-novelapp-nxyd.fqnovelvod.com
+v11-novelapp-nxyd.fqnovelvod.com
 ad.bczcdn.com
 ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 adsdk.state.duoku.com
@@ -1680,6 +1684,13 @@ al-log.dreport.meituan.net
 route-stats.dreport.meituan.net
 metrics-picture.dreport.meituan.net
 data-sdk-uuid-report.dreport.meituan.net
+nbnestcreativecdn.cainiao.com
+tm.sigmob.cn
+api.ocpx.ydmob.com
+api.edimob.com
+sdk.dcksh.cn
+adx-svr.1rtb.com
+s.1rtb.net
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3585,7 +3596,6 @@ adx-sg-req.bridgeoos.com
 frontier100-toutiao-lf.fqnovel.com
 wxsnsdythumb.wxs.qq.com
 wxsnsdy.video.qq.com
-wximg.wxs.qq.com
 ad.weixin.qq.com
 as.weixin.qq.com
 aedns.weixin.qq.com
