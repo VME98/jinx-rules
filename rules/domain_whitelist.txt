@@ -3,13 +3,6 @@ shark.dianping.com
 zlink.ugsdk.cn
 praisewindow.ugsdk.cn
 mssdk3-normal-lf.zijieapi.com
-mssdk.zijieapi.com
-mssdk3-normal-lq.zijieapi.com
-polaris3-normal-lq.zijieapi.com
-polaris5-normal-lq.zijieapi.com
-saveu5-normal-lq.zijieapi.com
-tnc0-aliec2.zijieapi.com
-tnc0-alisc1.zijieapi.com
 static.biligame.net
 api-mayi.django.t.taobao.com
 umdc.alibabachengdun.com

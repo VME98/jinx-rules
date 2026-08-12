@@ -15,6 +15,10 @@ ad-*file.myqcloud.com
 *-ad.adbkwai.com
 *-ad.gskwai.com
 *-ad.adukwai.com
+v*-ad.ixigua.com
+v*-dc-ad.ixigua.com
+mon*-misc.fqnovel.com
+*log*-applog*.fqnovel.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com

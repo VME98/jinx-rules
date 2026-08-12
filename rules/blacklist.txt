@@ -1691,6 +1691,13 @@ api.edimob.com
 sdk.dcksh.cn
 adx-svr.1rtb.com
 s.1rtb.net
+e-stat.huya.com
+live-ads.huya.com
+iadmatvideo.nosdn.127.net
+iadmusicmat.music.163.com
+adweb.ximalaya.com
+linkeye.ximalaya.com
+adapi.ximalaya.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
