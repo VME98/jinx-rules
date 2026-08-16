@@ -69,7 +69,6 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
-https://mobilegw.alipay.com/mgw.htm
 https://i-lq.snssdk.com/api/ad/*
 https://i-hl.snssdk.com/api/ad/*
 https://reading-hl.snssdk.com/api/ad/*
