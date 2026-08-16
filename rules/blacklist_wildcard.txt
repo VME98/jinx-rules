@@ -19,6 +19,8 @@ v*-ad.ixigua.com
 v*-dc-ad.ixigua.com
 mon*-misc.fqnovel.com
 *log*-applog*.fqnovel.com
+*-be-pack-sign.pglstatp-toutiao.com
+dm-*.toutiao.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com

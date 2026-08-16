@@ -853,6 +853,9 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
+wximg.wxs.qq.com
+wxsmw.wxs.qq.com
+finderad.video.qq.com
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
@@ -1698,6 +1701,10 @@ iadmusicmat.music.163.com
 adweb.ximalaya.com
 linkeye.ximalaya.com
 adapi.ximalaya.com
+h-adashx4id.ut.taobao.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

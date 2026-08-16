@@ -233,7 +233,6 @@ mesu.apple.com
 mihoyo.com
 mssdk.volces.com.queniusz.com
 sysdk.cl2009.com
-i.snssdk.com
 is.snssdk.com
 polaris.zijieapi.com
 klink.volceapplog.com

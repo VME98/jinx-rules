@@ -69,6 +69,10 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://mobilegw.alipay.com/mgw.htm
+https://i-lq.snssdk.com/api/ad/*
+https://i-hl.snssdk.com/api/ad/*
+https://reading-hl.snssdk.com/api/ad/*
 https://huyaimg.msstatic.com/cdnimage/roomad
 https://mp.weixin.qq.com/mp/getappmsgad
 https://mp.weixin.qq.com/mp/ad_biz_info?__biz=
@@ -77,10 +81,6 @@ https://*.wxs.qq.com/*/ads*
 https://wxs-weixin.sd.zhumanggroup.com/api/v2/ad
 https://hkj178.com/wp-json/mp/v2/advert/wechat
 https://i.snssdk.com/api/ad/*
-https://i-lq.snssdk.com/api/ad/*
-https://i-hl.snssdk.com/api/ad/*
-https://reading-hl.snssdk.com/api/ad/*
-https://*.pstatp.com/obj/mosaic-legacy/*?from=ad*
 https://app.zhuanzhuan.com/zz/v2/zzlogic/getopenscreen
 https://ytmsout.radio.cn/publish/recScreen/getLoadPage
 http://mercury-gateway.ixiaochuan.cn/mercury/v1/ad/*
@@ -122,6 +122,10 @@ https://ossgw.alicdn.com/ad/
 https://tmall.com/ad/
 https://amap.com/ad/
 https://alibaba.com/ad/
+https://m5.amap.com/ws/asa/ads
+https://acs.m.taobao.com/gw/mtop.alimama.abyss.unionpage.get
+https://acs.m.taobao.com/gw/mtop.cainiao.adx.flyad.getad
+https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.nbcps.presentation.fetch.cn
 https://qwhdcdn.cmcc-cs.cn/prd-mgcenter
 https://api-one-wscn.awtmt.com/apiv1/advertising
 https://m.ctrip.com/*/tripAds
@@ -188,6 +192,7 @@ https://acs.m.goofish.com/gw/mtop.taobao.idle.rule.config
 https://acs.m.goofish.com/gw/mtop.taobao.baichuan.afc.get
 https://acs.m.taobao.com/gw/mtop.taobao.baichuan.afc.linkinforapidly
 https://acs.m.taobao.com/gw/mtop.idle.idleadv.app.launch.report
+https://acs.m.taobao.com/gw/mtop.common.gettimestamp
 https://mdike.alicdn.com/12431167-1709694392483-0.json
 https://acs.m.taobao.com/gw/mtop.taobao.wireless.home.splash
 https://acs.m.taobao.com/gw/mtop.alimarket.splash
@@ -447,11 +452,14 @@ https://wmapi.meituan.com/api/v7/loadInfo
 https://peisongapi.meituan.com/client/getInitiateImage
 https://amap-aos-info-nogw.amap.com/ws/aos/alimama/splash_screen
 https://amap-aos-info-nogw.amap.com/ws/aos/alimama
-https://m5.amap.com/ws/valueadded
 https://sns.amap.com/ws/msgbox/pull
 https://render-oss-cdn.amap.com/render/studio-dev/image
 https://m5.amap.com/ws/shield/dsp/app/startup
+https://m5.amap.com/ws/aos/alimama
 https://m5.amap.com/ws/promote/main-page/assets
+https://m5.amap.com/ws/valueadded/alimama/splash_screen
+https://m5.amap.com/ws/shield/dsp/profile/index/nodefaas
+https://*.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads
 https://pan.baidu.com/api/getconfig
 https://pan.baidu.com/api/getsyscfg
 https://newclient.map.baidu.com/client/crossmarketing
@@ -656,7 +664,6 @@ https://bbs-api.miyoushe.com/apihub/api/getAppSplash
 https://gameapi.hellobike.com/api
 https://cap.caocaokeji.cn/advert-bss
 https://minicap.caocaokeji.cn/advert-bss/pullAdvert
-https://passenger.t3go.cn/passenger-activity-api/notoken/api/v1/resource/getSource
 https://gw-passenger-wap.01zhuanche.com/gw-passenger-wap/zhuanche-passenger-token/commonSkipToken/common/getAdList
 https://gw-passenger.01zhuanche.com/gw-passenger/zhuanche-passengerController/notk/passenger/recommendADs
 https://news.ssp.qq.com/app
