@@ -41,6 +41,8 @@ pitaya.bytedance.com
 user.jpush.cn
 user-ipv6.jpush.cn
 cm-10-186.getui.com
+cm-10-*.getui.com
+cmyd-10-*.getui.com
 ossp.voicecloud.cn
 s3.voicecloud.cn
 s5.voicecloud.cn

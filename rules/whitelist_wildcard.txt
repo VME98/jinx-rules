@@ -1,3 +1,5 @@
+cm-10-*.getui.com
+cmyd-10-*.getui.com
 *.duolingo.com
 *.icloud.com
 *.gcloudcs.com

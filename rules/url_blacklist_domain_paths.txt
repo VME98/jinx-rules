@@ -54,6 +54,9 @@ https://m5.amap.com/ws/asa/ads
 https://acs.m.taobao.com/gw/mtop.alimama.abyss.unionpage.get
 https://acs.m.taobao.com/gw/mtop.cainiao.adx.flyad.getad
 https://netflow-reply-mtop.cainiao.com/gw/mtop.cainiao.nbcps.presentation.fetch.cn
+https://m5.amap.com/ws/faas/amap-navigation/main-page-assets
+https://m5.amap.com/ws/shield/search_poi/tips_adv
+https://m5.amap.com/ws/feature/preheat/bootevent
 https://qwhdcdn.cmcc-cs.cn/prd-mgcenter
 https://api-one-wscn.awtmt.com/apiv1/advertising
 https://m.ctrip.com/*/tripAds
@@ -311,6 +314,8 @@ https://music.y.qq.com/maproxy/getpbcompressad
 https://c*.y.qq.com/musichall/fcgi-bin/3g_get_splash.fcg
 https://bd-api.kuwo.cn/api/*/advert/*
 https://bd-api.kuwo.cn/api/popup/start
+https://y.gtimg.cn/music/common/upload/t_splash_info
+https://y.gtimg.cn/music/common/upload/targeted_ads
 https://oss.umetrip.com/fs/advert
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads
 https://netflow-mtop.cainiao.com/gw/mtop.cainiao.guoguo.nbnetflow.ads.batch.show
@@ -498,6 +503,7 @@ https://api.douban.com/v2/app_ads/splash
 https://api.douban.com/v2/app_ads/splash_show
 https://api.douban.com/v2/app_ads/splash_preload
 https://goblin.hupu.com/interfaceAd/getOther
+https://api.xiachufang.com/v*/ad/
 https://api.zhuishushenqi.com/advert
 https://api.zhuishushenqi.com/splashes/ios
 https://b.zhuishushenqi.com/advert

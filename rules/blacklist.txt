@@ -1022,7 +1022,6 @@ access.toggle.qq.com
 jsb.zijieapi.com
 gatherer.m.qq.com
 orange-dc.m.taobao.com
-atoken.m.taobao.com
 goofish.mtop.tengine.ingress.alibabacorp.com.gds.alibabadns.com
 i.snssdk.com
 lf.snssdk.com
@@ -1705,6 +1704,12 @@ h-adashx4id.ut.taobao.com
 p3-ad-sign.byteimg.com
 p6-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com
+dspad.51wnl-cq.com
+df.tanx.com
+tmeadbak.y.qq.com
+yfan-dsp.tos-cn-shanghai.volces.com
+cdn.51tuiyi.com
+api.sogaha.cn
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
