@@ -1121,7 +1121,6 @@ gwm.taobao.com
 i.qchannel03.cn
 image.uczzd.cn
 inews.gtimg.com.sched.legopic2-dk.tdnsv6.com
-ios.rqd.qq.com
 live-ad.jd.com
 log.mmstat.com
 log.p3-sign.douyinpic.com
@@ -1733,6 +1732,18 @@ tmeadbak.y.qq.com
 yfan-dsp.tos-cn-shanghai.volces.com
 cdn.51tuiyi.com
 api.sogaha.cn
+creative.bxsnews.com
+*.shturl.cc
+*.pangle.io
+*.toutiaoad.com
+*.gdt.qq.com
+*.pgdt.gtimg.cn
+adx.babytree.com
+adx.yg84.com
+adx.*.com
+ssp.yg84.com
+i-lq.snssdk.com
+i-hl.snssdk.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3762,7 +3773,6 @@ adcdn*.tencentmusic.com
 *.ad.alibabacorp.*
 *.tianmu.*
 *.yingt.asia
-*.gdt.qq.com
 *.ad.tengine.*
 tao.ad.cn.*
 h-adashx.ut.*

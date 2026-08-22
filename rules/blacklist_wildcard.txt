@@ -21,6 +21,12 @@ mon*-misc.fqnovel.com
 *log*-applog*.fqnovel.com
 *-be-pack-sign.pglstatp-toutiao.com
 dm-*.toutiao.com
+*.shturl.cc
+*.pangle.io
+*.toutiaoad.com
+*.gdt.qq.com
+*.pgdt.gtimg.cn
+adx.*.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com
@@ -138,7 +144,6 @@ adcdn*.tencentmusic.com
 *.ad.alibabacorp.*
 *.tianmu.*
 *.yingt.asia
-*.gdt.qq.com
 *.ad.tengine.*
 tao.ad.cn.*
 h-adashx.ut.*
