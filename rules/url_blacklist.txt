@@ -69,6 +69,8 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://inner.hzzfcm.com/ad
+https://inner.hzzfcm.com/ad2
 https://api.babytree.com/api/mobile_activity/screen
 https://go.babytree.com/go_adplat/api/ad
 https://go.babytree.com/go_pregnancy/api/index_activity/get_app_index_activity

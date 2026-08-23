@@ -1745,6 +1745,8 @@ adx.*.com
 ssp.yg84.com
 i-lq.snssdk.com
 i-hl.snssdk.com
+p3-pack.byteimg.com
+p6-pack.byteimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
