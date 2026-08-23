@@ -1,9 +1,7 @@
-rmonitor.qq.com
 skynet.bilivideo.com
 shark.dianping.com
 zlink.ugsdk.cn
 praisewindow.ugsdk.cn
-mssdk3-normal-lf.zijieapi.com
 static.biligame.net
 api-mayi.django.t.taobao.com
 umdc.alibabachengdun.com

@@ -1121,6 +1121,7 @@ gwm.taobao.com
 i.qchannel03.cn
 image.uczzd.cn
 inews.gtimg.com.sched.legopic2-dk.tdnsv6.com
+ios.rqd.qq.com
 live-ad.jd.com
 log.mmstat.com
 log.p3-sign.douyinpic.com
