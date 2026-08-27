@@ -27,6 +27,8 @@ dm-*.toutiao.com
 *.gdt.qq.com
 *.pgdt.gtimg.cn
 adx.*.com
+pangolin*
+jad-api.*.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com
@@ -190,7 +192,7 @@ popunify-public-dualstack.*
 *.smaato.*
 *.statisticslinks.com
 pangolin-sdk.*
-pangolin-sdk-toutiao.*/
+pangolin-sdk-toutiao.*
 pangolin-sdk-toutiao1.*
 pglstatp-toutiao.*
 ads*-normal.amemv.com

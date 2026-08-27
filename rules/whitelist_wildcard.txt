@@ -18,9 +18,6 @@ cmyd-10-*.getui.com
 *.githubusercontent.com
 *.shouji.sougou.com
 *.queniucf.com
-*.queniuiq.com
-*.queniusz.com
-*.queniubh.com
 *.wscdns.com
 *.wswebcdn.com
 *.wsdvs.com

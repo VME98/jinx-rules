@@ -301,9 +301,6 @@ dgw.c10r.facebook.com
 *.githubusercontent.com
 *.shouji.sougou.com
 *.queniucf.com
-*.queniuiq.com
-*.queniusz.com
-*.queniubh.com
 *.wscdns.com
 *.wswebcdn.com
 *.wsdvs.com

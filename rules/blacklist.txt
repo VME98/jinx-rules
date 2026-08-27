@@ -1718,6 +1718,16 @@ i-lq.snssdk.com
 i-hl.snssdk.com
 p3-pack.byteimg.com
 p6-pack.byteimg.com
+pangolin.snssdk.com
+pangolin-hl.snssdk.com
+pangolin-lf.snssdk.com
+pangolin-lq.snssdk.com
+pangolin16.isnssdk.com
+pangolin16.sgsnssdk.com
+tnc16-alisg.isnssdk.com
+tnc16-useast1a.isnssdk.com
+smartbidx.adx.cn
+dsp-tos.mongac.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
