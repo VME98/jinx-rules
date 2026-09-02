@@ -863,7 +863,6 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
-wximg.wxs.qq.com
 wxsmw.wxs.qq.com
 finderad.video.qq.com
 wxsnsad.tc.qq.com
@@ -1759,6 +1758,7 @@ pangolin*
 smartbidx.adx.cn
 dsp-tos.mongac.com
 jad-api.*.com
+union.gdtimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
@@ -3724,7 +3724,6 @@ wxsnsdy.*
 *.adxiuqia.com
 *.advast.cn
 *.adloop.cn
-p*-webcast-sign.douyinpic.com
 ads*-normal-*.zijieapi.com
 mon*-misc-*.fqnovel.com
 *.dahhxxttxs.com

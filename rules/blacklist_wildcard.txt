@@ -82,7 +82,6 @@ wxsnsdy.*
 *.adxiuqia.com
 *.advast.cn
 *.adloop.cn
-p*-webcast-sign.douyinpic.com
 ads*-normal-*.zijieapi.com
 mon*-misc-*.fqnovel.com
 *.dahhxxttxs.com

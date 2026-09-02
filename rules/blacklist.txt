@@ -853,7 +853,6 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
-wximg.wxs.qq.com
 wxsmw.wxs.qq.com
 finderad.video.qq.com
 wxsnsad.tc.qq.com
@@ -1728,6 +1727,7 @@ tnc16-alisg.isnssdk.com
 tnc16-useast1a.isnssdk.com
 smartbidx.adx.cn
 dsp-tos.mongac.com
+union.gdtimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

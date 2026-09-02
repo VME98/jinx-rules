@@ -69,6 +69,11 @@
 /opening_ad/
 /welcome_ad/
 /iflyad/deliverysystem/material/
+https://mbank.bankofbbg.com/newapp/api/precisionMarketing/getAds
+https://api.yunxish.com/v5/json
+https://www.cls.cn/v2/web/ad
+https://api3.cls.cn/v2/web/ad
+https://m.meitun.com/newapi/router/cms/advertise
 https://api.dongdianqiu.com/*/startup/app/config/launch
 https://voc.dongdianqiu.com/app/adconfig
 https://cjjl.chelun.com/sys/adcontrol
@@ -174,7 +179,6 @@ https://m5-x.amap.com/ws/faas/amap-navigation/main-page-assets
 https://m5-x.amap.com/ws/shield/search_poi/tips_adv
 https://m5-x.amap.com/ws/feature/preheat/bootevent
 https://m5.amap.com/ws/shield/scene/recommend
-https://qwhdcdn.cmcc-cs.cn/prd-mgcenter
 https://api-one-wscn.awtmt.com/apiv1/advertising
 https://m.ctrip.com/*/tripAds
 https://m.ctrip.com/*/ad
@@ -725,7 +729,6 @@ https://m.client.10010.com/mobileService/customer/get_startadv
 https://m.client.10010.com/getDataFromService?methodType=topAdGet
 https://m.client.10010.com/uniAdmsInterface/getHomePageAd
 https://m.client.10010.com/uniAdmsInterface/getWelcomeAd
-https://res.app.coc.10086.cn/qwhdcdn_cmcc-cs_cn/prd-mgcenter
 https://m.sd.10086.cn/zapi/app_common/homeWelcome/welcome.do
 https://adm.10jqka.com.cn/interface/ad/recommend
 https://ftapi.10jqka.com.cn/futgwapi/api/om/v1/ad/common/transfer
