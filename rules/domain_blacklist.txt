@@ -863,6 +863,7 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
+wximg.wxs.qq.com
 wxsmw.wxs.qq.com
 finderad.video.qq.com
 wxsnsad.tc.qq.com
