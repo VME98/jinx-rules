@@ -1728,6 +1728,15 @@ tnc16-useast1a.isnssdk.com
 smartbidx.adx.cn
 dsp-tos.mongac.com
 union.gdtimg.com
+dsp.toutiao.com
+ads-union.jd.com
+bdsp-x.jd.com
+adsmind.apdcdn.tc.qq.com
+adsmind.tc.qq.com
+xj-landing.gdtimg.com
+adstextview.qq.com
+op.ssp.qq.com
+x.adnet.qq.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

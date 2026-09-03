@@ -1,3 +1,4 @@
+*-rmbsync-upaas.quark.cn
 cm-10-*.getui.com
 cmyd-10-*.getui.com
 *.duolingo.com

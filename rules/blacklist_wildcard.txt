@@ -29,6 +29,7 @@ dm-*.toutiao.com
 adx.*.com
 pangolin*
 jad-api.*.com
+c-hzgt*.getui.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com

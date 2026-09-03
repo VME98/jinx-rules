@@ -1,3 +1,5 @@
+ucus.ucweb.com
+*-rmbsync-upaas.quark.cn
 skynet.bilivideo.com
 shark.dianping.com
 zlink.ugsdk.cn
@@ -190,7 +192,6 @@ ido.getui.net
 ido.gepush.com
 c-ido.getui.net
 c-ido.gepush.com
-c-hzgt2.getui.com
 c-oneid.gepush.com
 oneid.gepush.com
 oneid.getui.net
