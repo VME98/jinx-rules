@@ -863,8 +863,10 @@ win.gdt.qq.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
+wxa.wxs.qq.com
 wximg.wxs.qq.com
 wxsmw.wxs.qq.com
+*.wxs.qq.com
 finderad.video.qq.com
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
@@ -1770,6 +1772,9 @@ xj-landing.gdtimg.com
 adstextview.qq.com
 op.ssp.qq.com
 x.adnet.qq.com
+inner-empty.shunchangzhixing.com
+api-dsp.8ziben.com
+dsp.edm.weibo.cn
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com

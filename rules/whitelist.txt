@@ -171,7 +171,6 @@ xmaterial.tu.qq.com
 qnmob3.doubanio.com
 api.vip.miui.com
 cnbj1.fds.api.xiaomi.com
-gateway.kugou.com
 mpaywsa.ximalaya.com
 apm-native.xiaohongshu.com
 stat6.y.qq.com
