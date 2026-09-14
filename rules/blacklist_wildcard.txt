@@ -31,6 +31,7 @@ adx.*.com
 pangolin*
 jad-api.*.com
 c-hzgt*.getui.com
+v*-dcar-ad.dcarvod.com
 admicro*.vcmedia.vn
 log-*.zadn.vn
 ad-host-backup-*.*.aliyuncs.com

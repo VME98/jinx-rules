@@ -1742,6 +1742,9 @@ x.adnet.qq.com
 inner-empty.shunchangzhixing.com
 api-dsp.8ziben.com
 dsp.edm.weibo.cn
+bv.brg0.com
+udd1i5.zhihu.com
+zhihu.xmcimg.com
 24h-ad.24hstatic.com
 24h-ipad-ad.24hstatic.com
 ad-us.24hstatic.com
