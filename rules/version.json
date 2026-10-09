@@ -1,22 +1,27 @@
 {
-  "version": "3.2.0",
-  "lastUpdate": "2026-10-09T09:40:19Z",
+  "version": "3.2.1",
+  "lastUpdate": "2026-10-09T11:35:12Z",
   "domainBlacklistCount": 3900,
   "domainWhitelistCount": 328,
   "urlBlacklistCount": 1040,
   "urlWhitelistCount": 21,
   "mitmSkipDomainsCount": 33,
   "rewrite": {
-    "version": "1.0.0",
+    "version": "1.2.0",
     "schemaVersion": 1,
-    "file": "rewrite.4f4c94ab9dcf97c7218c60c957ba9229078fdfcb40b4ec5630453f67f5367a26.json",
-    "bytes": 114,
-    "sha256": "4f4c94ab9dcf97c7218c60c957ba9229078fdfcb40b4ec5630453f67f5367a26",
-    "requires": [],
+    "file": "rewrite.31b55f1bcd8e79aa03bd44b6861c29e883a9d330bae70a9415779dd969e8c210.json",
+    "bytes": 36649,
+    "sha256": "31b55f1bcd8e79aa03bd44b6861c29e883a9d330bae70a9415779dd969e8c210",
+    "requires": [
+      "body.limit.2m",
+      "json.filter",
+      "json.remove",
+      "json.set"
+    ],
     "catalog": {
-      "file": "rewrite_catalog.bf126ac88f7f71f9e176474bd5368963c62f9a5e03c0a2677f343cd8d427a85b.json",
-      "bytes": 264,
-      "sha256": "bf126ac88f7f71f9e176474bd5368963c62f9a5e03c0a2677f343cd8d427a85b"
+      "file": "rewrite_catalog.a7a72093c10bd490efd52e70f5a19c80f7ac2c42622cc10945281f51325eadf3.json",
+      "bytes": 23012,
+      "sha256": "a7a72093c10bd490efd52e70f5a19c80f7ac2c42622cc10945281f51325eadf3"
     }
   }
 }
