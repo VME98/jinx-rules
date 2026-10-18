@@ -29,7 +29,6 @@ cmyd-10-*.getui.com
 *.wagbridge.alsc-prd.tanx.com
 *.bcelive.com
 *.jomodns.com
-*.cdnhwc2.com
 *.cdnhwc3.com
 *.cdnhwczba04.com
 *.ks-cdn.com

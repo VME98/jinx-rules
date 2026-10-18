@@ -102,7 +102,6 @@ szlong.weixin.qq.com
 fairplay.l.qq.com
 lives.l.qq.com
 livep2.l.qq.com
-p.l.qq.com
 stun.qqlive.qq.com
 punch.p2p.qq.com
 v6-accvideo.wns.qq.com
@@ -201,7 +200,6 @@ b-phonev6.getui.net
 gy.getui.net
 gy.gepush.com
 achievement.dbankcloud.cn
-aedns.weixin.qq.com
 amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
 amp-api-search-edge.apps.apple.com
@@ -269,7 +267,6 @@ www.coolapk.com
 xmcdn.com
 xmly.com
 miniapp.bilibili.com
-httpdns.bilivideo.com
 crash.xiaohongshu.com
 wbox.sinaimg.cn
 seeds-sina.xycdn.com
